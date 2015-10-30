@@ -1,0 +1,1439 @@
+Found a total of 23 taxa in first tree of tree collection /lhome/lkobertkn/Dropbox/ICTC/Data/ALEXIS_selected/concat_selected_bestTree.tre
+Expecting all remaining trees in collection to have the same taxon set
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.1.20 released by Alexandros Stamatakis on April 18 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+RAxML IC and TC score Computation: Computing IC and TC scores induced by trees in file /lhome/lkobertkn/Dropbox/ICTC/Data/ALEXIS_selected/concat_selected_bestTree.tre w.r.t. tree in file /lhome/lkobertkn/Dropbox/ICTC/Data/LeonidasOneTree.tre
+
+
+RAxML was called as follows:
+
+./raxmlHPC-AVX -f i -t /lhome/lkobertkn/Dropbox/ICTC/Data/LeonidasOneTree.tre -z /lhome/lkobertkn/Dropbox/ICTC/Data/ALEXIS_selected/concat_selected_bestTree.tre -p 1224 -m GTRCAT -n TEST019 
+
+
+
+
+Found 1 tree in File /lhome/lkobertkn/Dropbox/ICTC/Data/LeonidasOneTree.tre
+
+
+
+Found 1218 trees in File /lhome/lkobertkn/Dropbox/ICTC/Data/ALEXIS_selected/concat_selected_bestTree.tre
+
+Tree 0: found 10 taxa, reference tree has 23 taxa
+Tree 1: found 10 taxa, reference tree has 23 taxa
+Tree 2: found 10 taxa, reference tree has 23 taxa
+Tree 3: found 10 taxa, reference tree has 23 taxa
+Tree 4: found 10 taxa, reference tree has 23 taxa
+Tree 5: found 10 taxa, reference tree has 23 taxa
+Tree 6: found 10 taxa, reference tree has 23 taxa
+Tree 7: found 10 taxa, reference tree has 23 taxa
+Tree 8: found 10 taxa, reference tree has 23 taxa
+Tree 9: found 10 taxa, reference tree has 23 taxa
+Tree 10: found 10 taxa, reference tree has 23 taxa
+Tree 11: found 10 taxa, reference tree has 23 taxa
+Tree 12: found 10 taxa, reference tree has 23 taxa
+Tree 13: found 10 taxa, reference tree has 23 taxa
+Tree 14: found 10 taxa, reference tree has 23 taxa
+Tree 15: found 10 taxa, reference tree has 23 taxa
+Tree 16: found 10 taxa, reference tree has 23 taxa
+Tree 17: found 11 taxa, reference tree has 23 taxa
+Tree 18: found 11 taxa, reference tree has 23 taxa
+Tree 19: found 11 taxa, reference tree has 23 taxa
+Tree 20: found 11 taxa, reference tree has 23 taxa
+Tree 21: found 11 taxa, reference tree has 23 taxa
+Tree 22: found 11 taxa, reference tree has 23 taxa
+Tree 23: found 11 taxa, reference tree has 23 taxa
+Tree 24: found 11 taxa, reference tree has 23 taxa
+Tree 25: found 11 taxa, reference tree has 23 taxa
+Tree 26: found 11 taxa, reference tree has 23 taxa
+Tree 27: found 11 taxa, reference tree has 23 taxa
+Tree 28: found 11 taxa, reference tree has 23 taxa
+Tree 29: found 11 taxa, reference tree has 23 taxa
+Tree 30: found 11 taxa, reference tree has 23 taxa
+Tree 31: found 11 taxa, reference tree has 23 taxa
+Tree 32: found 11 taxa, reference tree has 23 taxa
+Tree 33: found 11 taxa, reference tree has 23 taxa
+Tree 34: found 11 taxa, reference tree has 23 taxa
+Tree 35: found 11 taxa, reference tree has 23 taxa
+Tree 36: found 11 taxa, reference tree has 23 taxa
+Tree 37: found 11 taxa, reference tree has 23 taxa
+Tree 38: found 11 taxa, reference tree has 23 taxa
+Tree 39: found 11 taxa, reference tree has 23 taxa
+Tree 40: found 11 taxa, reference tree has 23 taxa
+Tree 41: found 11 taxa, reference tree has 23 taxa
+Tree 42: found 11 taxa, reference tree has 23 taxa
+Tree 43: found 11 taxa, reference tree has 23 taxa
+Tree 44: found 11 taxa, reference tree has 23 taxa
+Tree 45: found 11 taxa, reference tree has 23 taxa
+Tree 46: found 11 taxa, reference tree has 23 taxa
+Tree 47: found 11 taxa, reference tree has 23 taxa
+Tree 48: found 11 taxa, reference tree has 23 taxa
+Tree 49: found 11 taxa, reference tree has 23 taxa
+Tree 50: found 11 taxa, reference tree has 23 taxa
+Tree 51: found 11 taxa, reference tree has 23 taxa
+Tree 52: found 11 taxa, reference tree has 23 taxa
+Tree 53: found 11 taxa, reference tree has 23 taxa
+Tree 54: found 11 taxa, reference tree has 23 taxa
+Tree 55: found 11 taxa, reference tree has 23 taxa
+Tree 56: found 11 taxa, reference tree has 23 taxa
+Tree 57: found 11 taxa, reference tree has 23 taxa
+Tree 58: found 11 taxa, reference tree has 23 taxa
+Tree 59: found 11 taxa, reference tree has 23 taxa
+Tree 60: found 11 taxa, reference tree has 23 taxa
+Tree 61: found 11 taxa, reference tree has 23 taxa
+Tree 62: found 11 taxa, reference tree has 23 taxa
+Tree 63: found 11 taxa, reference tree has 23 taxa
+Tree 64: found 11 taxa, reference tree has 23 taxa
+Tree 65: found 11 taxa, reference tree has 23 taxa
+Tree 66: found 11 taxa, reference tree has 23 taxa
+Tree 67: found 11 taxa, reference tree has 23 taxa
+Tree 68: found 11 taxa, reference tree has 23 taxa
+Tree 69: found 11 taxa, reference tree has 23 taxa
+Tree 70: found 11 taxa, reference tree has 23 taxa
+Tree 71: found 11 taxa, reference tree has 23 taxa
+Tree 72: found 11 taxa, reference tree has 23 taxa
+Tree 73: found 11 taxa, reference tree has 23 taxa
+Tree 74: found 11 taxa, reference tree has 23 taxa
+Tree 75: found 11 taxa, reference tree has 23 taxa
+Tree 76: found 11 taxa, reference tree has 23 taxa
+Tree 77: found 12 taxa, reference tree has 23 taxa
+Tree 78: found 12 taxa, reference tree has 23 taxa
+Tree 79: found 12 taxa, reference tree has 23 taxa
+Tree 80: found 12 taxa, reference tree has 23 taxa
+Tree 81: found 12 taxa, reference tree has 23 taxa
+Tree 82: found 12 taxa, reference tree has 23 taxa
+Tree 83: found 12 taxa, reference tree has 23 taxa
+Tree 84: found 12 taxa, reference tree has 23 taxa
+Tree 85: found 12 taxa, reference tree has 23 taxa
+Tree 86: found 12 taxa, reference tree has 23 taxa
+Tree 87: found 12 taxa, reference tree has 23 taxa
+Tree 88: found 12 taxa, reference tree has 23 taxa
+Tree 89: found 12 taxa, reference tree has 23 taxa
+Tree 90: found 12 taxa, reference tree has 23 taxa
+Tree 91: found 12 taxa, reference tree has 23 taxa
+Tree 92: found 12 taxa, reference tree has 23 taxa
+Tree 93: found 12 taxa, reference tree has 23 taxa
+Tree 94: found 12 taxa, reference tree has 23 taxa
+Tree 95: found 12 taxa, reference tree has 23 taxa
+Tree 96: found 12 taxa, reference tree has 23 taxa
+Tree 97: found 12 taxa, reference tree has 23 taxa
+Tree 98: found 12 taxa, reference tree has 23 taxa
+Tree 99: found 12 taxa, reference tree has 23 taxa
+Tree 100: found 12 taxa, reference tree has 23 taxa
+Tree 101: found 12 taxa, reference tree has 23 taxa
+Tree 102: found 12 taxa, reference tree has 23 taxa
+Tree 103: found 12 taxa, reference tree has 23 taxa
+Tree 104: found 12 taxa, reference tree has 23 taxa
+Tree 105: found 12 taxa, reference tree has 23 taxa
+Tree 106: found 12 taxa, reference tree has 23 taxa
+Tree 107: found 12 taxa, reference tree has 23 taxa
+Tree 108: found 12 taxa, reference tree has 23 taxa
+Tree 109: found 12 taxa, reference tree has 23 taxa
+Tree 110: found 12 taxa, reference tree has 23 taxa
+Tree 111: found 12 taxa, reference tree has 23 taxa
+Tree 112: found 12 taxa, reference tree has 23 taxa
+Tree 113: found 12 taxa, reference tree has 23 taxa
+Tree 114: found 12 taxa, reference tree has 23 taxa
+Tree 115: found 12 taxa, reference tree has 23 taxa
+Tree 116: found 12 taxa, reference tree has 23 taxa
+Tree 117: found 12 taxa, reference tree has 23 taxa
+Tree 118: found 12 taxa, reference tree has 23 taxa
+Tree 119: found 12 taxa, reference tree has 23 taxa
+Tree 120: found 12 taxa, reference tree has 23 taxa
+Tree 121: found 11 taxa, reference tree has 23 taxa
+Tree 122: found 12 taxa, reference tree has 23 taxa
+Tree 123: found 12 taxa, reference tree has 23 taxa
+Tree 124: found 12 taxa, reference tree has 23 taxa
+Tree 125: found 12 taxa, reference tree has 23 taxa
+Tree 126: found 12 taxa, reference tree has 23 taxa
+Tree 127: found 12 taxa, reference tree has 23 taxa
+Tree 128: found 12 taxa, reference tree has 23 taxa
+Tree 129: found 12 taxa, reference tree has 23 taxa
+Tree 130: found 12 taxa, reference tree has 23 taxa
+Tree 131: found 12 taxa, reference tree has 23 taxa
+Tree 132: found 12 taxa, reference tree has 23 taxa
+Tree 133: found 12 taxa, reference tree has 23 taxa
+Tree 134: found 12 taxa, reference tree has 23 taxa
+Tree 135: found 12 taxa, reference tree has 23 taxa
+Tree 136: found 12 taxa, reference tree has 23 taxa
+Tree 137: found 12 taxa, reference tree has 23 taxa
+Tree 138: found 12 taxa, reference tree has 23 taxa
+Tree 139: found 12 taxa, reference tree has 23 taxa
+Tree 140: found 13 taxa, reference tree has 23 taxa
+Tree 141: found 13 taxa, reference tree has 23 taxa
+Tree 142: found 13 taxa, reference tree has 23 taxa
+Tree 143: found 13 taxa, reference tree has 23 taxa
+Tree 144: found 13 taxa, reference tree has 23 taxa
+Tree 145: found 13 taxa, reference tree has 23 taxa
+Tree 146: found 13 taxa, reference tree has 23 taxa
+Tree 147: found 13 taxa, reference tree has 23 taxa
+Tree 148: found 13 taxa, reference tree has 23 taxa
+Tree 149: found 13 taxa, reference tree has 23 taxa
+Tree 150: found 13 taxa, reference tree has 23 taxa
+Tree 151: found 13 taxa, reference tree has 23 taxa
+Tree 152: found 13 taxa, reference tree has 23 taxa
+Tree 153: found 13 taxa, reference tree has 23 taxa
+Tree 154: found 13 taxa, reference tree has 23 taxa
+Tree 155: found 13 taxa, reference tree has 23 taxa
+Tree 156: found 13 taxa, reference tree has 23 taxa
+Tree 157: found 13 taxa, reference tree has 23 taxa
+Tree 158: found 13 taxa, reference tree has 23 taxa
+Tree 159: found 13 taxa, reference tree has 23 taxa
+Tree 160: found 13 taxa, reference tree has 23 taxa
+Tree 161: found 13 taxa, reference tree has 23 taxa
+Tree 162: found 12 taxa, reference tree has 23 taxa
+Tree 163: found 13 taxa, reference tree has 23 taxa
+Tree 164: found 13 taxa, reference tree has 23 taxa
+Tree 165: found 13 taxa, reference tree has 23 taxa
+Tree 166: found 13 taxa, reference tree has 23 taxa
+Tree 167: found 13 taxa, reference tree has 23 taxa
+Tree 168: found 13 taxa, reference tree has 23 taxa
+Tree 169: found 13 taxa, reference tree has 23 taxa
+Tree 170: found 13 taxa, reference tree has 23 taxa
+Tree 171: found 13 taxa, reference tree has 23 taxa
+Tree 172: found 13 taxa, reference tree has 23 taxa
+Tree 173: found 13 taxa, reference tree has 23 taxa
+Tree 174: found 13 taxa, reference tree has 23 taxa
+Tree 175: found 13 taxa, reference tree has 23 taxa
+Tree 176: found 13 taxa, reference tree has 23 taxa
+Tree 177: found 13 taxa, reference tree has 23 taxa
+Tree 178: found 13 taxa, reference tree has 23 taxa
+Tree 179: found 13 taxa, reference tree has 23 taxa
+Tree 180: found 13 taxa, reference tree has 23 taxa
+Tree 181: found 13 taxa, reference tree has 23 taxa
+Tree 182: found 13 taxa, reference tree has 23 taxa
+Tree 183: found 13 taxa, reference tree has 23 taxa
+Tree 184: found 13 taxa, reference tree has 23 taxa
+Tree 185: found 13 taxa, reference tree has 23 taxa
+Tree 186: found 13 taxa, reference tree has 23 taxa
+Tree 187: found 13 taxa, reference tree has 23 taxa
+Tree 188: found 13 taxa, reference tree has 23 taxa
+Tree 189: found 13 taxa, reference tree has 23 taxa
+Tree 190: found 13 taxa, reference tree has 23 taxa
+Tree 191: found 13 taxa, reference tree has 23 taxa
+Tree 192: found 13 taxa, reference tree has 23 taxa
+Tree 193: found 13 taxa, reference tree has 23 taxa
+Tree 194: found 13 taxa, reference tree has 23 taxa
+Tree 195: found 13 taxa, reference tree has 23 taxa
+Tree 196: found 13 taxa, reference tree has 23 taxa
+Tree 197: found 13 taxa, reference tree has 23 taxa
+Tree 198: found 13 taxa, reference tree has 23 taxa
+Tree 199: found 13 taxa, reference tree has 23 taxa
+Tree 200: found 13 taxa, reference tree has 23 taxa
+Tree 201: found 13 taxa, reference tree has 23 taxa
+Tree 202: found 13 taxa, reference tree has 23 taxa
+Tree 203: found 13 taxa, reference tree has 23 taxa
+Tree 204: found 13 taxa, reference tree has 23 taxa
+Tree 205: found 13 taxa, reference tree has 23 taxa
+Tree 206: found 13 taxa, reference tree has 23 taxa
+Tree 207: found 13 taxa, reference tree has 23 taxa
+Tree 208: found 13 taxa, reference tree has 23 taxa
+Tree 209: found 13 taxa, reference tree has 23 taxa
+Tree 210: found 13 taxa, reference tree has 23 taxa
+Tree 211: found 13 taxa, reference tree has 23 taxa
+Tree 212: found 13 taxa, reference tree has 23 taxa
+Tree 213: found 13 taxa, reference tree has 23 taxa
+Tree 214: found 13 taxa, reference tree has 23 taxa
+Tree 215: found 13 taxa, reference tree has 23 taxa
+Tree 216: found 13 taxa, reference tree has 23 taxa
+Tree 217: found 13 taxa, reference tree has 23 taxa
+Tree 218: found 13 taxa, reference tree has 23 taxa
+Tree 219: found 13 taxa, reference tree has 23 taxa
+Tree 220: found 13 taxa, reference tree has 23 taxa
+Tree 221: found 13 taxa, reference tree has 23 taxa
+Tree 222: found 13 taxa, reference tree has 23 taxa
+Tree 223: found 13 taxa, reference tree has 23 taxa
+Tree 224: found 13 taxa, reference tree has 23 taxa
+Tree 225: found 13 taxa, reference tree has 23 taxa
+Tree 226: found 13 taxa, reference tree has 23 taxa
+Tree 227: found 13 taxa, reference tree has 23 taxa
+Tree 228: found 13 taxa, reference tree has 23 taxa
+Tree 229: found 13 taxa, reference tree has 23 taxa
+Tree 230: found 13 taxa, reference tree has 23 taxa
+Tree 231: found 13 taxa, reference tree has 23 taxa
+Tree 232: found 13 taxa, reference tree has 23 taxa
+Tree 233: found 13 taxa, reference tree has 23 taxa
+Tree 234: found 13 taxa, reference tree has 23 taxa
+Tree 235: found 13 taxa, reference tree has 23 taxa
+Tree 236: found 13 taxa, reference tree has 23 taxa
+Tree 237: found 13 taxa, reference tree has 23 taxa
+Tree 238: found 13 taxa, reference tree has 23 taxa
+Tree 239: found 13 taxa, reference tree has 23 taxa
+Tree 240: found 13 taxa, reference tree has 23 taxa
+Tree 241: found 13 taxa, reference tree has 23 taxa
+Tree 242: found 13 taxa, reference tree has 23 taxa
+Tree 243: found 13 taxa, reference tree has 23 taxa
+Tree 244: found 13 taxa, reference tree has 23 taxa
+Tree 245: found 13 taxa, reference tree has 23 taxa
+Tree 246: found 13 taxa, reference tree has 23 taxa
+Tree 247: found 13 taxa, reference tree has 23 taxa
+Tree 248: found 13 taxa, reference tree has 23 taxa
+Tree 249: found 13 taxa, reference tree has 23 taxa
+Tree 250: found 13 taxa, reference tree has 23 taxa
+Tree 251: found 14 taxa, reference tree has 23 taxa
+Tree 252: found 14 taxa, reference tree has 23 taxa
+Tree 253: found 14 taxa, reference tree has 23 taxa
+Tree 254: found 14 taxa, reference tree has 23 taxa
+Tree 255: found 14 taxa, reference tree has 23 taxa
+Tree 256: found 14 taxa, reference tree has 23 taxa
+Tree 257: found 14 taxa, reference tree has 23 taxa
+Tree 258: found 14 taxa, reference tree has 23 taxa
+Tree 259: found 14 taxa, reference tree has 23 taxa
+Tree 260: found 14 taxa, reference tree has 23 taxa
+Tree 261: found 14 taxa, reference tree has 23 taxa
+Tree 262: found 14 taxa, reference tree has 23 taxa
+Tree 263: found 14 taxa, reference tree has 23 taxa
+Tree 264: found 14 taxa, reference tree has 23 taxa
+Tree 265: found 14 taxa, reference tree has 23 taxa
+Tree 266: found 14 taxa, reference tree has 23 taxa
+Tree 267: found 14 taxa, reference tree has 23 taxa
+Tree 268: found 14 taxa, reference tree has 23 taxa
+Tree 269: found 14 taxa, reference tree has 23 taxa
+Tree 270: found 14 taxa, reference tree has 23 taxa
+Tree 271: found 14 taxa, reference tree has 23 taxa
+Tree 272: found 14 taxa, reference tree has 23 taxa
+Tree 273: found 14 taxa, reference tree has 23 taxa
+Tree 274: found 14 taxa, reference tree has 23 taxa
+Tree 275: found 14 taxa, reference tree has 23 taxa
+Tree 276: found 14 taxa, reference tree has 23 taxa
+Tree 277: found 14 taxa, reference tree has 23 taxa
+Tree 278: found 14 taxa, reference tree has 23 taxa
+Tree 279: found 14 taxa, reference tree has 23 taxa
+Tree 280: found 14 taxa, reference tree has 23 taxa
+Tree 281: found 14 taxa, reference tree has 23 taxa
+Tree 282: found 14 taxa, reference tree has 23 taxa
+Tree 283: found 14 taxa, reference tree has 23 taxa
+Tree 284: found 14 taxa, reference tree has 23 taxa
+Tree 285: found 14 taxa, reference tree has 23 taxa
+Tree 286: found 14 taxa, reference tree has 23 taxa
+Tree 287: found 14 taxa, reference tree has 23 taxa
+Tree 288: found 14 taxa, reference tree has 23 taxa
+Tree 289: found 14 taxa, reference tree has 23 taxa
+Tree 290: found 14 taxa, reference tree has 23 taxa
+Tree 291: found 14 taxa, reference tree has 23 taxa
+Tree 292: found 14 taxa, reference tree has 23 taxa
+Tree 293: found 14 taxa, reference tree has 23 taxa
+Tree 294: found 14 taxa, reference tree has 23 taxa
+Tree 295: found 14 taxa, reference tree has 23 taxa
+Tree 296: found 14 taxa, reference tree has 23 taxa
+Tree 297: found 14 taxa, reference tree has 23 taxa
+Tree 298: found 14 taxa, reference tree has 23 taxa
+Tree 299: found 14 taxa, reference tree has 23 taxa
+Tree 300: found 14 taxa, reference tree has 23 taxa
+Tree 301: found 14 taxa, reference tree has 23 taxa
+Tree 302: found 14 taxa, reference tree has 23 taxa
+Tree 303: found 14 taxa, reference tree has 23 taxa
+Tree 304: found 14 taxa, reference tree has 23 taxa
+Tree 305: found 14 taxa, reference tree has 23 taxa
+Tree 306: found 14 taxa, reference tree has 23 taxa
+Tree 307: found 14 taxa, reference tree has 23 taxa
+Tree 308: found 14 taxa, reference tree has 23 taxa
+Tree 309: found 14 taxa, reference tree has 23 taxa
+Tree 310: found 14 taxa, reference tree has 23 taxa
+Tree 311: found 14 taxa, reference tree has 23 taxa
+Tree 312: found 14 taxa, reference tree has 23 taxa
+Tree 313: found 14 taxa, reference tree has 23 taxa
+Tree 314: found 14 taxa, reference tree has 23 taxa
+Tree 315: found 14 taxa, reference tree has 23 taxa
+Tree 316: found 14 taxa, reference tree has 23 taxa
+Tree 317: found 14 taxa, reference tree has 23 taxa
+Tree 318: found 14 taxa, reference tree has 23 taxa
+Tree 319: found 14 taxa, reference tree has 23 taxa
+Tree 320: found 14 taxa, reference tree has 23 taxa
+Tree 321: found 14 taxa, reference tree has 23 taxa
+Tree 322: found 14 taxa, reference tree has 23 taxa
+Tree 323: found 14 taxa, reference tree has 23 taxa
+Tree 324: found 14 taxa, reference tree has 23 taxa
+Tree 325: found 14 taxa, reference tree has 23 taxa
+Tree 326: found 14 taxa, reference tree has 23 taxa
+Tree 327: found 14 taxa, reference tree has 23 taxa
+Tree 328: found 14 taxa, reference tree has 23 taxa
+Tree 329: found 14 taxa, reference tree has 23 taxa
+Tree 330: found 14 taxa, reference tree has 23 taxa
+Tree 331: found 14 taxa, reference tree has 23 taxa
+Tree 332: found 14 taxa, reference tree has 23 taxa
+Tree 333: found 14 taxa, reference tree has 23 taxa
+Tree 334: found 14 taxa, reference tree has 23 taxa
+Tree 335: found 14 taxa, reference tree has 23 taxa
+Tree 336: found 14 taxa, reference tree has 23 taxa
+Tree 337: found 14 taxa, reference tree has 23 taxa
+Tree 338: found 14 taxa, reference tree has 23 taxa
+Tree 339: found 14 taxa, reference tree has 23 taxa
+Tree 340: found 14 taxa, reference tree has 23 taxa
+Tree 341: found 14 taxa, reference tree has 23 taxa
+Tree 342: found 14 taxa, reference tree has 23 taxa
+Tree 343: found 14 taxa, reference tree has 23 taxa
+Tree 344: found 14 taxa, reference tree has 23 taxa
+Tree 345: found 14 taxa, reference tree has 23 taxa
+Tree 346: found 14 taxa, reference tree has 23 taxa
+Tree 347: found 14 taxa, reference tree has 23 taxa
+Tree 348: found 14 taxa, reference tree has 23 taxa
+Tree 349: found 14 taxa, reference tree has 23 taxa
+Tree 350: found 14 taxa, reference tree has 23 taxa
+Tree 351: found 14 taxa, reference tree has 23 taxa
+Tree 352: found 14 taxa, reference tree has 23 taxa
+Tree 353: found 14 taxa, reference tree has 23 taxa
+Tree 354: found 14 taxa, reference tree has 23 taxa
+Tree 355: found 14 taxa, reference tree has 23 taxa
+Tree 356: found 14 taxa, reference tree has 23 taxa
+Tree 357: found 14 taxa, reference tree has 23 taxa
+Tree 358: found 14 taxa, reference tree has 23 taxa
+Tree 359: found 14 taxa, reference tree has 23 taxa
+Tree 360: found 14 taxa, reference tree has 23 taxa
+Tree 361: found 14 taxa, reference tree has 23 taxa
+Tree 362: found 14 taxa, reference tree has 23 taxa
+Tree 363: found 14 taxa, reference tree has 23 taxa
+Tree 364: found 14 taxa, reference tree has 23 taxa
+Tree 365: found 14 taxa, reference tree has 23 taxa
+Tree 366: found 14 taxa, reference tree has 23 taxa
+Tree 367: found 14 taxa, reference tree has 23 taxa
+Tree 368: found 14 taxa, reference tree has 23 taxa
+Tree 369: found 14 taxa, reference tree has 23 taxa
+Tree 370: found 14 taxa, reference tree has 23 taxa
+Tree 371: found 14 taxa, reference tree has 23 taxa
+Tree 372: found 14 taxa, reference tree has 23 taxa
+Tree 373: found 14 taxa, reference tree has 23 taxa
+Tree 374: found 14 taxa, reference tree has 23 taxa
+Tree 375: found 14 taxa, reference tree has 23 taxa
+Tree 376: found 14 taxa, reference tree has 23 taxa
+Tree 377: found 14 taxa, reference tree has 23 taxa
+Tree 378: found 14 taxa, reference tree has 23 taxa
+Tree 379: found 14 taxa, reference tree has 23 taxa
+Tree 380: found 14 taxa, reference tree has 23 taxa
+Tree 381: found 14 taxa, reference tree has 23 taxa
+Tree 382: found 14 taxa, reference tree has 23 taxa
+Tree 383: found 14 taxa, reference tree has 23 taxa
+Tree 384: found 14 taxa, reference tree has 23 taxa
+Tree 385: found 14 taxa, reference tree has 23 taxa
+Tree 386: found 14 taxa, reference tree has 23 taxa
+Tree 387: found 14 taxa, reference tree has 23 taxa
+Tree 388: found 14 taxa, reference tree has 23 taxa
+Tree 389: found 14 taxa, reference tree has 23 taxa
+Tree 390: found 14 taxa, reference tree has 23 taxa
+Tree 391: found 14 taxa, reference tree has 23 taxa
+Tree 392: found 14 taxa, reference tree has 23 taxa
+Tree 393: found 14 taxa, reference tree has 23 taxa
+Tree 394: found 14 taxa, reference tree has 23 taxa
+Tree 395: found 14 taxa, reference tree has 23 taxa
+Tree 396: found 14 taxa, reference tree has 23 taxa
+Tree 397: found 14 taxa, reference tree has 23 taxa
+Tree 398: found 14 taxa, reference tree has 23 taxa
+Tree 399: found 14 taxa, reference tree has 23 taxa
+Tree 400: found 14 taxa, reference tree has 23 taxa
+Tree 401: found 14 taxa, reference tree has 23 taxa
+Tree 402: found 14 taxa, reference tree has 23 taxa
+Tree 403: found 14 taxa, reference tree has 23 taxa
+Tree 404: found 14 taxa, reference tree has 23 taxa
+Tree 405: found 14 taxa, reference tree has 23 taxa
+Tree 406: found 14 taxa, reference tree has 23 taxa
+Tree 407: found 14 taxa, reference tree has 23 taxa
+Tree 408: found 14 taxa, reference tree has 23 taxa
+Tree 409: found 14 taxa, reference tree has 23 taxa
+Tree 410: found 14 taxa, reference tree has 23 taxa
+Tree 411: found 14 taxa, reference tree has 23 taxa
+Tree 412: found 14 taxa, reference tree has 23 taxa
+Tree 413: found 14 taxa, reference tree has 23 taxa
+Tree 414: found 14 taxa, reference tree has 23 taxa
+Tree 415: found 14 taxa, reference tree has 23 taxa
+Tree 416: found 14 taxa, reference tree has 23 taxa
+Tree 417: found 14 taxa, reference tree has 23 taxa
+Tree 418: found 14 taxa, reference tree has 23 taxa
+Tree 419: found 14 taxa, reference tree has 23 taxa
+Tree 420: found 14 taxa, reference tree has 23 taxa
+Tree 421: found 14 taxa, reference tree has 23 taxa
+Tree 422: found 14 taxa, reference tree has 23 taxa
+Tree 423: found 14 taxa, reference tree has 23 taxa
+Tree 424: found 14 taxa, reference tree has 23 taxa
+Tree 425: found 14 taxa, reference tree has 23 taxa
+Tree 426: found 14 taxa, reference tree has 23 taxa
+Tree 427: found 14 taxa, reference tree has 23 taxa
+Tree 428: found 14 taxa, reference tree has 23 taxa
+Tree 429: found 14 taxa, reference tree has 23 taxa
+Tree 430: found 14 taxa, reference tree has 23 taxa
+Tree 431: found 14 taxa, reference tree has 23 taxa
+Tree 432: found 14 taxa, reference tree has 23 taxa
+Tree 433: found 14 taxa, reference tree has 23 taxa
+Tree 434: found 14 taxa, reference tree has 23 taxa
+Tree 435: found 14 taxa, reference tree has 23 taxa
+Tree 436: found 14 taxa, reference tree has 23 taxa
+Tree 437: found 14 taxa, reference tree has 23 taxa
+Tree 438: found 14 taxa, reference tree has 23 taxa
+Tree 439: found 14 taxa, reference tree has 23 taxa
+Tree 440: found 14 taxa, reference tree has 23 taxa
+Tree 441: found 14 taxa, reference tree has 23 taxa
+Tree 442: found 14 taxa, reference tree has 23 taxa
+Tree 443: found 14 taxa, reference tree has 23 taxa
+Tree 444: found 14 taxa, reference tree has 23 taxa
+Tree 445: found 14 taxa, reference tree has 23 taxa
+Tree 446: found 14 taxa, reference tree has 23 taxa
+Tree 447: found 14 taxa, reference tree has 23 taxa
+Tree 448: found 14 taxa, reference tree has 23 taxa
+Tree 449: found 14 taxa, reference tree has 23 taxa
+Tree 450: found 14 taxa, reference tree has 23 taxa
+Tree 451: found 14 taxa, reference tree has 23 taxa
+Tree 452: found 14 taxa, reference tree has 23 taxa
+Tree 453: found 14 taxa, reference tree has 23 taxa
+Tree 454: found 14 taxa, reference tree has 23 taxa
+Tree 455: found 14 taxa, reference tree has 23 taxa
+Tree 456: found 14 taxa, reference tree has 23 taxa
+Tree 457: found 14 taxa, reference tree has 23 taxa
+Tree 458: found 14 taxa, reference tree has 23 taxa
+Tree 459: found 14 taxa, reference tree has 23 taxa
+Tree 460: found 14 taxa, reference tree has 23 taxa
+Tree 461: found 14 taxa, reference tree has 23 taxa
+Tree 462: found 14 taxa, reference tree has 23 taxa
+Tree 463: found 14 taxa, reference tree has 23 taxa
+Tree 464: found 14 taxa, reference tree has 23 taxa
+Tree 465: found 14 taxa, reference tree has 23 taxa
+Tree 466: found 14 taxa, reference tree has 23 taxa
+Tree 467: found 14 taxa, reference tree has 23 taxa
+Tree 468: found 14 taxa, reference tree has 23 taxa
+Tree 469: found 14 taxa, reference tree has 23 taxa
+Tree 470: found 14 taxa, reference tree has 23 taxa
+Tree 471: found 14 taxa, reference tree has 23 taxa
+Tree 472: found 14 taxa, reference tree has 23 taxa
+Tree 473: found 14 taxa, reference tree has 23 taxa
+Tree 474: found 14 taxa, reference tree has 23 taxa
+Tree 475: found 14 taxa, reference tree has 23 taxa
+Tree 476: found 14 taxa, reference tree has 23 taxa
+Tree 477: found 14 taxa, reference tree has 23 taxa
+Tree 478: found 14 taxa, reference tree has 23 taxa
+Tree 479: found 14 taxa, reference tree has 23 taxa
+Tree 480: found 14 taxa, reference tree has 23 taxa
+Tree 481: found 14 taxa, reference tree has 23 taxa
+Tree 482: found 14 taxa, reference tree has 23 taxa
+Tree 483: found 14 taxa, reference tree has 23 taxa
+Tree 484: found 14 taxa, reference tree has 23 taxa
+Tree 485: found 14 taxa, reference tree has 23 taxa
+Tree 486: found 14 taxa, reference tree has 23 taxa
+Tree 487: found 14 taxa, reference tree has 23 taxa
+Tree 488: found 14 taxa, reference tree has 23 taxa
+Tree 489: found 14 taxa, reference tree has 23 taxa
+Tree 490: found 14 taxa, reference tree has 23 taxa
+Tree 491: found 14 taxa, reference tree has 23 taxa
+Tree 492: found 14 taxa, reference tree has 23 taxa
+Tree 493: found 14 taxa, reference tree has 23 taxa
+Tree 494: found 14 taxa, reference tree has 23 taxa
+Tree 495: found 14 taxa, reference tree has 23 taxa
+Tree 496: found 14 taxa, reference tree has 23 taxa
+Tree 497: found 14 taxa, reference tree has 23 taxa
+Tree 498: found 14 taxa, reference tree has 23 taxa
+Tree 499: found 14 taxa, reference tree has 23 taxa
+Tree 500: found 14 taxa, reference tree has 23 taxa
+Tree 501: found 14 taxa, reference tree has 23 taxa
+Tree 502: found 14 taxa, reference tree has 23 taxa
+Tree 503: found 14 taxa, reference tree has 23 taxa
+Tree 504: found 14 taxa, reference tree has 23 taxa
+Tree 505: found 14 taxa, reference tree has 23 taxa
+Tree 506: found 14 taxa, reference tree has 23 taxa
+Tree 507: found 14 taxa, reference tree has 23 taxa
+Tree 508: found 14 taxa, reference tree has 23 taxa
+Tree 509: found 14 taxa, reference tree has 23 taxa
+Tree 510: found 14 taxa, reference tree has 23 taxa
+Tree 511: found 14 taxa, reference tree has 23 taxa
+Tree 512: found 14 taxa, reference tree has 23 taxa
+Tree 513: found 14 taxa, reference tree has 23 taxa
+Tree 514: found 14 taxa, reference tree has 23 taxa
+Tree 515: found 14 taxa, reference tree has 23 taxa
+Tree 516: found 14 taxa, reference tree has 23 taxa
+Tree 517: found 14 taxa, reference tree has 23 taxa
+Tree 518: found 14 taxa, reference tree has 23 taxa
+Tree 519: found 14 taxa, reference tree has 23 taxa
+Tree 520: found 14 taxa, reference tree has 23 taxa
+Tree 521: found 14 taxa, reference tree has 23 taxa
+Tree 522: found 14 taxa, reference tree has 23 taxa
+Tree 523: found 14 taxa, reference tree has 23 taxa
+Tree 524: found 14 taxa, reference tree has 23 taxa
+Tree 525: found 14 taxa, reference tree has 23 taxa
+Tree 526: found 14 taxa, reference tree has 23 taxa
+Tree 527: found 14 taxa, reference tree has 23 taxa
+Tree 528: found 14 taxa, reference tree has 23 taxa
+Tree 529: found 14 taxa, reference tree has 23 taxa
+Tree 530: found 14 taxa, reference tree has 23 taxa
+Tree 531: found 14 taxa, reference tree has 23 taxa
+Tree 532: found 14 taxa, reference tree has 23 taxa
+Tree 533: found 14 taxa, reference tree has 23 taxa
+Tree 534: found 14 taxa, reference tree has 23 taxa
+Tree 535: found 14 taxa, reference tree has 23 taxa
+Tree 536: found 14 taxa, reference tree has 23 taxa
+Tree 537: found 14 taxa, reference tree has 23 taxa
+Tree 538: found 14 taxa, reference tree has 23 taxa
+Tree 539: found 14 taxa, reference tree has 23 taxa
+Tree 540: found 14 taxa, reference tree has 23 taxa
+Tree 541: found 14 taxa, reference tree has 23 taxa
+Tree 542: found 14 taxa, reference tree has 23 taxa
+Tree 543: found 14 taxa, reference tree has 23 taxa
+Tree 544: found 14 taxa, reference tree has 23 taxa
+Tree 545: found 14 taxa, reference tree has 23 taxa
+Tree 546: found 14 taxa, reference tree has 23 taxa
+Tree 547: found 14 taxa, reference tree has 23 taxa
+Tree 548: found 14 taxa, reference tree has 23 taxa
+Tree 549: found 14 taxa, reference tree has 23 taxa
+Tree 550: found 14 taxa, reference tree has 23 taxa
+Tree 551: found 14 taxa, reference tree has 23 taxa
+Tree 552: found 14 taxa, reference tree has 23 taxa
+Tree 553: found 14 taxa, reference tree has 23 taxa
+Tree 554: found 14 taxa, reference tree has 23 taxa
+Tree 555: found 14 taxa, reference tree has 23 taxa
+Tree 556: found 14 taxa, reference tree has 23 taxa
+Tree 557: found 14 taxa, reference tree has 23 taxa
+Tree 558: found 14 taxa, reference tree has 23 taxa
+Tree 559: found 14 taxa, reference tree has 23 taxa
+Tree 560: found 14 taxa, reference tree has 23 taxa
+Tree 561: found 14 taxa, reference tree has 23 taxa
+Tree 562: found 14 taxa, reference tree has 23 taxa
+Tree 563: found 14 taxa, reference tree has 23 taxa
+Tree 564: found 14 taxa, reference tree has 23 taxa
+Tree 565: found 14 taxa, reference tree has 23 taxa
+Tree 566: found 14 taxa, reference tree has 23 taxa
+Tree 567: found 14 taxa, reference tree has 23 taxa
+Tree 568: found 14 taxa, reference tree has 23 taxa
+Tree 569: found 14 taxa, reference tree has 23 taxa
+Tree 570: found 14 taxa, reference tree has 23 taxa
+Tree 571: found 14 taxa, reference tree has 23 taxa
+Tree 572: found 14 taxa, reference tree has 23 taxa
+Tree 573: found 14 taxa, reference tree has 23 taxa
+Tree 574: found 14 taxa, reference tree has 23 taxa
+Tree 575: found 14 taxa, reference tree has 23 taxa
+Tree 576: found 14 taxa, reference tree has 23 taxa
+Tree 577: found 14 taxa, reference tree has 23 taxa
+Tree 578: found 14 taxa, reference tree has 23 taxa
+Tree 579: found 15 taxa, reference tree has 23 taxa
+Tree 580: found 15 taxa, reference tree has 23 taxa
+Tree 581: found 15 taxa, reference tree has 23 taxa
+Tree 582: found 15 taxa, reference tree has 23 taxa
+Tree 583: found 15 taxa, reference tree has 23 taxa
+Tree 584: found 15 taxa, reference tree has 23 taxa
+Tree 585: found 15 taxa, reference tree has 23 taxa
+Tree 586: found 15 taxa, reference tree has 23 taxa
+Tree 587: found 15 taxa, reference tree has 23 taxa
+Tree 588: found 15 taxa, reference tree has 23 taxa
+Tree 589: found 15 taxa, reference tree has 23 taxa
+Tree 590: found 14 taxa, reference tree has 23 taxa
+Tree 591: found 14 taxa, reference tree has 23 taxa
+Tree 592: found 16 taxa, reference tree has 23 taxa
+Tree 593: found 16 taxa, reference tree has 23 taxa
+Tree 594: found 16 taxa, reference tree has 23 taxa
+Tree 595: found 16 taxa, reference tree has 23 taxa
+Tree 596: found 16 taxa, reference tree has 23 taxa
+Tree 597: found 16 taxa, reference tree has 23 taxa
+Tree 598: found 16 taxa, reference tree has 23 taxa
+Tree 599: found 16 taxa, reference tree has 23 taxa
+Tree 600: found 16 taxa, reference tree has 23 taxa
+Tree 601: found 16 taxa, reference tree has 23 taxa
+Tree 602: found 16 taxa, reference tree has 23 taxa
+Tree 603: found 16 taxa, reference tree has 23 taxa
+Tree 604: found 16 taxa, reference tree has 23 taxa
+Tree 605: found 16 taxa, reference tree has 23 taxa
+Tree 606: found 16 taxa, reference tree has 23 taxa
+Tree 607: found 16 taxa, reference tree has 23 taxa
+Tree 608: found 17 taxa, reference tree has 23 taxa
+Tree 609: found 17 taxa, reference tree has 23 taxa
+Tree 610: found 17 taxa, reference tree has 23 taxa
+Tree 611: found 17 taxa, reference tree has 23 taxa
+Tree 612: found 17 taxa, reference tree has 23 taxa
+Tree 613: found 17 taxa, reference tree has 23 taxa
+Tree 614: found 17 taxa, reference tree has 23 taxa
+Tree 615: found 17 taxa, reference tree has 23 taxa
+Tree 616: found 17 taxa, reference tree has 23 taxa
+Tree 617: found 17 taxa, reference tree has 23 taxa
+Tree 618: found 17 taxa, reference tree has 23 taxa
+Tree 619: found 17 taxa, reference tree has 23 taxa
+Tree 620: found 17 taxa, reference tree has 23 taxa
+Tree 621: found 18 taxa, reference tree has 23 taxa
+Tree 622: found 18 taxa, reference tree has 23 taxa
+Tree 623: found 18 taxa, reference tree has 23 taxa
+Tree 624: found 18 taxa, reference tree has 23 taxa
+Tree 625: found 18 taxa, reference tree has 23 taxa
+Tree 626: found 18 taxa, reference tree has 23 taxa
+Tree 627: found 18 taxa, reference tree has 23 taxa
+Tree 628: found 18 taxa, reference tree has 23 taxa
+Tree 629: found 18 taxa, reference tree has 23 taxa
+Tree 630: found 18 taxa, reference tree has 23 taxa
+Tree 631: found 18 taxa, reference tree has 23 taxa
+Tree 632: found 18 taxa, reference tree has 23 taxa
+Tree 633: found 18 taxa, reference tree has 23 taxa
+Tree 634: found 18 taxa, reference tree has 23 taxa
+Tree 635: found 18 taxa, reference tree has 23 taxa
+Tree 636: found 18 taxa, reference tree has 23 taxa
+Tree 637: found 18 taxa, reference tree has 23 taxa
+Tree 638: found 18 taxa, reference tree has 23 taxa
+Tree 639: found 18 taxa, reference tree has 23 taxa
+Tree 640: found 18 taxa, reference tree has 23 taxa
+Tree 641: found 18 taxa, reference tree has 23 taxa
+Tree 642: found 18 taxa, reference tree has 23 taxa
+Tree 643: found 18 taxa, reference tree has 23 taxa
+Tree 644: found 18 taxa, reference tree has 23 taxa
+Tree 645: found 19 taxa, reference tree has 23 taxa
+Tree 646: found 19 taxa, reference tree has 23 taxa
+Tree 647: found 19 taxa, reference tree has 23 taxa
+Tree 648: found 19 taxa, reference tree has 23 taxa
+Tree 649: found 19 taxa, reference tree has 23 taxa
+Tree 650: found 19 taxa, reference tree has 23 taxa
+Tree 651: found 19 taxa, reference tree has 23 taxa
+Tree 652: found 19 taxa, reference tree has 23 taxa
+Tree 653: found 19 taxa, reference tree has 23 taxa
+Tree 654: found 19 taxa, reference tree has 23 taxa
+Tree 655: found 19 taxa, reference tree has 23 taxa
+Tree 656: found 19 taxa, reference tree has 23 taxa
+Tree 657: found 19 taxa, reference tree has 23 taxa
+Tree 658: found 19 taxa, reference tree has 23 taxa
+Tree 659: found 19 taxa, reference tree has 23 taxa
+Tree 660: found 19 taxa, reference tree has 23 taxa
+Tree 661: found 19 taxa, reference tree has 23 taxa
+Tree 662: found 19 taxa, reference tree has 23 taxa
+Tree 663: found 19 taxa, reference tree has 23 taxa
+Tree 664: found 19 taxa, reference tree has 23 taxa
+Tree 665: found 19 taxa, reference tree has 23 taxa
+Tree 666: found 19 taxa, reference tree has 23 taxa
+Tree 667: found 19 taxa, reference tree has 23 taxa
+Tree 668: found 19 taxa, reference tree has 23 taxa
+Tree 669: found 19 taxa, reference tree has 23 taxa
+Tree 670: found 19 taxa, reference tree has 23 taxa
+Tree 671: found 19 taxa, reference tree has 23 taxa
+Tree 672: found 19 taxa, reference tree has 23 taxa
+Tree 673: found 19 taxa, reference tree has 23 taxa
+Tree 674: found 19 taxa, reference tree has 23 taxa
+Tree 675: found 19 taxa, reference tree has 23 taxa
+Tree 676: found 19 taxa, reference tree has 23 taxa
+Tree 677: found 19 taxa, reference tree has 23 taxa
+Tree 678: found 19 taxa, reference tree has 23 taxa
+Tree 679: found 19 taxa, reference tree has 23 taxa
+Tree 680: found 19 taxa, reference tree has 23 taxa
+Tree 681: found 20 taxa, reference tree has 23 taxa
+Tree 682: found 20 taxa, reference tree has 23 taxa
+Tree 683: found 20 taxa, reference tree has 23 taxa
+Tree 684: found 20 taxa, reference tree has 23 taxa
+Tree 685: found 20 taxa, reference tree has 23 taxa
+Tree 686: found 20 taxa, reference tree has 23 taxa
+Tree 687: found 20 taxa, reference tree has 23 taxa
+Tree 688: found 20 taxa, reference tree has 23 taxa
+Tree 689: found 20 taxa, reference tree has 23 taxa
+Tree 690: found 20 taxa, reference tree has 23 taxa
+Tree 691: found 20 taxa, reference tree has 23 taxa
+Tree 692: found 20 taxa, reference tree has 23 taxa
+Tree 693: found 20 taxa, reference tree has 23 taxa
+Tree 694: found 20 taxa, reference tree has 23 taxa
+Tree 695: found 20 taxa, reference tree has 23 taxa
+Tree 696: found 20 taxa, reference tree has 23 taxa
+Tree 697: found 20 taxa, reference tree has 23 taxa
+Tree 698: found 20 taxa, reference tree has 23 taxa
+Tree 699: found 20 taxa, reference tree has 23 taxa
+Tree 700: found 20 taxa, reference tree has 23 taxa
+Tree 701: found 20 taxa, reference tree has 23 taxa
+Tree 702: found 20 taxa, reference tree has 23 taxa
+Tree 703: found 20 taxa, reference tree has 23 taxa
+Tree 704: found 20 taxa, reference tree has 23 taxa
+Tree 705: found 20 taxa, reference tree has 23 taxa
+Tree 706: found 20 taxa, reference tree has 23 taxa
+Tree 707: found 20 taxa, reference tree has 23 taxa
+Tree 708: found 20 taxa, reference tree has 23 taxa
+Tree 709: found 20 taxa, reference tree has 23 taxa
+Tree 710: found 20 taxa, reference tree has 23 taxa
+Tree 711: found 20 taxa, reference tree has 23 taxa
+Tree 712: found 20 taxa, reference tree has 23 taxa
+Tree 713: found 20 taxa, reference tree has 23 taxa
+Tree 714: found 20 taxa, reference tree has 23 taxa
+Tree 715: found 20 taxa, reference tree has 23 taxa
+Tree 716: found 20 taxa, reference tree has 23 taxa
+Tree 717: found 20 taxa, reference tree has 23 taxa
+Tree 718: found 20 taxa, reference tree has 23 taxa
+Tree 719: found 20 taxa, reference tree has 23 taxa
+Tree 720: found 20 taxa, reference tree has 23 taxa
+Tree 721: found 20 taxa, reference tree has 23 taxa
+Tree 722: found 20 taxa, reference tree has 23 taxa
+Tree 723: found 20 taxa, reference tree has 23 taxa
+Tree 724: found 20 taxa, reference tree has 23 taxa
+Tree 725: found 20 taxa, reference tree has 23 taxa
+Tree 726: found 20 taxa, reference tree has 23 taxa
+Tree 727: found 20 taxa, reference tree has 23 taxa
+Tree 728: found 20 taxa, reference tree has 23 taxa
+Tree 729: found 20 taxa, reference tree has 23 taxa
+Tree 730: found 20 taxa, reference tree has 23 taxa
+Tree 731: found 20 taxa, reference tree has 23 taxa
+Tree 732: found 20 taxa, reference tree has 23 taxa
+Tree 733: found 20 taxa, reference tree has 23 taxa
+Tree 734: found 20 taxa, reference tree has 23 taxa
+Tree 735: found 20 taxa, reference tree has 23 taxa
+Tree 736: found 20 taxa, reference tree has 23 taxa
+Tree 737: found 20 taxa, reference tree has 23 taxa
+Tree 738: found 20 taxa, reference tree has 23 taxa
+Tree 739: found 20 taxa, reference tree has 23 taxa
+Tree 740: found 20 taxa, reference tree has 23 taxa
+Tree 741: found 20 taxa, reference tree has 23 taxa
+Tree 742: found 20 taxa, reference tree has 23 taxa
+Tree 743: found 20 taxa, reference tree has 23 taxa
+Tree 744: found 21 taxa, reference tree has 23 taxa
+Tree 745: found 21 taxa, reference tree has 23 taxa
+Tree 746: found 21 taxa, reference tree has 23 taxa
+Tree 747: found 21 taxa, reference tree has 23 taxa
+Tree 748: found 21 taxa, reference tree has 23 taxa
+Tree 749: found 21 taxa, reference tree has 23 taxa
+Tree 750: found 21 taxa, reference tree has 23 taxa
+Tree 751: found 21 taxa, reference tree has 23 taxa
+Tree 752: found 21 taxa, reference tree has 23 taxa
+Tree 753: found 21 taxa, reference tree has 23 taxa
+Tree 754: found 21 taxa, reference tree has 23 taxa
+Tree 755: found 21 taxa, reference tree has 23 taxa
+Tree 756: found 21 taxa, reference tree has 23 taxa
+Tree 757: found 21 taxa, reference tree has 23 taxa
+Tree 758: found 21 taxa, reference tree has 23 taxa
+Tree 759: found 21 taxa, reference tree has 23 taxa
+Tree 760: found 21 taxa, reference tree has 23 taxa
+Tree 761: found 21 taxa, reference tree has 23 taxa
+Tree 762: found 21 taxa, reference tree has 23 taxa
+Tree 763: found 21 taxa, reference tree has 23 taxa
+Tree 764: found 21 taxa, reference tree has 23 taxa
+Tree 765: found 21 taxa, reference tree has 23 taxa
+Tree 766: found 21 taxa, reference tree has 23 taxa
+Tree 767: found 21 taxa, reference tree has 23 taxa
+Tree 768: found 21 taxa, reference tree has 23 taxa
+Tree 769: found 21 taxa, reference tree has 23 taxa
+Tree 770: found 21 taxa, reference tree has 23 taxa
+Tree 771: found 21 taxa, reference tree has 23 taxa
+Tree 772: found 21 taxa, reference tree has 23 taxa
+Tree 773: found 21 taxa, reference tree has 23 taxa
+Tree 774: found 21 taxa, reference tree has 23 taxa
+Tree 775: found 21 taxa, reference tree has 23 taxa
+Tree 776: found 21 taxa, reference tree has 23 taxa
+Tree 777: found 21 taxa, reference tree has 23 taxa
+Tree 778: found 21 taxa, reference tree has 23 taxa
+Tree 779: found 21 taxa, reference tree has 23 taxa
+Tree 780: found 21 taxa, reference tree has 23 taxa
+Tree 781: found 21 taxa, reference tree has 23 taxa
+Tree 782: found 21 taxa, reference tree has 23 taxa
+Tree 783: found 21 taxa, reference tree has 23 taxa
+Tree 784: found 21 taxa, reference tree has 23 taxa
+Tree 785: found 21 taxa, reference tree has 23 taxa
+Tree 786: found 21 taxa, reference tree has 23 taxa
+Tree 787: found 21 taxa, reference tree has 23 taxa
+Tree 788: found 21 taxa, reference tree has 23 taxa
+Tree 789: found 21 taxa, reference tree has 23 taxa
+Tree 790: found 21 taxa, reference tree has 23 taxa
+Tree 791: found 21 taxa, reference tree has 23 taxa
+Tree 792: found 21 taxa, reference tree has 23 taxa
+Tree 793: found 21 taxa, reference tree has 23 taxa
+Tree 794: found 21 taxa, reference tree has 23 taxa
+Tree 795: found 21 taxa, reference tree has 23 taxa
+Tree 796: found 21 taxa, reference tree has 23 taxa
+Tree 797: found 21 taxa, reference tree has 23 taxa
+Tree 798: found 21 taxa, reference tree has 23 taxa
+Tree 799: found 21 taxa, reference tree has 23 taxa
+Tree 800: found 21 taxa, reference tree has 23 taxa
+Tree 801: found 21 taxa, reference tree has 23 taxa
+Tree 802: found 21 taxa, reference tree has 23 taxa
+Tree 803: found 21 taxa, reference tree has 23 taxa
+Tree 804: found 21 taxa, reference tree has 23 taxa
+Tree 805: found 21 taxa, reference tree has 23 taxa
+Tree 806: found 21 taxa, reference tree has 23 taxa
+Tree 807: found 21 taxa, reference tree has 23 taxa
+Tree 808: found 21 taxa, reference tree has 23 taxa
+Tree 809: found 21 taxa, reference tree has 23 taxa
+Tree 810: found 21 taxa, reference tree has 23 taxa
+Tree 811: found 21 taxa, reference tree has 23 taxa
+Tree 812: found 21 taxa, reference tree has 23 taxa
+Tree 813: found 21 taxa, reference tree has 23 taxa
+Tree 814: found 21 taxa, reference tree has 23 taxa
+Tree 815: found 21 taxa, reference tree has 23 taxa
+Tree 816: found 21 taxa, reference tree has 23 taxa
+Tree 817: found 21 taxa, reference tree has 23 taxa
+Tree 818: found 21 taxa, reference tree has 23 taxa
+Tree 819: found 21 taxa, reference tree has 23 taxa
+Tree 820: found 21 taxa, reference tree has 23 taxa
+Tree 821: found 21 taxa, reference tree has 23 taxa
+Tree 822: found 21 taxa, reference tree has 23 taxa
+Tree 823: found 21 taxa, reference tree has 23 taxa
+Tree 824: found 21 taxa, reference tree has 23 taxa
+Tree 825: found 21 taxa, reference tree has 23 taxa
+Tree 826: found 21 taxa, reference tree has 23 taxa
+Tree 827: found 21 taxa, reference tree has 23 taxa
+Tree 828: found 21 taxa, reference tree has 23 taxa
+Tree 829: found 21 taxa, reference tree has 23 taxa
+Tree 830: found 22 taxa, reference tree has 23 taxa
+Tree 831: found 22 taxa, reference tree has 23 taxa
+Tree 832: found 22 taxa, reference tree has 23 taxa
+Tree 833: found 22 taxa, reference tree has 23 taxa
+Tree 834: found 22 taxa, reference tree has 23 taxa
+Tree 835: found 22 taxa, reference tree has 23 taxa
+Tree 836: found 22 taxa, reference tree has 23 taxa
+Tree 837: found 22 taxa, reference tree has 23 taxa
+Tree 838: found 22 taxa, reference tree has 23 taxa
+Tree 839: found 22 taxa, reference tree has 23 taxa
+Tree 840: found 22 taxa, reference tree has 23 taxa
+Tree 841: found 22 taxa, reference tree has 23 taxa
+Tree 842: found 22 taxa, reference tree has 23 taxa
+Tree 843: found 22 taxa, reference tree has 23 taxa
+Tree 844: found 22 taxa, reference tree has 23 taxa
+Tree 845: found 22 taxa, reference tree has 23 taxa
+Tree 846: found 22 taxa, reference tree has 23 taxa
+Tree 847: found 22 taxa, reference tree has 23 taxa
+Tree 848: found 22 taxa, reference tree has 23 taxa
+Tree 849: found 22 taxa, reference tree has 23 taxa
+Tree 850: found 22 taxa, reference tree has 23 taxa
+Tree 851: found 22 taxa, reference tree has 23 taxa
+Tree 852: found 22 taxa, reference tree has 23 taxa
+Tree 853: found 22 taxa, reference tree has 23 taxa
+Tree 854: found 22 taxa, reference tree has 23 taxa
+Tree 855: found 22 taxa, reference tree has 23 taxa
+Tree 856: found 22 taxa, reference tree has 23 taxa
+Tree 857: found 22 taxa, reference tree has 23 taxa
+Tree 858: found 22 taxa, reference tree has 23 taxa
+Tree 859: found 22 taxa, reference tree has 23 taxa
+Tree 860: found 22 taxa, reference tree has 23 taxa
+Tree 861: found 22 taxa, reference tree has 23 taxa
+Tree 862: found 22 taxa, reference tree has 23 taxa
+Tree 863: found 22 taxa, reference tree has 23 taxa
+Tree 864: found 22 taxa, reference tree has 23 taxa
+Tree 865: found 22 taxa, reference tree has 23 taxa
+Tree 866: found 22 taxa, reference tree has 23 taxa
+Tree 867: found 22 taxa, reference tree has 23 taxa
+Tree 868: found 22 taxa, reference tree has 23 taxa
+Tree 869: found 22 taxa, reference tree has 23 taxa
+Tree 870: found 22 taxa, reference tree has 23 taxa
+Tree 871: found 22 taxa, reference tree has 23 taxa
+Tree 872: found 22 taxa, reference tree has 23 taxa
+Tree 873: found 22 taxa, reference tree has 23 taxa
+Tree 874: found 22 taxa, reference tree has 23 taxa
+Tree 875: found 22 taxa, reference tree has 23 taxa
+Tree 876: found 22 taxa, reference tree has 23 taxa
+Tree 877: found 22 taxa, reference tree has 23 taxa
+Tree 878: found 22 taxa, reference tree has 23 taxa
+Tree 879: found 22 taxa, reference tree has 23 taxa
+Tree 880: found 22 taxa, reference tree has 23 taxa
+Tree 881: found 22 taxa, reference tree has 23 taxa
+Tree 882: found 22 taxa, reference tree has 23 taxa
+Tree 883: found 22 taxa, reference tree has 23 taxa
+Tree 884: found 22 taxa, reference tree has 23 taxa
+Tree 885: found 22 taxa, reference tree has 23 taxa
+Tree 886: found 22 taxa, reference tree has 23 taxa
+Tree 887: found 22 taxa, reference tree has 23 taxa
+Tree 888: found 22 taxa, reference tree has 23 taxa
+Tree 889: found 22 taxa, reference tree has 23 taxa
+Tree 890: found 22 taxa, reference tree has 23 taxa
+Tree 891: found 22 taxa, reference tree has 23 taxa
+Tree 892: found 22 taxa, reference tree has 23 taxa
+Tree 893: found 22 taxa, reference tree has 23 taxa
+Tree 894: found 22 taxa, reference tree has 23 taxa
+Tree 895: found 22 taxa, reference tree has 23 taxa
+Tree 896: found 22 taxa, reference tree has 23 taxa
+Tree 897: found 22 taxa, reference tree has 23 taxa
+Tree 898: found 22 taxa, reference tree has 23 taxa
+Tree 899: found 22 taxa, reference tree has 23 taxa
+Tree 900: found 22 taxa, reference tree has 23 taxa
+Tree 901: found 22 taxa, reference tree has 23 taxa
+Tree 902: found 22 taxa, reference tree has 23 taxa
+Tree 903: found 22 taxa, reference tree has 23 taxa
+Tree 904: found 22 taxa, reference tree has 23 taxa
+Tree 905: found 22 taxa, reference tree has 23 taxa
+Tree 906: found 22 taxa, reference tree has 23 taxa
+Tree 907: found 22 taxa, reference tree has 23 taxa
+Tree 908: found 22 taxa, reference tree has 23 taxa
+Tree 909: found 22 taxa, reference tree has 23 taxa
+Tree 910: found 22 taxa, reference tree has 23 taxa
+Tree 911: found 22 taxa, reference tree has 23 taxa
+Tree 912: found 22 taxa, reference tree has 23 taxa
+Tree 913: found 22 taxa, reference tree has 23 taxa
+Tree 914: found 22 taxa, reference tree has 23 taxa
+Tree 915: found 22 taxa, reference tree has 23 taxa
+Tree 916: found 22 taxa, reference tree has 23 taxa
+Tree 917: found 22 taxa, reference tree has 23 taxa
+Tree 918: found 22 taxa, reference tree has 23 taxa
+Tree 919: found 22 taxa, reference tree has 23 taxa
+Tree 920: found 22 taxa, reference tree has 23 taxa
+Tree 921: found 22 taxa, reference tree has 23 taxa
+Tree 922: found 22 taxa, reference tree has 23 taxa
+Tree 923: found 22 taxa, reference tree has 23 taxa
+Tree 924: found 22 taxa, reference tree has 23 taxa
+Tree 925: found 22 taxa, reference tree has 23 taxa
+Tree 926: found 22 taxa, reference tree has 23 taxa
+Tree 927: found 22 taxa, reference tree has 23 taxa
+Tree 928: found 22 taxa, reference tree has 23 taxa
+Tree 929: found 22 taxa, reference tree has 23 taxa
+Tree 930: found 22 taxa, reference tree has 23 taxa
+Tree 931: found 22 taxa, reference tree has 23 taxa
+Tree 932: found 22 taxa, reference tree has 23 taxa
+Tree 933: found 22 taxa, reference tree has 23 taxa
+Tree 934: found 22 taxa, reference tree has 23 taxa
+Tree 935: found 22 taxa, reference tree has 23 taxa
+Tree 936: found 22 taxa, reference tree has 23 taxa
+Tree 937: found 22 taxa, reference tree has 23 taxa
+Tree 938: found 22 taxa, reference tree has 23 taxa
+Tree 939: found 22 taxa, reference tree has 23 taxa
+Tree 940: found 22 taxa, reference tree has 23 taxa
+Tree 941: found 22 taxa, reference tree has 23 taxa
+Tree 942: found 22 taxa, reference tree has 23 taxa
+Tree 943: found 22 taxa, reference tree has 23 taxa
+Tree 944: found 22 taxa, reference tree has 23 taxa
+Tree 945: found 22 taxa, reference tree has 23 taxa
+Tree 946: found 22 taxa, reference tree has 23 taxa
+Tree 947: found 22 taxa, reference tree has 23 taxa
+Tree 948: found 22 taxa, reference tree has 23 taxa
+Tree 949: found 22 taxa, reference tree has 23 taxa
+Tree 950: found 22 taxa, reference tree has 23 taxa
+Tree 951: found 22 taxa, reference tree has 23 taxa
+Tree 952: found 22 taxa, reference tree has 23 taxa
+Tree 953: found 22 taxa, reference tree has 23 taxa
+Tree 954: found 22 taxa, reference tree has 23 taxa
+Tree 955: found 22 taxa, reference tree has 23 taxa
+Tree 956: found 22 taxa, reference tree has 23 taxa
+Tree 957: found 22 taxa, reference tree has 23 taxa
+Tree 958: found 22 taxa, reference tree has 23 taxa
+Tree 959: found 22 taxa, reference tree has 23 taxa
+Tree 960: found 22 taxa, reference tree has 23 taxa
+Tree 961: found 22 taxa, reference tree has 23 taxa
+Tree 962: found 22 taxa, reference tree has 23 taxa
+Tree 963: found 22 taxa, reference tree has 23 taxa
+Tree 964: found 22 taxa, reference tree has 23 taxa
+Tree 965: found 22 taxa, reference tree has 23 taxa
+Tree 966: found 22 taxa, reference tree has 23 taxa
+Tree 967: found 22 taxa, reference tree has 23 taxa
+Tree 968: found 22 taxa, reference tree has 23 taxa
+Tree 969: found 22 taxa, reference tree has 23 taxa
+Tree 970: found 22 taxa, reference tree has 23 taxa
+Tree 971: found 22 taxa, reference tree has 23 taxa
+Tree 972: found 22 taxa, reference tree has 23 taxa
+Tree 973: found 22 taxa, reference tree has 23 taxa
+Tree 974: found 22 taxa, reference tree has 23 taxa
+Tree 975: found 22 taxa, reference tree has 23 taxa
+Tree 976: found 22 taxa, reference tree has 23 taxa
+Tree 977: found 22 taxa, reference tree has 23 taxa
+Tree 978: found 22 taxa, reference tree has 23 taxa
+Tree 979: found 22 taxa, reference tree has 23 taxa
+Tree 980: found 22 taxa, reference tree has 23 taxa
+Tree 981: found 22 taxa, reference tree has 23 taxa
+Tree 982: found 22 taxa, reference tree has 23 taxa
+Tree 983: found 22 taxa, reference tree has 23 taxa
+Tree 984: found 22 taxa, reference tree has 23 taxa
+Tree 985: found 22 taxa, reference tree has 23 taxa
+Tree 986: found 22 taxa, reference tree has 23 taxa
+Tree 987: found 22 taxa, reference tree has 23 taxa
+Tree 988: found 22 taxa, reference tree has 23 taxa
+Tree 989: found 22 taxa, reference tree has 23 taxa
+Tree 990: found 22 taxa, reference tree has 23 taxa
+Tree 991: found 22 taxa, reference tree has 23 taxa
+Tree 992: found 22 taxa, reference tree has 23 taxa
+Tree 993: found 22 taxa, reference tree has 23 taxa
+Tree 994: found 22 taxa, reference tree has 23 taxa
+Tree 995: found 22 taxa, reference tree has 23 taxa
+Tree 996: found 22 taxa, reference tree has 23 taxa
+Tree 997: found 22 taxa, reference tree has 23 taxa
+Tree 998: found 22 taxa, reference tree has 23 taxa
+Tree 999: found 22 taxa, reference tree has 23 taxa
+Tree 1000: found 22 taxa, reference tree has 23 taxa
+Tree 1001: found 22 taxa, reference tree has 23 taxa
+Tree 1002: found 22 taxa, reference tree has 23 taxa
+Tree 1003: found 22 taxa, reference tree has 23 taxa
+Tree 1004: found 22 taxa, reference tree has 23 taxa
+Tree 1005: found 22 taxa, reference tree has 23 taxa
+Tree 1006: found 22 taxa, reference tree has 23 taxa
+Tree 1007: found 22 taxa, reference tree has 23 taxa
+Tree 1008: found 22 taxa, reference tree has 23 taxa
+Tree 1009: found 22 taxa, reference tree has 23 taxa
+Tree 1010: found 22 taxa, reference tree has 23 taxa
+Tree 1011: found 22 taxa, reference tree has 23 taxa
+Tree 1012: found 22 taxa, reference tree has 23 taxa
+Tree 1013: found 22 taxa, reference tree has 23 taxa
+Tree 1014: found 22 taxa, reference tree has 23 taxa
+Tree 1015: found 22 taxa, reference tree has 23 taxa
+Tree 1016: found 22 taxa, reference tree has 23 taxa
+Tree 1017: found 22 taxa, reference tree has 23 taxa
+Tree 1018: found 22 taxa, reference tree has 23 taxa
+Tree 1019: found 22 taxa, reference tree has 23 taxa
+Tree 1020: found 22 taxa, reference tree has 23 taxa
+Tree 1021: found 22 taxa, reference tree has 23 taxa
+Tree 1022: found 22 taxa, reference tree has 23 taxa
+Tree 1023: found 22 taxa, reference tree has 23 taxa
+Tree 1024: found 22 taxa, reference tree has 23 taxa
+Tree 1025: found 22 taxa, reference tree has 23 taxa
+Tree 1026: found 22 taxa, reference tree has 23 taxa
+Tree 1027: found 22 taxa, reference tree has 23 taxa
+Tree 1028: found 22 taxa, reference tree has 23 taxa
+Tree 1029: found 21 taxa, reference tree has 23 taxa
+Tree 1030: found 22 taxa, reference tree has 23 taxa
+Tree 1031: found 22 taxa, reference tree has 23 taxa
+Tree 1032: found 22 taxa, reference tree has 23 taxa
+Tree 1033: found 22 taxa, reference tree has 23 taxa
+Tree 1034: found 22 taxa, reference tree has 23 taxa
+Tree 1035: found 22 taxa, reference tree has 23 taxa
+Tree 1036: found 22 taxa, reference tree has 23 taxa
+Tree 1037: found 22 taxa, reference tree has 23 taxa
+Tree 1038: found 22 taxa, reference tree has 23 taxa
+Tree 1039: found 22 taxa, reference tree has 23 taxa
+Tree 1040: found 22 taxa, reference tree has 23 taxa
+Tree 1041: found 22 taxa, reference tree has 23 taxa
+Tree 1042: found 22 taxa, reference tree has 23 taxa
+Tree 1043: found 22 taxa, reference tree has 23 taxa
+Tree 1044: found 22 taxa, reference tree has 23 taxa
+Tree 1045: found 22 taxa, reference tree has 23 taxa
+Tree 1046: found 22 taxa, reference tree has 23 taxa
+Tree 1047: found 22 taxa, reference tree has 23 taxa
+Tree 1048: found 22 taxa, reference tree has 23 taxa
+Tree 1049: found 22 taxa, reference tree has 23 taxa
+Tree 1050: found 22 taxa, reference tree has 23 taxa
+Tree 1051: found 22 taxa, reference tree has 23 taxa
+Tree 1052: found 22 taxa, reference tree has 23 taxa
+Tree 1053: found 22 taxa, reference tree has 23 taxa
+Tree 1054: found 22 taxa, reference tree has 23 taxa
+Tree 1055: found 22 taxa, reference tree has 23 taxa
+Tree 1056: found 22 taxa, reference tree has 23 taxa
+Tree 1057: found 22 taxa, reference tree has 23 taxa
+Tree 1058: found 22 taxa, reference tree has 23 taxa
+Tree 1059: found 22 taxa, reference tree has 23 taxa
+Tree 1060: found 22 taxa, reference tree has 23 taxa
+Tree 1061: found 22 taxa, reference tree has 23 taxa
+Tree 1062: found 22 taxa, reference tree has 23 taxa
+Tree 1063: found 22 taxa, reference tree has 23 taxa
+Tree 1064: found 22 taxa, reference tree has 23 taxa
+Tree 1065: found 22 taxa, reference tree has 23 taxa
+Tree 1066: found 22 taxa, reference tree has 23 taxa
+Tree 1067: found 22 taxa, reference tree has 23 taxa
+Tree 1068: found 22 taxa, reference tree has 23 taxa
+Tree 1069: found 22 taxa, reference tree has 23 taxa
+Tree 1070: found 22 taxa, reference tree has 23 taxa
+Tree 1071: found 22 taxa, reference tree has 23 taxa
+Tree 1072: found 22 taxa, reference tree has 23 taxa
+Tree 1073: found 22 taxa, reference tree has 23 taxa
+Tree 1074: found 22 taxa, reference tree has 23 taxa
+Tree 1075: found 22 taxa, reference tree has 23 taxa
+Tree 1076: found 22 taxa, reference tree has 23 taxa
+Tree 1077: found 22 taxa, reference tree has 23 taxa
+Tree 1078: found 22 taxa, reference tree has 23 taxa
+Tree 1079: found 22 taxa, reference tree has 23 taxa
+Tree 1080: found 22 taxa, reference tree has 23 taxa
+Tree 1081: found 22 taxa, reference tree has 23 taxa
+Tree 1082: found 22 taxa, reference tree has 23 taxa
+Tree 1083: found 22 taxa, reference tree has 23 taxa
+Tree 1084: found 22 taxa, reference tree has 23 taxa
+Tree 1085: found 22 taxa, reference tree has 23 taxa
+Tree 1086: found 22 taxa, reference tree has 23 taxa
+Tree 1087: found 22 taxa, reference tree has 23 taxa
+Tree 1088: found 22 taxa, reference tree has 23 taxa
+Tree 1089: found 22 taxa, reference tree has 23 taxa
+Tree 1090: found 22 taxa, reference tree has 23 taxa
+Tree 1091: found 22 taxa, reference tree has 23 taxa
+Tree 1092: found 22 taxa, reference tree has 23 taxa
+Tree 1093: found 22 taxa, reference tree has 23 taxa
+Tree 1094: found 22 taxa, reference tree has 23 taxa
+Tree 1095: found 22 taxa, reference tree has 23 taxa
+Tree 1096: found 22 taxa, reference tree has 23 taxa
+Tree 1097: found 22 taxa, reference tree has 23 taxa
+Tree 1098: found 4 taxa, reference tree has 23 taxa
+Tree 1099: found 5 taxa, reference tree has 23 taxa
+Tree 1100: found 5 taxa, reference tree has 23 taxa
+Tree 1101: found 5 taxa, reference tree has 23 taxa
+Tree 1102: found 5 taxa, reference tree has 23 taxa
+Tree 1103: found 5 taxa, reference tree has 23 taxa
+Tree 1104: found 5 taxa, reference tree has 23 taxa
+Tree 1105: found 5 taxa, reference tree has 23 taxa
+Tree 1106: found 5 taxa, reference tree has 23 taxa
+Tree 1107: found 5 taxa, reference tree has 23 taxa
+Tree 1108: found 5 taxa, reference tree has 23 taxa
+Tree 1109: found 5 taxa, reference tree has 23 taxa
+Tree 1110: found 5 taxa, reference tree has 23 taxa
+Tree 1111: found 5 taxa, reference tree has 23 taxa
+Tree 1112: found 5 taxa, reference tree has 23 taxa
+Tree 1113: found 5 taxa, reference tree has 23 taxa
+Tree 1114: found 5 taxa, reference tree has 23 taxa
+Tree 1115: found 5 taxa, reference tree has 23 taxa
+Tree 1116: found 5 taxa, reference tree has 23 taxa
+Tree 1117: found 5 taxa, reference tree has 23 taxa
+Tree 1118: found 5 taxa, reference tree has 23 taxa
+Tree 1119: found 5 taxa, reference tree has 23 taxa
+Tree 1120: found 5 taxa, reference tree has 23 taxa
+Tree 1121: found 5 taxa, reference tree has 23 taxa
+Tree 1122: found 5 taxa, reference tree has 23 taxa
+Tree 1123: found 5 taxa, reference tree has 23 taxa
+Tree 1124: found 5 taxa, reference tree has 23 taxa
+Tree 1125: found 5 taxa, reference tree has 23 taxa
+Tree 1126: found 5 taxa, reference tree has 23 taxa
+Tree 1127: found 5 taxa, reference tree has 23 taxa
+Tree 1128: found 5 taxa, reference tree has 23 taxa
+Tree 1129: found 5 taxa, reference tree has 23 taxa
+Tree 1130: found 5 taxa, reference tree has 23 taxa
+Tree 1131: found 5 taxa, reference tree has 23 taxa
+Tree 1132: found 5 taxa, reference tree has 23 taxa
+Tree 1133: found 5 taxa, reference tree has 23 taxa
+Tree 1134: found 5 taxa, reference tree has 23 taxa
+Tree 1135: found 5 taxa, reference tree has 23 taxa
+Tree 1136: found 5 taxa, reference tree has 23 taxa
+Tree 1137: found 5 taxa, reference tree has 23 taxa
+Tree 1138: found 5 taxa, reference tree has 23 taxa
+Tree 1139: found 5 taxa, reference tree has 23 taxa
+Tree 1140: found 5 taxa, reference tree has 23 taxa
+Tree 1141: found 5 taxa, reference tree has 23 taxa
+Tree 1142: found 5 taxa, reference tree has 23 taxa
+Tree 1143: found 5 taxa, reference tree has 23 taxa
+Tree 1144: found 5 taxa, reference tree has 23 taxa
+Tree 1145: found 5 taxa, reference tree has 23 taxa
+Tree 1146: found 5 taxa, reference tree has 23 taxa
+Tree 1147: found 5 taxa, reference tree has 23 taxa
+Tree 1148: found 5 taxa, reference tree has 23 taxa
+Tree 1149: found 5 taxa, reference tree has 23 taxa
+Tree 1150: found 5 taxa, reference tree has 23 taxa
+Tree 1151: found 5 taxa, reference tree has 23 taxa
+Tree 1152: found 5 taxa, reference tree has 23 taxa
+Tree 1153: found 5 taxa, reference tree has 23 taxa
+Tree 1154: found 5 taxa, reference tree has 23 taxa
+Tree 1155: found 5 taxa, reference tree has 23 taxa
+Tree 1156: found 5 taxa, reference tree has 23 taxa
+Tree 1157: found 5 taxa, reference tree has 23 taxa
+Tree 1158: found 5 taxa, reference tree has 23 taxa
+Tree 1159: found 5 taxa, reference tree has 23 taxa
+Tree 1160: found 5 taxa, reference tree has 23 taxa
+Tree 1161: found 5 taxa, reference tree has 23 taxa
+Tree 1162: found 6 taxa, reference tree has 23 taxa
+Tree 1163: found 6 taxa, reference tree has 23 taxa
+Tree 1164: found 6 taxa, reference tree has 23 taxa
+Tree 1165: found 5 taxa, reference tree has 23 taxa
+Tree 1166: found 6 taxa, reference tree has 23 taxa
+Tree 1167: found 6 taxa, reference tree has 23 taxa
+Tree 1168: found 6 taxa, reference tree has 23 taxa
+Tree 1169: found 6 taxa, reference tree has 23 taxa
+Tree 1170: found 6 taxa, reference tree has 23 taxa
+Tree 1171: found 6 taxa, reference tree has 23 taxa
+Tree 1172: found 6 taxa, reference tree has 23 taxa
+Tree 1173: found 6 taxa, reference tree has 23 taxa
+Tree 1174: found 5 taxa, reference tree has 23 taxa
+Tree 1175: found 6 taxa, reference tree has 23 taxa
+Tree 1176: found 6 taxa, reference tree has 23 taxa
+Tree 1177: found 6 taxa, reference tree has 23 taxa
+Tree 1178: found 6 taxa, reference tree has 23 taxa
+Tree 1179: found 6 taxa, reference tree has 23 taxa
+Tree 1180: found 6 taxa, reference tree has 23 taxa
+Tree 1181: found 7 taxa, reference tree has 23 taxa
+Tree 1182: found 7 taxa, reference tree has 23 taxa
+Tree 1183: found 7 taxa, reference tree has 23 taxa
+Tree 1184: found 7 taxa, reference tree has 23 taxa
+Tree 1185: found 7 taxa, reference tree has 23 taxa
+Tree 1186: found 6 taxa, reference tree has 23 taxa
+Tree 1187: found 7 taxa, reference tree has 23 taxa
+Tree 1188: found 7 taxa, reference tree has 23 taxa
+Tree 1189: found 7 taxa, reference tree has 23 taxa
+Tree 1190: found 7 taxa, reference tree has 23 taxa
+Tree 1191: found 7 taxa, reference tree has 23 taxa
+Tree 1192: found 7 taxa, reference tree has 23 taxa
+Tree 1193: found 8 taxa, reference tree has 23 taxa
+Tree 1194: found 8 taxa, reference tree has 23 taxa
+Tree 1195: found 8 taxa, reference tree has 23 taxa
+Tree 1196: found 8 taxa, reference tree has 23 taxa
+Tree 1197: found 8 taxa, reference tree has 23 taxa
+Tree 1198: found 8 taxa, reference tree has 23 taxa
+Tree 1199: found 8 taxa, reference tree has 23 taxa
+Tree 1200: found 8 taxa, reference tree has 23 taxa
+Tree 1201: found 8 taxa, reference tree has 23 taxa
+Tree 1202: found 9 taxa, reference tree has 23 taxa
+Tree 1203: found 9 taxa, reference tree has 23 taxa
+Tree 1204: found 9 taxa, reference tree has 23 taxa
+Tree 1205: found 9 taxa, reference tree has 23 taxa
+Tree 1206: found 9 taxa, reference tree has 23 taxa
+Tree 1207: found 9 taxa, reference tree has 23 taxa
+Tree 1208: found 9 taxa, reference tree has 23 taxa
+Tree 1209: found 9 taxa, reference tree has 23 taxa
+Tree 1210: found 9 taxa, reference tree has 23 taxa
+Tree 1211: found 7 taxa, reference tree has 23 taxa
+Tree 1212: found 9 taxa, reference tree has 23 taxa
+Tree 1213: found 9 taxa, reference tree has 23 taxa
+Tree 1214: found 9 taxa, reference tree has 23 taxa
+Tree 1215: found 9 taxa, reference tree has 23 taxa
+Tree 1216: found 9 taxa, reference tree has 23 taxa
+Tree 1217: found 9 taxa, reference tree has 23 taxa
+The trees in tree set don't have the same size, executing IC/TC algorithm with correction ... 
+Looping over partial gene trees
+ 1 / 1218 (0.08 %) 2 / 1218 (0.16 %) 3 / 1218 (0.25 %) 4 / 1218 (0.33 %) 5 / 1218 (0.41 %) 6 / 1218 (0.49 %) 7 / 1218 (0.57 %) 8 / 1218 (0.66 %) 9 / 1218 (0.74 %) 10 / 1218 (0.82 %) 11 / 1218 (0.90 %) 12 / 1218 (0.99 %) 13 / 1218 (1.07 %) 14 / 1218 (1.15 %) 15 / 1218 (1.23 %) 16 / 1218 (1.31 %) 17 / 1218 (1.40 %) 18 / 1218 (1.48 %) 19 / 1218 (1.56 %) 20 / 1218 (1.64 %) 21 / 1218 (1.72 %) 22 / 1218 (1.81 %) 23 / 1218 (1.89 %) 24 / 1218 (1.97 %) 25 / 1218 (2.05 %) 26 / 1218 (2.13 %) 27 / 1218 (2.22 %) 28 / 1218 (2.30 %) 29 / 1218 (2.38 %) 30 / 1218 (2.46 %) 31 / 1218 (2.55 %) 32 / 1218 (2.63 %) 33 / 1218 (2.71 %) 34 / 1218 (2.79 %) 35 / 1218 (2.87 %) 36 / 1218 (2.96 %) 37 / 1218 (3.04 %) 38 / 1218 (3.12 %) 39 / 1218 (3.20 %) 40 / 1218 (3.28 %) 41 / 1218 (3.37 %) 42 / 1218 (3.45 %) 43 / 1218 (3.53 %) 44 / 1218 (3.61 %) 45 / 1218 (3.69 %) 46 / 1218 (3.78 %) 47 / 1218 (3.86 %) 48 / 1218 (3.94 %) 49 / 1218 (4.02 %) 50 / 1218 (4.11 %) 51 / 1218 (4.19 %) 52 / 1218 (4.27 %) 53 / 1218 (4.35 %) 54 / 1218 (4.43 %) 55 / 1218 (4.52 %) 56 / 1218 (4.60 %) 57 / 1218 (4.68 %) 58 / 1218 (4.76 %) 59 / 1218 (4.84 %) 60 / 1218 (4.93 %) 61 / 1218 (5.01 %) 62 / 1218 (5.09 %) 63 / 1218 (5.17 %) 64 / 1218 (5.25 %) 65 / 1218 (5.34 %) 66 / 1218 (5.42 %) 67 / 1218 (5.50 %) 68 / 1218 (5.58 %) 69 / 1218 (5.67 %) 70 / 1218 (5.75 %) 71 / 1218 (5.83 %) 72 / 1218 (5.91 %) 73 / 1218 (5.99 %) 74 / 1218 (6.08 %) 75 / 1218 (6.16 %) 76 / 1218 (6.24 %) 77 / 1218 (6.32 %) 78 / 1218 (6.40 %) 79 / 1218 (6.49 %) 80 / 1218 (6.57 %) 81 / 1218 (6.65 %) 82 / 1218 (6.73 %) 83 / 1218 (6.81 %) 84 / 1218 (6.90 %) 85 / 1218 (6.98 %) 86 / 1218 (7.06 %) 87 / 1218 (7.14 %) 88 / 1218 (7.22 %) 89 / 1218 (7.31 %) 90 / 1218 (7.39 %) 91 / 1218 (7.47 %) 92 / 1218 (7.55 %) 93 / 1218 (7.64 %) 94 / 1218 (7.72 %) 95 / 1218 (7.80 %) 96 / 1218 (7.88 %) 97 / 1218 (7.96 %) 98 / 1218 (8.05 %) 99 / 1218 (8.13 %) 100 / 1218 (8.21 %) 101 / 1218 (8.29 %) 102 / 1218 (8.37 %) 103 / 1218 (8.46 %) 104 / 1218 (8.54 %) 105 / 1218 (8.62 %) 106 / 1218 (8.70 %) 107 / 1218 (8.78 %) 108 / 1218 (8.87 %) 109 / 1218 (8.95 %) 110 / 1218 (9.03 %) 111 / 1218 (9.11 %) 112 / 1218 (9.20 %) 113 / 1218 (9.28 %) 114 / 1218 (9.36 %) 115 / 1218 (9.44 %) 116 / 1218 (9.52 %) 117 / 1218 (9.61 %) 118 / 1218 (9.69 %) 119 / 1218 (9.77 %) 120 / 1218 (9.85 %) 121 / 1218 (9.93 %) 122 / 1218 (10.02 %) 123 / 1218 (10.10 %) 124 / 1218 (10.18 %) 125 / 1218 (10.26 %) 126 / 1218 (10.34 %) 127 / 1218 (10.43 %) 128 / 1218 (10.51 %) 129 / 1218 (10.59 %) 130 / 1218 (10.67 %) 131 / 1218 (10.76 %) 132 / 1218 (10.84 %) 133 / 1218 (10.92 %) 134 / 1218 (11.00 %) 135 / 1218 (11.08 %) 136 / 1218 (11.17 %) 137 / 1218 (11.25 %) 138 / 1218 (11.33 %) 139 / 1218 (11.41 %) 140 / 1218 (11.49 %) 141 / 1218 (11.58 %) 142 / 1218 (11.66 %) 143 / 1218 (11.74 %) 144 / 1218 (11.82 %) 145 / 1218 (11.90 %) 146 / 1218 (11.99 %) 147 / 1218 (12.07 %) 148 / 1218 (12.15 %) 149 / 1218 (12.23 %) 150 / 1218 (12.32 %) 151 / 1218 (12.40 %) 152 / 1218 (12.48 %) 153 / 1218 (12.56 %) 154 / 1218 (12.64 %) 155 / 1218 (12.73 %) 156 / 1218 (12.81 %) 157 / 1218 (12.89 %) 158 / 1218 (12.97 %) 159 / 1218 (13.05 %) 160 / 1218 (13.14 %) 161 / 1218 (13.22 %) 162 / 1218 (13.30 %) 163 / 1218 (13.38 %) 164 / 1218 (13.46 %) 165 / 1218 (13.55 %) 166 / 1218 (13.63 %) 167 / 1218 (13.71 %) 168 / 1218 (13.79 %) 169 / 1218 (13.88 %) 170 / 1218 (13.96 %) 171 / 1218 (14.04 %) 172 / 1218 (14.12 %) 173 / 1218 (14.20 %) 174 / 1218 (14.29 %) 175 / 1218 (14.37 %) 176 / 1218 (14.45 %) 177 / 1218 (14.53 %) 178 / 1218 (14.61 %) 179 / 1218 (14.70 %) 180 / 1218 (14.78 %) 181 / 1218 (14.86 %) 182 / 1218 (14.94 %) 183 / 1218 (15.02 %) 184 / 1218 (15.11 %) 185 / 1218 (15.19 %) 186 / 1218 (15.27 %) 187 / 1218 (15.35 %) 188 / 1218 (15.44 %) 189 / 1218 (15.52 %) 190 / 1218 (15.60 %) 191 / 1218 (15.68 %) 192 / 1218 (15.76 %) 193 / 1218 (15.85 %) 194 / 1218 (15.93 %) 195 / 1218 (16.01 %) 196 / 1218 (16.09 %) 197 / 1218 (16.17 %) 198 / 1218 (16.26 %) 199 / 1218 (16.34 %) 200 / 1218 (16.42 %) 201 / 1218 (16.50 %) 202 / 1218 (16.58 %) 203 / 1218 (16.67 %) 204 / 1218 (16.75 %) 205 / 1218 (16.83 %) 206 / 1218 (16.91 %) 207 / 1218 (17.00 %) 208 / 1218 (17.08 %) 209 / 1218 (17.16 %) 210 / 1218 (17.24 %) 211 / 1218 (17.32 %) 212 / 1218 (17.41 %) 213 / 1218 (17.49 %) 214 / 1218 (17.57 %) 215 / 1218 (17.65 %) 216 / 1218 (17.73 %) 217 / 1218 (17.82 %) 218 / 1218 (17.90 %) 219 / 1218 (17.98 %) 220 / 1218 (18.06 %) 221 / 1218 (18.14 %) 222 / 1218 (18.23 %) 223 / 1218 (18.31 %) 224 / 1218 (18.39 %) 225 / 1218 (18.47 %) 226 / 1218 (18.56 %) 227 / 1218 (18.64 %) 228 / 1218 (18.72 %) 229 / 1218 (18.80 %) 230 / 1218 (18.88 %) 231 / 1218 (18.97 %) 232 / 1218 (19.05 %) 233 / 1218 (19.13 %) 234 / 1218 (19.21 %) 235 / 1218 (19.29 %) 236 / 1218 (19.38 %) 237 / 1218 (19.46 %) 238 / 1218 (19.54 %) 239 / 1218 (19.62 %) 240 / 1218 (19.70 %) 241 / 1218 (19.79 %) 242 / 1218 (19.87 %) 243 / 1218 (19.95 %) 244 / 1218 (20.03 %) 245 / 1218 (20.11 %) 246 / 1218 (20.20 %) 247 / 1218 (20.28 %) 248 / 1218 (20.36 %) 249 / 1218 (20.44 %) 250 / 1218 (20.53 %) 251 / 1218 (20.61 %) 252 / 1218 (20.69 %) 253 / 1218 (20.77 %) 254 / 1218 (20.85 %) 255 / 1218 (20.94 %) 256 / 1218 (21.02 %) 257 / 1218 (21.10 %) 258 / 1218 (21.18 %) 259 / 1218 (21.26 %) 260 / 1218 (21.35 %) 261 / 1218 (21.43 %) 262 / 1218 (21.51 %) 263 / 1218 (21.59 %) 264 / 1218 (21.67 %) 265 / 1218 (21.76 %) 266 / 1218 (21.84 %) 267 / 1218 (21.92 %) 268 / 1218 (22.00 %) 269 / 1218 (22.09 %) 270 / 1218 (22.17 %) 271 / 1218 (22.25 %) 272 / 1218 (22.33 %) 273 / 1218 (22.41 %) 274 / 1218 (22.50 %) 275 / 1218 (22.58 %) 276 / 1218 (22.66 %) 277 / 1218 (22.74 %) 278 / 1218 (22.82 %) 279 / 1218 (22.91 %) 280 / 1218 (22.99 %) 281 / 1218 (23.07 %) 282 / 1218 (23.15 %) 283 / 1218 (23.23 %) 284 / 1218 (23.32 %) 285 / 1218 (23.40 %) 286 / 1218 (23.48 %) 287 / 1218 (23.56 %) 288 / 1218 (23.65 %) 289 / 1218 (23.73 %) 290 / 1218 (23.81 %) 291 / 1218 (23.89 %) 292 / 1218 (23.97 %) 293 / 1218 (24.06 %) 294 / 1218 (24.14 %) 295 / 1218 (24.22 %) 296 / 1218 (24.30 %) 297 / 1218 (24.38 %) 298 / 1218 (24.47 %) 299 / 1218 (24.55 %) 300 / 1218 (24.63 %) 301 / 1218 (24.71 %) 302 / 1218 (24.79 %) 303 / 1218 (24.88 %) 304 / 1218 (24.96 %) 305 / 1218 (25.04 %) 306 / 1218 (25.12 %) 307 / 1218 (25.21 %) 308 / 1218 (25.29 %) 309 / 1218 (25.37 %) 310 / 1218 (25.45 %) 311 / 1218 (25.53 %) 312 / 1218 (25.62 %) 313 / 1218 (25.70 %) 314 / 1218 (25.78 %) 315 / 1218 (25.86 %) 316 / 1218 (25.94 %) 317 / 1218 (26.03 %) 318 / 1218 (26.11 %) 319 / 1218 (26.19 %) 320 / 1218 (26.27 %) 321 / 1218 (26.35 %) 322 / 1218 (26.44 %) 323 / 1218 (26.52 %) 324 / 1218 (26.60 %) 325 / 1218 (26.68 %) 326 / 1218 (26.77 %) 327 / 1218 (26.85 %) 328 / 1218 (26.93 %) 329 / 1218 (27.01 %) 330 / 1218 (27.09 %) 331 / 1218 (27.18 %) 332 / 1218 (27.26 %) 333 / 1218 (27.34 %) 334 / 1218 (27.42 %) 335 / 1218 (27.50 %) 336 / 1218 (27.59 %) 337 / 1218 (27.67 %) 338 / 1218 (27.75 %) 339 / 1218 (27.83 %) 340 / 1218 (27.91 %) 341 / 1218 (28.00 %) 342 / 1218 (28.08 %) 343 / 1218 (28.16 %) 344 / 1218 (28.24 %) 345 / 1218 (28.33 %) 346 / 1218 (28.41 %) 347 / 1218 (28.49 %) 348 / 1218 (28.57 %) 349 / 1218 (28.65 %) 350 / 1218 (28.74 %) 351 / 1218 (28.82 %) 352 / 1218 (28.90 %) 353 / 1218 (28.98 %) 354 / 1218 (29.06 %) 355 / 1218 (29.15 %) 356 / 1218 (29.23 %) 357 / 1218 (29.31 %) 358 / 1218 (29.39 %) 359 / 1218 (29.47 %) 360 / 1218 (29.56 %) 361 / 1218 (29.64 %) 362 / 1218 (29.72 %) 363 / 1218 (29.80 %) 364 / 1218 (29.89 %) 365 / 1218 (29.97 %) 366 / 1218 (30.05 %) 367 / 1218 (30.13 %) 368 / 1218 (30.21 %) 369 / 1218 (30.30 %) 370 / 1218 (30.38 %) 371 / 1218 (30.46 %) 372 / 1218 (30.54 %) 373 / 1218 (30.62 %) 374 / 1218 (30.71 %) 375 / 1218 (30.79 %) 376 / 1218 (30.87 %) 377 / 1218 (30.95 %) 378 / 1218 (31.03 %) 379 / 1218 (31.12 %) 380 / 1218 (31.20 %) 381 / 1218 (31.28 %) 382 / 1218 (31.36 %) 383 / 1218 (31.44 %) 384 / 1218 (31.53 %) 385 / 1218 (31.61 %) 386 / 1218 (31.69 %) 387 / 1218 (31.77 %) 388 / 1218 (31.86 %) 389 / 1218 (31.94 %) 390 / 1218 (32.02 %) 391 / 1218 (32.10 %) 392 / 1218 (32.18 %) 393 / 1218 (32.27 %) 394 / 1218 (32.35 %) 395 / 1218 (32.43 %) 396 / 1218 (32.51 %) 397 / 1218 (32.59 %) 398 / 1218 (32.68 %) 399 / 1218 (32.76 %) 400 / 1218 (32.84 %) 401 / 1218 (32.92 %) 402 / 1218 (33.00 %) 403 / 1218 (33.09 %) 404 / 1218 (33.17 %) 405 / 1218 (33.25 %) 406 / 1218 (33.33 %) 407 / 1218 (33.42 %) 408 / 1218 (33.50 %) 409 / 1218 (33.58 %) 410 / 1218 (33.66 %) 411 / 1218 (33.74 %) 412 / 1218 (33.83 %) 413 / 1218 (33.91 %) 414 / 1218 (33.99 %) 415 / 1218 (34.07 %) 416 / 1218 (34.15 %) 417 / 1218 (34.24 %) 418 / 1218 (34.32 %) 419 / 1218 (34.40 %) 420 / 1218 (34.48 %) 421 / 1218 (34.56 %) 422 / 1218 (34.65 %) 423 / 1218 (34.73 %) 424 / 1218 (34.81 %) 425 / 1218 (34.89 %) 426 / 1218 (34.98 %) 427 / 1218 (35.06 %) 428 / 1218 (35.14 %) 429 / 1218 (35.22 %) 430 / 1218 (35.30 %) 431 / 1218 (35.39 %) 432 / 1218 (35.47 %) 433 / 1218 (35.55 %) 434 / 1218 (35.63 %) 435 / 1218 (35.71 %) 436 / 1218 (35.80 %) 437 / 1218 (35.88 %) 438 / 1218 (35.96 %) 439 / 1218 (36.04 %) 440 / 1218 (36.12 %) 441 / 1218 (36.21 %) 442 / 1218 (36.29 %) 443 / 1218 (36.37 %) 444 / 1218 (36.45 %) 445 / 1218 (36.54 %) 446 / 1218 (36.62 %) 447 / 1218 (36.70 %) 448 / 1218 (36.78 %) 449 / 1218 (36.86 %) 450 / 1218 (36.95 %) 451 / 1218 (37.03 %) 452 / 1218 (37.11 %) 453 / 1218 (37.19 %) 454 / 1218 (37.27 %) 455 / 1218 (37.36 %) 456 / 1218 (37.44 %) 457 / 1218 (37.52 %) 458 / 1218 (37.60 %) 459 / 1218 (37.68 %) 460 / 1218 (37.77 %) 461 / 1218 (37.85 %) 462 / 1218 (37.93 %) 463 / 1218 (38.01 %) 464 / 1218 (38.10 %) 465 / 1218 (38.18 %) 466 / 1218 (38.26 %) 467 / 1218 (38.34 %) 468 / 1218 (38.42 %) 469 / 1218 (38.51 %) 470 / 1218 (38.59 %) 471 / 1218 (38.67 %) 472 / 1218 (38.75 %) 473 / 1218 (38.83 %) 474 / 1218 (38.92 %) 475 / 1218 (39.00 %) 476 / 1218 (39.08 %) 477 / 1218 (39.16 %) 478 / 1218 (39.24 %) 479 / 1218 (39.33 %) 480 / 1218 (39.41 %) 481 / 1218 (39.49 %) 482 / 1218 (39.57 %) 483 / 1218 (39.66 %) 484 / 1218 (39.74 %) 485 / 1218 (39.82 %) 486 / 1218 (39.90 %) 487 / 1218 (39.98 %) 488 / 1218 (40.07 %) 489 / 1218 (40.15 %) 490 / 1218 (40.23 %) 491 / 1218 (40.31 %) 492 / 1218 (40.39 %) 493 / 1218 (40.48 %) 494 / 1218 (40.56 %) 495 / 1218 (40.64 %) 496 / 1218 (40.72 %) 497 / 1218 (40.80 %) 498 / 1218 (40.89 %) 499 / 1218 (40.97 %) 500 / 1218 (41.05 %) 501 / 1218 (41.13 %) 502 / 1218 (41.22 %) 503 / 1218 (41.30 %) 504 / 1218 (41.38 %) 505 / 1218 (41.46 %) 506 / 1218 (41.54 %) 507 / 1218 (41.63 %) 508 / 1218 (41.71 %) 509 / 1218 (41.79 %) 510 / 1218 (41.87 %) 511 / 1218 (41.95 %) 512 / 1218 (42.04 %) 513 / 1218 (42.12 %) 514 / 1218 (42.20 %) 515 / 1218 (42.28 %) 516 / 1218 (42.36 %) 517 / 1218 (42.45 %) 518 / 1218 (42.53 %) 519 / 1218 (42.61 %) 520 / 1218 (42.69 %) 521 / 1218 (42.78 %) 522 / 1218 (42.86 %) 523 / 1218 (42.94 %) 524 / 1218 (43.02 %) 525 / 1218 (43.10 %) 526 / 1218 (43.19 %) 527 / 1218 (43.27 %) 528 / 1218 (43.35 %) 529 / 1218 (43.43 %) 530 / 1218 (43.51 %) 531 / 1218 (43.60 %) 532 / 1218 (43.68 %) 533 / 1218 (43.76 %) 534 / 1218 (43.84 %) 535 / 1218 (43.92 %) 536 / 1218 (44.01 %) 537 / 1218 (44.09 %) 538 / 1218 (44.17 %) 539 / 1218 (44.25 %) 540 / 1218 (44.33 %) 541 / 1218 (44.42 %) 542 / 1218 (44.50 %) 543 / 1218 (44.58 %) 544 / 1218 (44.66 %) 545 / 1218 (44.75 %) 546 / 1218 (44.83 %) 547 / 1218 (44.91 %) 548 / 1218 (44.99 %) 549 / 1218 (45.07 %) 550 / 1218 (45.16 %) 551 / 1218 (45.24 %) 552 / 1218 (45.32 %) 553 / 1218 (45.40 %) 554 / 1218 (45.48 %) 555 / 1218 (45.57 %) 556 / 1218 (45.65 %) 557 / 1218 (45.73 %) 558 / 1218 (45.81 %) 559 / 1218 (45.89 %) 560 / 1218 (45.98 %) 561 / 1218 (46.06 %) 562 / 1218 (46.14 %) 563 / 1218 (46.22 %) 564 / 1218 (46.31 %) 565 / 1218 (46.39 %) 566 / 1218 (46.47 %) 567 / 1218 (46.55 %) 568 / 1218 (46.63 %) 569 / 1218 (46.72 %) 570 / 1218 (46.80 %) 571 / 1218 (46.88 %) 572 / 1218 (46.96 %) 573 / 1218 (47.04 %) 574 / 1218 (47.13 %) 575 / 1218 (47.21 %) 576 / 1218 (47.29 %) 577 / 1218 (47.37 %) 578 / 1218 (47.45 %) 579 / 1218 (47.54 %) 580 / 1218 (47.62 %) 581 / 1218 (47.70 %) 582 / 1218 (47.78 %) 583 / 1218 (47.87 %) 584 / 1218 (47.95 %) 585 / 1218 (48.03 %) 586 / 1218 (48.11 %) 587 / 1218 (48.19 %) 588 / 1218 (48.28 %) 589 / 1218 (48.36 %) 590 / 1218 (48.44 %) 591 / 1218 (48.52 %) 592 / 1218 (48.60 %) 593 / 1218 (48.69 %) 594 / 1218 (48.77 %) 595 / 1218 (48.85 %) 596 / 1218 (48.93 %) 597 / 1218 (49.01 %) 598 / 1218 (49.10 %) 599 / 1218 (49.18 %) 600 / 1218 (49.26 %) 601 / 1218 (49.34 %) 602 / 1218 (49.43 %) 603 / 1218 (49.51 %) 604 / 1218 (49.59 %) 605 / 1218 (49.67 %) 606 / 1218 (49.75 %) 607 / 1218 (49.84 %) 608 / 1218 (49.92 %) 609 / 1218 (50.00 %) 610 / 1218 (50.08 %) 611 / 1218 (50.16 %) 612 / 1218 (50.25 %) 613 / 1218 (50.33 %) 614 / 1218 (50.41 %) 615 / 1218 (50.49 %) 616 / 1218 (50.57 %) 617 / 1218 (50.66 %) 618 / 1218 (50.74 %) 619 / 1218 (50.82 %) 620 / 1218 (50.90 %) 621 / 1218 (50.99 %) 622 / 1218 (51.07 %) 623 / 1218 (51.15 %) 624 / 1218 (51.23 %) 625 / 1218 (51.31 %) 626 / 1218 (51.40 %) 627 / 1218 (51.48 %) 628 / 1218 (51.56 %) 629 / 1218 (51.64 %) 630 / 1218 (51.72 %) 631 / 1218 (51.81 %) 632 / 1218 (51.89 %) 633 / 1218 (51.97 %) 634 / 1218 (52.05 %) 635 / 1218 (52.13 %) 636 / 1218 (52.22 %) 637 / 1218 (52.30 %) 638 / 1218 (52.38 %) 639 / 1218 (52.46 %) 640 / 1218 (52.55 %) 641 / 1218 (52.63 %) 642 / 1218 (52.71 %) 643 / 1218 (52.79 %) 644 / 1218 (52.87 %) 645 / 1218 (52.96 %) 646 / 1218 (53.04 %) 647 / 1218 (53.12 %) 648 / 1218 (53.20 %) 649 / 1218 (53.28 %) 650 / 1218 (53.37 %) 651 / 1218 (53.45 %) 652 / 1218 (53.53 %) 653 / 1218 (53.61 %) 654 / 1218 (53.69 %) 655 / 1218 (53.78 %) 656 / 1218 (53.86 %) 657 / 1218 (53.94 %) 658 / 1218 (54.02 %) 659 / 1218 (54.11 %) 660 / 1218 (54.19 %) 661 / 1218 (54.27 %) 662 / 1218 (54.35 %) 663 / 1218 (54.43 %) 664 / 1218 (54.52 %) 665 / 1218 (54.60 %) 666 / 1218 (54.68 %) 667 / 1218 (54.76 %) 668 / 1218 (54.84 %) 669 / 1218 (54.93 %) 670 / 1218 (55.01 %) 671 / 1218 (55.09 %) 672 / 1218 (55.17 %) 673 / 1218 (55.25 %) 674 / 1218 (55.34 %) 675 / 1218 (55.42 %) 676 / 1218 (55.50 %) 677 / 1218 (55.58 %) 678 / 1218 (55.67 %) 679 / 1218 (55.75 %) 680 / 1218 (55.83 %) 681 / 1218 (55.91 %) 682 / 1218 (55.99 %) 683 / 1218 (56.08 %) 684 / 1218 (56.16 %) 685 / 1218 (56.24 %) 686 / 1218 (56.32 %) 687 / 1218 (56.40 %) 688 / 1218 (56.49 %) 689 / 1218 (56.57 %) 690 / 1218 (56.65 %) 691 / 1218 (56.73 %) 692 / 1218 (56.81 %) 693 / 1218 (56.90 %) 694 / 1218 (56.98 %) 695 / 1218 (57.06 %) 696 / 1218 (57.14 %) 697 / 1218 (57.22 %) 698 / 1218 (57.31 %) 699 / 1218 (57.39 %) 700 / 1218 (57.47 %) 701 / 1218 (57.55 %) 702 / 1218 (57.64 %) 703 / 1218 (57.72 %) 704 / 1218 (57.80 %) 705 / 1218 (57.88 %) 706 / 1218 (57.96 %) 707 / 1218 (58.05 %) 708 / 1218 (58.13 %) 709 / 1218 (58.21 %) 710 / 1218 (58.29 %) 711 / 1218 (58.37 %) 712 / 1218 (58.46 %) 713 / 1218 (58.54 %) 714 / 1218 (58.62 %) 715 / 1218 (58.70 %) 716 / 1218 (58.78 %) 717 / 1218 (58.87 %) 718 / 1218 (58.95 %) 719 / 1218 (59.03 %) 720 / 1218 (59.11 %) 721 / 1218 (59.20 %) 722 / 1218 (59.28 %) 723 / 1218 (59.36 %) 724 / 1218 (59.44 %) 725 / 1218 (59.52 %) 726 / 1218 (59.61 %) 727 / 1218 (59.69 %) 728 / 1218 (59.77 %) 729 / 1218 (59.85 %) 730 / 1218 (59.93 %) 731 / 1218 (60.02 %) 732 / 1218 (60.10 %) 733 / 1218 (60.18 %) 734 / 1218 (60.26 %) 735 / 1218 (60.34 %) 736 / 1218 (60.43 %) 737 / 1218 (60.51 %) 738 / 1218 (60.59 %) 739 / 1218 (60.67 %) 740 / 1218 (60.76 %) 741 / 1218 (60.84 %) 742 / 1218 (60.92 %) 743 / 1218 (61.00 %) 744 / 1218 (61.08 %) 745 / 1218 (61.17 %) 746 / 1218 (61.25 %) 747 / 1218 (61.33 %) 748 / 1218 (61.41 %) 749 / 1218 (61.49 %) 750 / 1218 (61.58 %) 751 / 1218 (61.66 %) 752 / 1218 (61.74 %) 753 / 1218 (61.82 %) 754 / 1218 (61.90 %) 755 / 1218 (61.99 %) 756 / 1218 (62.07 %) 757 / 1218 (62.15 %) 758 / 1218 (62.23 %) 759 / 1218 (62.32 %) 760 / 1218 (62.40 %) 761 / 1218 (62.48 %) 762 / 1218 (62.56 %) 763 / 1218 (62.64 %) 764 / 1218 (62.73 %) 765 / 1218 (62.81 %) 766 / 1218 (62.89 %) 767 / 1218 (62.97 %) 768 / 1218 (63.05 %) 769 / 1218 (63.14 %) 770 / 1218 (63.22 %) 771 / 1218 (63.30 %) 772 / 1218 (63.38 %) 773 / 1218 (63.46 %) 774 / 1218 (63.55 %) 775 / 1218 (63.63 %) 776 / 1218 (63.71 %) 777 / 1218 (63.79 %) 778 / 1218 (63.88 %) 779 / 1218 (63.96 %) 780 / 1218 (64.04 %) 781 / 1218 (64.12 %) 782 / 1218 (64.20 %) 783 / 1218 (64.29 %) 784 / 1218 (64.37 %) 785 / 1218 (64.45 %) 786 / 1218 (64.53 %) 787 / 1218 (64.61 %) 788 / 1218 (64.70 %) 789 / 1218 (64.78 %) 790 / 1218 (64.86 %) 791 / 1218 (64.94 %) 792 / 1218 (65.02 %) 793 / 1218 (65.11 %) 794 / 1218 (65.19 %) 795 / 1218 (65.27 %) 796 / 1218 (65.35 %) 797 / 1218 (65.44 %) 798 / 1218 (65.52 %) 799 / 1218 (65.60 %) 800 / 1218 (65.68 %) 801 / 1218 (65.76 %) 802 / 1218 (65.85 %) 803 / 1218 (65.93 %) 804 / 1218 (66.01 %) 805 / 1218 (66.09 %) 806 / 1218 (66.17 %) 807 / 1218 (66.26 %) 808 / 1218 (66.34 %) 809 / 1218 (66.42 %) 810 / 1218 (66.50 %) 811 / 1218 (66.58 %) 812 / 1218 (66.67 %) 813 / 1218 (66.75 %) 814 / 1218 (66.83 %) 815 / 1218 (66.91 %) 816 / 1218 (67.00 %) 817 / 1218 (67.08 %) 818 / 1218 (67.16 %) 819 / 1218 (67.24 %) 820 / 1218 (67.32 %) 821 / 1218 (67.41 %) 822 / 1218 (67.49 %) 823 / 1218 (67.57 %) 824 / 1218 (67.65 %) 825 / 1218 (67.73 %) 826 / 1218 (67.82 %) 827 / 1218 (67.90 %) 828 / 1218 (67.98 %) 829 / 1218 (68.06 %) 830 / 1218 (68.14 %) 831 / 1218 (68.23 %) 832 / 1218 (68.31 %) 833 / 1218 (68.39 %) 834 / 1218 (68.47 %) 835 / 1218 (68.56 %) 836 / 1218 (68.64 %) 837 / 1218 (68.72 %) 838 / 1218 (68.80 %) 839 / 1218 (68.88 %) 840 / 1218 (68.97 %) 841 / 1218 (69.05 %) 842 / 1218 (69.13 %) 843 / 1218 (69.21 %) 844 / 1218 (69.29 %) 845 / 1218 (69.38 %) 846 / 1218 (69.46 %) 847 / 1218 (69.54 %) 848 / 1218 (69.62 %) 849 / 1218 (69.70 %) 850 / 1218 (69.79 %) 851 / 1218 (69.87 %) 852 / 1218 (69.95 %) 853 / 1218 (70.03 %) 854 / 1218 (70.11 %) 855 / 1218 (70.20 %) 856 / 1218 (70.28 %) 857 / 1218 (70.36 %) 858 / 1218 (70.44 %) 859 / 1218 (70.53 %) 860 / 1218 (70.61 %) 861 / 1218 (70.69 %) 862 / 1218 (70.77 %) 863 / 1218 (70.85 %) 864 / 1218 (70.94 %) 865 / 1218 (71.02 %) 866 / 1218 (71.10 %) 867 / 1218 (71.18 %) 868 / 1218 (71.26 %) 869 / 1218 (71.35 %) 870 / 1218 (71.43 %) 871 / 1218 (71.51 %) 872 / 1218 (71.59 %) 873 / 1218 (71.67 %) 874 / 1218 (71.76 %) 875 / 1218 (71.84 %) 876 / 1218 (71.92 %) 877 / 1218 (72.00 %) 878 / 1218 (72.09 %) 879 / 1218 (72.17 %) 880 / 1218 (72.25 %) 881 / 1218 (72.33 %) 882 / 1218 (72.41 %) 883 / 1218 (72.50 %) 884 / 1218 (72.58 %) 885 / 1218 (72.66 %) 886 / 1218 (72.74 %) 887 / 1218 (72.82 %) 888 / 1218 (72.91 %) 889 / 1218 (72.99 %) 890 / 1218 (73.07 %) 891 / 1218 (73.15 %) 892 / 1218 (73.23 %) 893 / 1218 (73.32 %) 894 / 1218 (73.40 %) 895 / 1218 (73.48 %) 896 / 1218 (73.56 %) 897 / 1218 (73.65 %) 898 / 1218 (73.73 %) 899 / 1218 (73.81 %) 900 / 1218 (73.89 %) 901 / 1218 (73.97 %) 902 / 1218 (74.06 %) 903 / 1218 (74.14 %) 904 / 1218 (74.22 %) 905 / 1218 (74.30 %) 906 / 1218 (74.38 %) 907 / 1218 (74.47 %) 908 / 1218 (74.55 %) 909 / 1218 (74.63 %) 910 / 1218 (74.71 %) 911 / 1218 (74.79 %) 912 / 1218 (74.88 %) 913 / 1218 (74.96 %) 914 / 1218 (75.04 %) 915 / 1218 (75.12 %) 916 / 1218 (75.21 %) 917 / 1218 (75.29 %) 918 / 1218 (75.37 %) 919 / 1218 (75.45 %) 920 / 1218 (75.53 %) 921 / 1218 (75.62 %) 922 / 1218 (75.70 %) 923 / 1218 (75.78 %) 924 / 1218 (75.86 %) 925 / 1218 (75.94 %) 926 / 1218 (76.03 %) 927 / 1218 (76.11 %) 928 / 1218 (76.19 %) 929 / 1218 (76.27 %) 930 / 1218 (76.35 %) 931 / 1218 (76.44 %) 932 / 1218 (76.52 %) 933 / 1218 (76.60 %) 934 / 1218 (76.68 %) 935 / 1218 (76.77 %) 936 / 1218 (76.85 %) 937 / 1218 (76.93 %) 938 / 1218 (77.01 %) 939 / 1218 (77.09 %) 940 / 1218 (77.18 %) 941 / 1218 (77.26 %) 942 / 1218 (77.34 %) 943 / 1218 (77.42 %) 944 / 1218 (77.50 %) 945 / 1218 (77.59 %) 946 / 1218 (77.67 %) 947 / 1218 (77.75 %) 948 / 1218 (77.83 %) 949 / 1218 (77.91 %) 950 / 1218 (78.00 %) 951 / 1218 (78.08 %) 952 / 1218 (78.16 %) 953 / 1218 (78.24 %) 954 / 1218 (78.33 %) 955 / 1218 (78.41 %) 956 / 1218 (78.49 %) 957 / 1218 (78.57 %) 958 / 1218 (78.65 %) 959 / 1218 (78.74 %) 960 / 1218 (78.82 %) 961 / 1218 (78.90 %) 962 / 1218 (78.98 %) 963 / 1218 (79.06 %) 964 / 1218 (79.15 %) 965 / 1218 (79.23 %) 966 / 1218 (79.31 %) 967 / 1218 (79.39 %) 968 / 1218 (79.47 %) 969 / 1218 (79.56 %) 970 / 1218 (79.64 %) 971 / 1218 (79.72 %) 972 / 1218 (79.80 %) 973 / 1218 (79.89 %) 974 / 1218 (79.97 %) 975 / 1218 (80.05 %) 976 / 1218 (80.13 %) 977 / 1218 (80.21 %) 978 / 1218 (80.30 %) 979 / 1218 (80.38 %) 980 / 1218 (80.46 %) 981 / 1218 (80.54 %) 982 / 1218 (80.62 %) 983 / 1218 (80.71 %) 984 / 1218 (80.79 %) 985 / 1218 (80.87 %) 986 / 1218 (80.95 %) 987 / 1218 (81.03 %) 988 / 1218 (81.12 %) 989 / 1218 (81.20 %) 990 / 1218 (81.28 %) 991 / 1218 (81.36 %) 992 / 1218 (81.44 %) 993 / 1218 (81.53 %) 994 / 1218 (81.61 %) 995 / 1218 (81.69 %) 996 / 1218 (81.77 %) 997 / 1218 (81.86 %) 998 / 1218 (81.94 %) 999 / 1218 (82.02 %) 1000 / 1218 (82.10 %) 1001 / 1218 (82.18 %) 1002 / 1218 (82.27 %) 1003 / 1218 (82.35 %) 1004 / 1218 (82.43 %) 1005 / 1218 (82.51 %) 1006 / 1218 (82.59 %) 1007 / 1218 (82.68 %) 1008 / 1218 (82.76 %) 1009 / 1218 (82.84 %) 1010 / 1218 (82.92 %) 1011 / 1218 (83.00 %) 1012 / 1218 (83.09 %) 1013 / 1218 (83.17 %) 1014 / 1218 (83.25 %) 1015 / 1218 (83.33 %) 1016 / 1218 (83.42 %) 1017 / 1218 (83.50 %) 1018 / 1218 (83.58 %) 1019 / 1218 (83.66 %) 1020 / 1218 (83.74 %) 1021 / 1218 (83.83 %) 1022 / 1218 (83.91 %) 1023 / 1218 (83.99 %) 1024 / 1218 (84.07 %) 1025 / 1218 (84.15 %) 1026 / 1218 (84.24 %) 1027 / 1218 (84.32 %) 1028 / 1218 (84.40 %) 1029 / 1218 (84.48 %) 1030 / 1218 (84.56 %) 1031 / 1218 (84.65 %) 1032 / 1218 (84.73 %) 1033 / 1218 (84.81 %) 1034 / 1218 (84.89 %) 1035 / 1218 (84.98 %) 1036 / 1218 (85.06 %) 1037 / 1218 (85.14 %) 1038 / 1218 (85.22 %) 1039 / 1218 (85.30 %) 1040 / 1218 (85.39 %) 1041 / 1218 (85.47 %) 1042 / 1218 (85.55 %) 1043 / 1218 (85.63 %) 1044 / 1218 (85.71 %) 1045 / 1218 (85.80 %) 1046 / 1218 (85.88 %) 1047 / 1218 (85.96 %) 1048 / 1218 (86.04 %) 1049 / 1218 (86.12 %) 1050 / 1218 (86.21 %) 1051 / 1218 (86.29 %) 1052 / 1218 (86.37 %) 1053 / 1218 (86.45 %) 1054 / 1218 (86.54 %) 1055 / 1218 (86.62 %) 1056 / 1218 (86.70 %) 1057 / 1218 (86.78 %) 1058 / 1218 (86.86 %) 1059 / 1218 (86.95 %) 1060 / 1218 (87.03 %) 1061 / 1218 (87.11 %) 1062 / 1218 (87.19 %) 1063 / 1218 (87.27 %) 1064 / 1218 (87.36 %) 1065 / 1218 (87.44 %) 1066 / 1218 (87.52 %) 1067 / 1218 (87.60 %) 1068 / 1218 (87.68 %) 1069 / 1218 (87.77 %) 1070 / 1218 (87.85 %) 1071 / 1218 (87.93 %) 1072 / 1218 (88.01 %) 1073 / 1218 (88.10 %) 1074 / 1218 (88.18 %) 1075 / 1218 (88.26 %) 1076 / 1218 (88.34 %) 1077 / 1218 (88.42 %) 1078 / 1218 (88.51 %) 1079 / 1218 (88.59 %) 1080 / 1218 (88.67 %) 1081 / 1218 (88.75 %) 1082 / 1218 (88.83 %) 1083 / 1218 (88.92 %) 1084 / 1218 (89.00 %) 1085 / 1218 (89.08 %) 1086 / 1218 (89.16 %) 1087 / 1218 (89.24 %) 1088 / 1218 (89.33 %) 1089 / 1218 (89.41 %) 1090 / 1218 (89.49 %) 1091 / 1218 (89.57 %) 1092 / 1218 (89.66 %) 1093 / 1218 (89.74 %) 1094 / 1218 (89.82 %) 1095 / 1218 (89.90 %) 1096 / 1218 (89.98 %) 1097 / 1218 (90.07 %) 1098 / 1218 (90.15 %) 1099 / 1218 (90.23 %) 1100 / 1218 (90.31 %) 1101 / 1218 (90.39 %) 1102 / 1218 (90.48 %) 1103 / 1218 (90.56 %) 1104 / 1218 (90.64 %) 1105 / 1218 (90.72 %) 1106 / 1218 (90.80 %) 1107 / 1218 (90.89 %) 1108 / 1218 (90.97 %) 1109 / 1218 (91.05 %) 1110 / 1218 (91.13 %) 1111 / 1218 (91.22 %) 1112 / 1218 (91.30 %) 1113 / 1218 (91.38 %) 1114 / 1218 (91.46 %) 1115 / 1218 (91.54 %) 1116 / 1218 (91.63 %) 1117 / 1218 (91.71 %) 1118 / 1218 (91.79 %) 1119 / 1218 (91.87 %) 1120 / 1218 (91.95 %) 1121 / 1218 (92.04 %) 1122 / 1218 (92.12 %) 1123 / 1218 (92.20 %) 1124 / 1218 (92.28 %) 1125 / 1218 (92.36 %) 1126 / 1218 (92.45 %) 1127 / 1218 (92.53 %) 1128 / 1218 (92.61 %) 1129 / 1218 (92.69 %) 1130 / 1218 (92.78 %) 1131 / 1218 (92.86 %) 1132 / 1218 (92.94 %) 1133 / 1218 (93.02 %) 1134 / 1218 (93.10 %) 1135 / 1218 (93.19 %) 1136 / 1218 (93.27 %) 1137 / 1218 (93.35 %) 1138 / 1218 (93.43 %) 1139 / 1218 (93.51 %) 1140 / 1218 (93.60 %) 1141 / 1218 (93.68 %) 1142 / 1218 (93.76 %) 1143 / 1218 (93.84 %) 1144 / 1218 (93.92 %) 1145 / 1218 (94.01 %) 1146 / 1218 (94.09 %) 1147 / 1218 (94.17 %) 1148 / 1218 (94.25 %) 1149 / 1218 (94.33 %) 1150 / 1218 (94.42 %) 1151 / 1218 (94.50 %) 1152 / 1218 (94.58 %) 1153 / 1218 (94.66 %) 1154 / 1218 (94.75 %) 1155 / 1218 (94.83 %) 1156 / 1218 (94.91 %) 1157 / 1218 (94.99 %) 1158 / 1218 (95.07 %) 1159 / 1218 (95.16 %) 1160 / 1218 (95.24 %) 1161 / 1218 (95.32 %) 1162 / 1218 (95.40 %) 1163 / 1218 (95.48 %) 1164 / 1218 (95.57 %) 1165 / 1218 (95.65 %) 1166 / 1218 (95.73 %) 1167 / 1218 (95.81 %) 1168 / 1218 (95.89 %) 1169 / 1218 (95.98 %) 1170 / 1218 (96.06 %) 1171 / 1218 (96.14 %) 1172 / 1218 (96.22 %) 1173 / 1218 (96.31 %) 1174 / 1218 (96.39 %) 1175 / 1218 (96.47 %) 1176 / 1218 (96.55 %) 1177 / 1218 (96.63 %) 1178 / 1218 (96.72 %) 1179 / 1218 (96.80 %) 1180 / 1218 (96.88 %) 1181 / 1218 (96.96 %) 1182 / 1218 (97.04 %) 1183 / 1218 (97.13 %) 1184 / 1218 (97.21 %) 1185 / 1218 (97.29 %) 1186 / 1218 (97.37 %) 1187 / 1218 (97.45 %) 1188 / 1218 (97.54 %) 1189 / 1218 (97.62 %) 1190 / 1218 (97.70 %) 1191 / 1218 (97.78 %) 1192 / 1218 (97.87 %) 1193 / 1218 (97.95 %) 1194 / 1218 (98.03 %) 1195 / 1218 (98.11 %) 1196 / 1218 (98.19 %) 1197 / 1218 (98.28 %) 1198 / 1218 (98.36 %) 1199 / 1218 (98.44 %) 1200 / 1218 (98.52 %) 1201 / 1218 (98.60 %) 1202 / 1218 (98.69 %) 1203 / 1218 (98.77 %) 1204 / 1218 (98.85 %) 1205 / 1218 (98.93 %) 1206 / 1218 (99.01 %) 1207 / 1218 (99.10 %) 1208 / 1218 (99.18 %) 1209 / 1218 (99.26 %) 1210 / 1218 (99.34 %) 1211 / 1218 (99.43 %) 1212 / 1218 (99.51 %) 1213 / 1218 (99.59 %) 1214 / 1218 (99.67 %) 1215 / 1218 (99.75 %) 1216 / 1218 (99.84 %) 1217 / 1218 (99.92 %) 1218 / 1218 (100.00 %)
+Setting up list of partial bipartitions from hashtable.
+ 0 / 255 (0.00 %) 1 / 255 (0.39 %) 2 / 255 (0.78 %) 3 / 255 (1.18 %) 4 / 255 (1.57 %) 5 / 255 (1.96 %) 6 / 255 (2.35 %) 7 / 255 (2.75 %) 8 / 255 (3.14 %) 9 / 255 (3.53 %) 10 / 255 (3.92 %) 11 / 255 (4.31 %) 12 / 255 (4.71 %) 13 / 255 (5.10 %) 14 / 255 (5.49 %) 15 / 255 (5.88 %) 16 / 255 (6.27 %) 17 / 255 (6.67 %) 18 / 255 (7.06 %) 19 / 255 (7.45 %) 20 / 255 (7.84 %) 21 / 255 (8.24 %) 22 / 255 (8.63 %) 23 / 255 (9.02 %) 24 / 255 (9.41 %) 25 / 255 (9.80 %) 26 / 255 (10.20 %) 27 / 255 (10.59 %) 28 / 255 (10.98 %) 29 / 255 (11.37 %) 30 / 255 (11.76 %) 31 / 255 (12.16 %) 32 / 255 (12.55 %) 33 / 255 (12.94 %) 34 / 255 (13.33 %) 35 / 255 (13.73 %) 36 / 255 (14.12 %) 37 / 255 (14.51 %) 38 / 255 (14.90 %) 39 / 255 (15.29 %) 40 / 255 (15.69 %) 41 / 255 (16.08 %) 42 / 255 (16.47 %) 43 / 255 (16.86 %) 44 / 255 (17.25 %) 45 / 255 (17.65 %) 46 / 255 (18.04 %) 47 / 255 (18.43 %) 48 / 255 (18.82 %) 49 / 255 (19.22 %) 50 / 255 (19.61 %) 51 / 255 (20.00 %) 52 / 255 (20.39 %) 53 / 255 (20.78 %) 54 / 255 (21.18 %) 55 / 255 (21.57 %) 56 / 255 (21.96 %) 57 / 255 (22.35 %) 58 / 255 (22.75 %) 59 / 255 (23.14 %) 60 / 255 (23.53 %) 61 / 255 (23.92 %) 62 / 255 (24.31 %) 63 / 255 (24.71 %) 64 / 255 (25.10 %) 65 / 255 (25.49 %) 66 / 255 (25.88 %) 67 / 255 (26.27 %) 68 / 255 (26.67 %) 69 / 255 (27.06 %) 70 / 255 (27.45 %) 71 / 255 (27.84 %) 72 / 255 (28.24 %) 73 / 255 (28.63 %) 74 / 255 (29.02 %) 75 / 255 (29.41 %) 76 / 255 (29.80 %) 77 / 255 (30.20 %) 78 / 255 (30.59 %) 79 / 255 (30.98 %) 80 / 255 (31.37 %) 81 / 255 (31.76 %) 82 / 255 (32.16 %) 83 / 255 (32.55 %) 84 / 255 (32.94 %) 85 / 255 (33.33 %) 86 / 255 (33.73 %) 87 / 255 (34.12 %) 88 / 255 (34.51 %) 89 / 255 (34.90 %) 90 / 255 (35.29 %) 91 / 255 (35.69 %) 92 / 255 (36.08 %) 93 / 255 (36.47 %) 94 / 255 (36.86 %) 95 / 255 (37.25 %) 96 / 255 (37.65 %) 97 / 255 (38.04 %) 98 / 255 (38.43 %) 99 / 255 (38.82 %) 100 / 255 (39.22 %) 101 / 255 (39.61 %) 102 / 255 (40.00 %) 103 / 255 (40.39 %) 104 / 255 (40.78 %) 105 / 255 (41.18 %) 106 / 255 (41.57 %) 107 / 255 (41.96 %) 108 / 255 (42.35 %) 109 / 255 (42.75 %) 110 / 255 (43.14 %) 111 / 255 (43.53 %) 112 / 255 (43.92 %) 113 / 255 (44.31 %) 114 / 255 (44.71 %) 115 / 255 (45.10 %) 116 / 255 (45.49 %) 117 / 255 (45.88 %) 118 / 255 (46.27 %) 119 / 255 (46.67 %) 120 / 255 (47.06 %) 121 / 255 (47.45 %) 122 / 255 (47.84 %) 123 / 255 (48.24 %) 124 / 255 (48.63 %) 125 / 255 (49.02 %) 126 / 255 (49.41 %) 127 / 255 (49.80 %) 128 / 255 (50.20 %) 129 / 255 (50.59 %) 130 / 255 (50.98 %) 131 / 255 (51.37 %) 132 / 255 (51.76 %) 133 / 255 (52.16 %) 134 / 255 (52.55 %) 135 / 255 (52.94 %) 136 / 255 (53.33 %) 137 / 255 (53.73 %) 138 / 255 (54.12 %) 139 / 255 (54.51 %) 140 / 255 (54.90 %) 141 / 255 (55.29 %) 142 / 255 (55.69 %) 143 / 255 (56.08 %) 144 / 255 (56.47 %) 145 / 255 (56.86 %) 146 / 255 (57.25 %) 147 / 255 (57.65 %) 148 / 255 (58.04 %) 149 / 255 (58.43 %) 150 / 255 (58.82 %) 151 / 255 (59.22 %) 152 / 255 (59.61 %) 153 / 255 (60.00 %) 154 / 255 (60.39 %) 155 / 255 (60.78 %) 156 / 255 (61.18 %) 157 / 255 (61.57 %) 158 / 255 (61.96 %) 159 / 255 (62.35 %) 160 / 255 (62.75 %) 161 / 255 (63.14 %) 162 / 255 (63.53 %) 163 / 255 (63.92 %) 164 / 255 (64.31 %) 165 / 255 (64.71 %) 166 / 255 (65.10 %) 167 / 255 (65.49 %) 168 / 255 (65.88 %) 169 / 255 (66.27 %) 170 / 255 (66.67 %) 171 / 255 (67.06 %) 172 / 255 (67.45 %) 173 / 255 (67.84 %) 174 / 255 (68.24 %) 175 / 255 (68.63 %) 176 / 255 (69.02 %) 177 / 255 (69.41 %) 178 / 255 (69.80 %) 179 / 255 (70.20 %) 180 / 255 (70.59 %) 181 / 255 (70.98 %) 182 / 255 (71.37 %) 183 / 255 (71.76 %) 184 / 255 (72.16 %) 185 / 255 (72.55 %) 186 / 255 (72.94 %) 187 / 255 (73.33 %) 188 / 255 (73.73 %) 189 / 255 (74.12 %) 190 / 255 (74.51 %) 191 / 255 (74.90 %) 192 / 255 (75.29 %) 193 / 255 (75.69 %) 194 / 255 (76.08 %) 195 / 255 (76.47 %) 196 / 255 (76.86 %) 197 / 255 (77.25 %) 198 / 255 (77.65 %) 199 / 255 (78.04 %) 200 / 255 (78.43 %) 201 / 255 (78.82 %) 202 / 255 (79.22 %) 203 / 255 (79.61 %) 204 / 255 (80.00 %) 205 / 255 (80.39 %) 206 / 255 (80.78 %) 207 / 255 (81.18 %) 208 / 255 (81.57 %) 209 / 255 (81.96 %) 210 / 255 (82.35 %) 211 / 255 (82.75 %) 212 / 255 (83.14 %) 213 / 255 (83.53 %) 214 / 255 (83.92 %) 215 / 255 (84.31 %) 216 / 255 (84.71 %) 217 / 255 (85.10 %) 218 / 255 (85.49 %) 219 / 255 (85.88 %) 220 / 255 (86.27 %) 221 / 255 (86.67 %) 222 / 255 (87.06 %) 223 / 255 (87.45 %) 224 / 255 (87.84 %) 225 / 255 (88.24 %) 226 / 255 (88.63 %) 227 / 255 (89.02 %) 228 / 255 (89.41 %) 229 / 255 (89.80 %) 230 / 255 (90.20 %) 231 / 255 (90.59 %) 232 / 255 (90.98 %) 233 / 255 (91.37 %) 234 / 255 (91.76 %) 235 / 255 (92.16 %) 236 / 255 (92.55 %) 237 / 255 (92.94 %) 238 / 255 (93.33 %) 239 / 255 (93.73 %) 240 / 255 (94.12 %) 241 / 255 (94.51 %) 242 / 255 (94.90 %) 243 / 255 (95.29 %) 244 / 255 (95.69 %) 245 / 255 (96.08 %) 246 / 255 (96.47 %) 247 / 255 (96.86 %) 248 / 255 (97.25 %) 249 / 255 (97.65 %) 250 / 255 (98.04 %) 251 / 255 (98.43 %) 252 / 255 (98.82 %) 253 / 255 (99.22 %) 254 / 255 (99.61 %) 255 / 255 (100.00 %)
+Adjusting score for reference bipartitions
+ 1 / 20 (5.00 %)  2 / 20 (10.00 %)  3 / 20 (15.00 %)  4 / 20 (20.00 %)  5 / 20 (25.00 %)  6 / 20 (30.00 %)  7 / 20 (35.00 %)  8 / 20 (40.00 %)  9 / 20 (45.00 %)  10 / 20 (50.00 %)  11 / 20 (55.00 %)  12 / 20 (60.00 %)  13 / 20 (65.00 %)  14 / 20 (70.00 %)  15 / 20 (75.00 %)  16 / 20 (80.00 %)  17 / 20 (85.00 %)  18 / 20 (90.00 %)  19 / 20 (95.00 %)  20 / 20 (100.00 %) 
+Sorting bipartitions.
+Adjusting support
+ 0 / 3621 (0.00 %) 1 / 3605 (0.03 %) 2 / 3585 (0.06 %) 3 / 3566 (0.08 %) 4 / 3564 (0.11 %) 5 / 3545 (0.14 %) 6 / 3530 (0.17 %) 7 / 3517 (0.20 %) 8 / 3516 (0.23 %) 9 / 3510 (0.26 %) 10 / 3506 (0.29 %) 11 / 3490 (0.32 %) 12 / 3481 (0.34 %) 13 / 3471 (0.37 %) 14 / 3470 (0.40 %) 15 / 3470 (0.43 %) 16 / 3465 (0.46 %) 17 / 3463 (0.49 %) 18 / 3459 (0.52 %) 19 / 3458 (0.55 %) 20 / 3457 (0.58 %) 21 / 3456 (0.61 %) 22 / 3455 (0.64 %) 23 / 3451 (0.67 %) 24 / 3434 (0.70 %) 25 / 3433 (0.73 %) 26 / 3429 (0.76 %) 27 / 3428 (0.79 %) 28 / 3417 (0.82 %) 29 / 3413 (0.85 %) 30 / 3409 (0.88 %) 31 / 3399 (0.91 %) 32 / 3399 (0.94 %) 33 / 3387 (0.97 %) 34 / 3367 (1.01 %) 35 / 3354 (1.04 %) 36 / 3350 (1.07 %) 37 / 3342 (1.11 %) 38 / 3342 (1.14 %) 39 / 3341 (1.17 %) 40 / 3340 (1.20 %) 41 / 3340 (1.23 %) 42 / 3331 (1.26 %) 43 / 3328 (1.29 %) 44 / 3325 (1.32 %) 45 / 3322 (1.35 %) 46 / 3318 (1.39 %) 47 / 3317 (1.42 %) 48 / 3307 (1.45 %) 49 / 3304 (1.48 %) 50 / 3300 (1.52 %) 51 / 3288 (1.55 %) 52 / 3285 (1.58 %) 53 / 3281 (1.62 %) 54 / 3281 (1.65 %) 55 / 3280 (1.68 %) 56 / 3280 (1.71 %) 57 / 3277 (1.74 %) 58 / 3267 (1.78 %) 59 / 3264 (1.81 %) 60 / 3263 (1.84 %) 61 / 3247 (1.88 %) 62 / 3243 (1.91 %) 63 / 3237 (1.95 %) 64 / 3235 (1.98 %) 65 / 3228 (2.01 %) 66 / 3226 (2.05 %) 67 / 3225 (2.08 %) 68 / 3224 (2.11 %) 69 / 3223 (2.14 %) 70 / 3221 (2.17 %) 71 / 3218 (2.21 %) 72 / 3218 (2.24 %) 73 / 3218 (2.27 %) 74 / 3218 (2.30 %) 75 / 3213 (2.33 %) 76 / 3205 (2.37 %) 77 / 3203 (2.40 %) 78 / 3202 (2.44 %) 79 / 3195 (2.47 %) 80 / 3194 (2.50 %) 81 / 3194 (2.54 %) 82 / 3190 (2.57 %) 83 / 3180 (2.61 %) 84 / 3178 (2.64 %) 85 / 3175 (2.68 %) 86 / 3175 (2.71 %) 87 / 3173 (2.74 %) 88 / 3165 (2.78 %) 89 / 3148 (2.83 %) 90 / 3147 (2.86 %) 91 / 3147 (2.89 %) 92 / 3144 (2.93 %) 93 / 3144 (2.96 %) 94 / 3132 (3.00 %) 95 / 3129 (3.04 %) 96 / 3124 (3.07 %) 97 / 3118 (3.11 %) 98 / 3114 (3.15 %) 99 / 3112 (3.18 %) 100 / 3107 (3.22 %) 101 / 3104 (3.25 %) 102 / 3103 (3.29 %) 103 / 3101 (3.32 %) 104 / 3100 (3.35 %) 105 / 3099 (3.39 %) 106 / 3099 (3.42 %) 107 / 3099 (3.45 %) 108 / 3095 (3.49 %) 109 / 3092 (3.53 %) 110 / 3092 (3.56 %) 111 / 3092 (3.59 %) 112 / 3092 (3.62 %) 113 / 3090 (3.66 %) 114 / 3089 (3.69 %) 115 / 3087 (3.73 %) 116 / 3083 (3.76 %) 117 / 3083 (3.80 %) 118 / 3079 (3.83 %) 119 / 3079 (3.86 %) 120 / 3079 (3.90 %) 121 / 3076 (3.93 %) 122 / 3073 (3.97 %) 123 / 3069 (4.01 %) 124 / 3065 (4.05 %) 125 / 3063 (4.08 %) 126 / 3061 (4.12 %) 127 / 3059 (4.15 %) 128 / 3056 (4.19 %) 129 / 3053 (4.23 %) 130 / 3052 (4.26 %) 131 / 3049 (4.30 %) 132 / 3048 (4.33 %) 133 / 3043 (4.37 %) 134 / 3042 (4.40 %) 135 / 3035 (4.45 %) 136 / 3031 (4.49 %) 137 / 3030 (4.52 %) 138 / 3029 (4.56 %) 139 / 3029 (4.59 %) 140 / 3021 (4.63 %) 141 / 3017 (4.67 %) 142 / 3012 (4.71 %) 143 / 3009 (4.75 %) 144 / 3009 (4.79 %) 145 / 3008 (4.82 %) 146 / 3007 (4.86 %) 147 / 3007 (4.89 %) 148 / 3003 (4.93 %) 149 / 3003 (4.96 %) 150 / 3002 (5.00 %) 151 / 2999 (5.04 %) 152 / 2999 (5.07 %) 153 / 2998 (5.10 %) 154 / 2998 (5.14 %) 155 / 2984 (5.19 %) 156 / 2976 (5.24 %) 157 / 2976 (5.28 %) 158 / 2964 (5.33 %) 159 / 2963 (5.37 %) 160 / 2962 (5.40 %) 161 / 2957 (5.44 %) 162 / 2957 (5.48 %) 163 / 2956 (5.51 %) 164 / 2949 (5.56 %) 165 / 2949 (5.60 %) 166 / 2948 (5.63 %) 167 / 2947 (5.67 %) 168 / 2941 (5.71 %) 169 / 2922 (5.78 %) 170 / 2920 (5.82 %) 171 / 2915 (5.87 %) 172 / 2878 (5.98 %) 173 / 2841 (6.09 %) 174 / 2831 (6.15 %) 175 / 2825 (6.19 %) 176 / 2825 (6.23 %) 177 / 2823 (6.27 %) 178 / 2823 (6.31 %) 179 / 2821 (6.35 %) 180 / 2821 (6.38 %) 181 / 2821 (6.42 %) 182 / 2819 (6.46 %) 183 / 2818 (6.49 %) 184 / 2816 (6.53 %) 185 / 2814 (6.57 %) 186 / 2813 (6.61 %) 187 / 2813 (6.65 %) 188 / 2810 (6.69 %) 189 / 2810 (6.73 %) 190 / 2810 (6.76 %) 191 / 2808 (6.80 %) 192 / 2804 (6.85 %) 193 / 2800 (6.89 %) 194 / 2800 (6.93 %) 195 / 2792 (6.98 %) 196 / 2791 (7.02 %) 197 / 2787 (7.07 %) 198 / 2784 (7.11 %) 199 / 2779 (7.16 %) 200 / 2778 (7.20 %) 201 / 2778 (7.24 %) 202 / 2773 (7.28 %) 203 / 2772 (7.32 %) 204 / 2772 (7.36 %) 205 / 2767 (7.41 %) 206 / 2764 (7.45 %) 207 / 2763 (7.49 %) 208 / 2763 (7.53 %) 209 / 2762 (7.57 %) 210 / 2762 (7.60 %) 211 / 2762 (7.64 %) 212 / 2761 (7.68 %) 213 / 2760 (7.72 %) 214 / 2760 (7.75 %) 215 / 2760 (7.79 %) 216 / 2747 (7.86 %) 217 / 2747 (7.90 %) 218 / 2747 (7.94 %) 219 / 2747 (7.97 %) 220 / 2747 (8.01 %) 221 / 2747 (8.05 %) 222 / 2744 (8.09 %) 223 / 2744 (8.13 %) 224 / 2736 (8.19 %) 225 / 2735 (8.23 %) 226 / 2734 (8.27 %) 227 / 2729 (8.32 %) 228 / 2728 (8.36 %) 229 / 2728 (8.39 %) 230 / 2728 (8.43 %) 231 / 2727 (8.47 %) 232 / 2726 (8.51 %) 233 / 2726 (8.55 %) 234 / 2725 (8.59 %) 235 / 2724 (8.63 %) 236 / 2724 (8.66 %) 237 / 2717 (8.72 %) 238 / 2717 (8.76 %) 239 / 2716 (8.80 %) 240 / 2711 (8.85 %) 241 / 2711 (8.89 %) 242 / 2705 (8.95 %) 243 / 2699 (9.00 %) 244 / 2699 (9.04 %) 245 / 2697 (9.08 %) 246 / 2697 (9.12 %) 247 / 2695 (9.17 %) 248 / 2694 (9.21 %) 249 / 2693 (9.25 %) 250 / 2692 (9.29 %) 251 / 2688 (9.34 %) 252 / 2688 (9.38 %) 253 / 2687 (9.42 %) 254 / 2687 (9.45 %) 255 / 2687 (9.49 %) 256 / 2686 (9.53 %) 257 / 2686 (9.57 %) 258 / 2686 (9.61 %) 259 / 2684 (9.65 %) 260 / 2681 (9.70 %) 261 / 2681 (9.74 %) 262 / 2680 (9.78 %) 263 / 2679 (9.82 %) 264 / 2679 (9.85 %) 265 / 2674 (9.91 %) 266 / 2673 (9.95 %) 267 / 2672 (9.99 %) 268 / 2672 (10.03 %) 269 / 2668 (10.08 %) 270 / 2666 (10.13 %) 271 / 2665 (10.17 %) 272 / 2664 (10.21 %) 273 / 2663 (10.25 %) 274 / 2660 (10.30 %) 275 / 2658 (10.35 %) 276 / 2655 (10.40 %) 277 / 2653 (10.44 %) 278 / 2653 (10.48 %) 279 / 2652 (10.52 %) 280 / 2651 (10.56 %) 281 / 2651 (10.60 %) 282 / 2650 (10.64 %) 283 / 2649 (10.68 %) 284 / 2648 (10.73 %) 285 / 2648 (10.76 %) 286 / 2646 (10.81 %) 287 / 2643 (10.86 %) 288 / 2643 (10.90 %) 289 / 2643 (10.93 %) 290 / 2640 (10.98 %) 291 / 2636 (11.04 %) 292 / 2634 (11.09 %) 293 / 2634 (11.12 %) 294 / 2630 (11.18 %) 295 / 2628 (11.23 %) 296 / 2627 (11.27 %) 297 / 2626 (11.31 %) 298 / 2626 (11.35 %) 299 / 2618 (11.42 %) 300 / 2617 (11.46 %) 301 / 2617 (11.50 %) 302 / 2617 (11.54 %) 303 / 2615 (11.59 %) 304 / 2615 (11.63 %) 305 / 2610 (11.69 %) 306 / 2610 (11.72 %) 307 / 2610 (11.76 %) 308 / 2610 (11.80 %) 309 / 2610 (11.84 %) 310 / 2609 (11.88 %) 311 / 2608 (11.92 %) 312 / 2608 (11.96 %) 313 / 2597 (12.05 %) 314 / 2593 (12.11 %) 315 / 2590 (12.16 %) 316 / 2587 (12.21 %) 317 / 2585 (12.26 %) 318 / 2582 (12.32 %) 319 / 2582 (12.35 %) 320 / 2582 (12.39 %) 321 / 2582 (12.43 %) 322 / 2582 (12.47 %) 323 / 2580 (12.52 %) 324 / 2580 (12.56 %) 325 / 2578 (12.61 %) 326 / 2578 (12.65 %) 327 / 2578 (12.68 %) 328 / 2578 (12.72 %) 329 / 2577 (12.77 %) 330 / 2574 (12.82 %) 331 / 2573 (12.86 %) 332 / 2573 (12.90 %) 333 / 2571 (12.95 %) 334 / 2568 (13.01 %) 335 / 2566 (13.06 %) 336 / 2565 (13.10 %) 337 / 2564 (13.14 %) 338 / 2557 (13.22 %) 339 / 2557 (13.26 %) 340 / 2556 (13.30 %) 341 / 2555 (13.35 %) 342 / 2553 (13.40 %) 343 / 2547 (13.47 %) 344 / 2547 (13.51 %) 345 / 2543 (13.57 %) 346 / 2542 (13.61 %) 347 / 2538 (13.67 %) 348 / 2535 (13.73 %) 349 / 2534 (13.77 %) 350 / 2533 (13.82 %) 351 / 2529 (13.88 %) 352 / 2528 (13.92 %) 353 / 2526 (13.97 %) 354 / 2524 (14.03 %) 355 / 2524 (14.06 %) 356 / 2520 (14.13 %) 357 / 2519 (14.17 %) 358 / 2518 (14.22 %) 359 / 2503 (14.34 %) 360 / 2489 (14.46 %) 361 / 2486 (14.52 %) 362 / 2485 (14.57 %) 363 / 2484 (14.61 %) 364 / 2483 (14.66 %) 365 / 2483 (14.70 %) 366 / 2483 (14.74 %) 367 / 2483 (14.78 %) 368 / 2476 (14.86 %) 369 / 2476 (14.90 %) 370 / 2475 (14.95 %) 371 / 2474 (15.00 %) 372 / 2474 (15.04 %) 373 / 2472 (15.09 %) 374 / 2472 (15.13 %) 375 / 2470 (15.18 %) 376 / 2470 (15.22 %) 377 / 2467 (15.28 %) 378 / 2467 (15.32 %) 379 / 2465 (15.38 %) 380 / 2464 (15.42 %) 381 / 2464 (15.46 %) 382 / 2464 (15.50 %) 383 / 2464 (15.54 %) 384 / 2462 (15.60 %) 385 / 2458 (15.66 %) 386 / 2458 (15.70 %) 387 / 2456 (15.76 %) 388 / 2456 (15.80 %) 389 / 2456 (15.84 %) 390 / 2455 (15.89 %) 391 / 2455 (15.93 %) 392 / 2455 (15.97 %) 393 / 2453 (16.02 %) 394 / 2451 (16.08 %) 395 / 2448 (16.14 %) 396 / 2448 (16.18 %) 397 / 2448 (16.22 %) 398 / 2443 (16.29 %) 399 / 2437 (16.37 %) 400 / 2436 (16.42 %) 401 / 2436 (16.46 %) 402 / 2434 (16.52 %) 403 / 2433 (16.56 %) 404 / 2433 (16.61 %) 405 / 2431 (16.66 %) 406 / 2429 (16.71 %) 407 / 2426 (16.78 %) 408 / 2425 (16.82 %) 409 / 2423 (16.88 %) 410 / 2422 (16.93 %) 411 / 2418 (17.00 %) 412 / 2415 (17.06 %) 413 / 2415 (17.10 %) 414 / 2414 (17.15 %) 415 / 2412 (17.21 %) 416 / 2412 (17.25 %) 417 / 2412 (17.29 %) 418 / 2412 (17.33 %) 419 / 2408 (17.40 %) 420 / 2406 (17.46 %) 421 / 2405 (17.51 %) 422 / 2404 (17.55 %) 423 / 2403 (17.60 %) 424 / 2402 (17.65 %) 425 / 2397 (17.73 %) 426 / 2397 (17.77 %) 427 / 2394 (17.84 %) 428 / 2394 (17.88 %) 429 / 2391 (17.94 %) 430 / 2390 (17.99 %) 431 / 2390 (18.03 %) 432 / 2390 (18.08 %) 433 / 2390 (18.12 %) 434 / 2390 (18.16 %) 435 / 2390 (18.20 %) 436 / 2388 (18.26 %) 437 / 2385 (18.32 %) 438 / 2385 (18.36 %) 439 / 2384 (18.41 %) 440 / 2382 (18.47 %) 441 / 2381 (18.52 %) 442 / 2381 (18.56 %) 443 / 2379 (18.62 %) 444 / 2379 (18.66 %) 445 / 2379 (18.71 %) 446 / 2378 (18.76 %) 447 / 2378 (18.80 %) 448 / 2371 (18.89 %) 449 / 2371 (18.94 %) 450 / 2361 (19.06 %) 451 / 2361 (19.10 %) 452 / 2361 (19.14 %) 453 / 2360 (19.19 %) 454 / 2360 (19.24 %) 455 / 2358 (19.30 %) 456 / 2345 (19.45 %) 457 / 2345 (19.49 %) 458 / 2343 (19.55 %) 459 / 2343 (19.59 %) 460 / 2342 (19.64 %) 461 / 2342 (19.68 %) 462 / 2341 (19.74 %) 463 / 2339 (19.79 %) 464 / 2330 (19.91 %) 465 / 2314 (20.10 %) 466 / 2310 (20.17 %) 467 / 2310 (20.22 %) 468 / 2307 (20.29 %) 469 / 2307 (20.33 %) 470 / 2306 (20.38 %) 471 / 2305 (20.43 %) 472 / 2305 (20.48 %) 473 / 2305 (20.52 %) 474 / 2305 (20.56 %) 475 / 2305 (20.61 %) 476 / 2305 (20.65 %) 477 / 2305 (20.69 %) 478 / 2305 (20.74 %) 479 / 2300 (20.83 %) 480 / 2298 (20.89 %) 481 / 2298 (20.93 %) 482 / 2296 (20.99 %) 483 / 2295 (21.05 %) 484 / 2292 (21.12 %) 485 / 2292 (21.16 %) 486 / 2283 (21.29 %) 487 / 2283 (21.33 %) 488 / 2280 (21.40 %) 489 / 2280 (21.45 %) 490 / 2279 (21.50 %) 491 / 2277 (21.56 %) 492 / 2276 (21.62 %) 493 / 2276 (21.66 %) 494 / 2273 (21.73 %) 495 / 2273 (21.78 %) 496 / 2273 (21.82 %) 497 / 2272 (21.88 %) 498 / 2272 (21.92 %) 499 / 2270 (21.98 %) 500 / 2269 (22.04 %) 501 / 2269 (22.08 %) 502 / 2267 (22.14 %) 503 / 2265 (22.21 %) 504 / 2265 (22.25 %) 505 / 2265 (22.30 %) 506 / 2262 (22.37 %) 507 / 2262 (22.41 %) 508 / 2262 (22.46 %) 509 / 2258 (22.54 %) 510 / 2257 (22.60 %) 511 / 2257 (22.64 %) 512 / 2257 (22.68 %) 513 / 2257 (22.73 %) 514 / 2254 (22.80 %) 515 / 2253 (22.86 %) 516 / 2251 (22.92 %) 517 / 2249 (22.99 %) 518 / 2247 (23.05 %) 519 / 2244 (23.13 %) 520 / 2243 (23.18 %) 521 / 2240 (23.26 %) 522 / 2236 (23.35 %) 523 / 2235 (23.40 %) 524 / 2234 (23.46 %) 525 / 2234 (23.50 %) 526 / 2234 (23.55 %) 527 / 2234 (23.59 %) 528 / 2234 (23.63 %) 529 / 2231 (23.71 %) 530 / 2228 (23.79 %) 531 / 2228 (23.83 %) 532 / 2226 (23.90 %) 533 / 2226 (23.94 %) 534 / 2226 (23.99 %) 535 / 2225 (24.04 %) 536 / 2225 (24.09 %) 537 / 2224 (24.15 %) 538 / 2223 (24.20 %) 539 / 2223 (24.25 %) 540 / 2222 (24.30 %) 541 / 2221 (24.36 %) 542 / 2220 (24.41 %) 543 / 2214 (24.53 %) 544 / 2214 (24.57 %) 545 / 2214 (24.62 %) 546 / 2208 (24.73 %) 547 / 2206 (24.80 %) 548 / 2198 (24.93 %) 549 / 2196 (25.00 %) 550 / 2195 (25.06 %) 551 / 2194 (25.11 %) 552 / 2194 (25.16 %) 553 / 2193 (25.22 %) 554 / 2193 (25.26 %) 555 / 2193 (25.31 %) 556 / 2193 (25.35 %) 557 / 2193 (25.40 %) 558 / 2193 (25.44 %) 559 / 2193 (25.49 %) 560 / 2193 (25.54 %) 561 / 2193 (25.58 %) 562 / 2193 (25.63 %) 563 / 2190 (25.71 %) 564 / 2190 (25.75 %) 565 / 2189 (25.81 %) 566 / 2186 (25.89 %) 567 / 2185 (25.95 %) 568 / 2185 (26.00 %) 569 / 2185 (26.04 %) 570 / 2184 (26.10 %) 571 / 2184 (26.14 %) 572 / 2183 (26.20 %) 573 / 2182 (26.26 %) 574 / 2182 (26.31 %) 575 / 2182 (26.35 %) 576 / 2182 (26.40 %) 577 / 2181 (26.46 %) 578 / 2180 (26.51 %) 579 / 2180 (26.56 %) 580 / 2180 (26.61 %) 581 / 2180 (26.65 %) 582 / 2180 (26.70 %) 583 / 2180 (26.74 %) 584 / 2176 (26.84 %) 585 / 2175 (26.90 %) 586 / 2172 (26.98 %) 587 / 2169 (27.06 %) 588 / 2169 (27.11 %) 589 / 2161 (27.26 %) 590 / 2153 (27.40 %) 591 / 2152 (27.46 %) 592 / 2152 (27.51 %) 593 / 2152 (27.56 %) 594 / 2152 (27.60 %) 595 / 2151 (27.66 %) 596 / 2151 (27.71 %) 597 / 2149 (27.78 %) 598 / 2149 (27.83 %) 599 / 2148 (27.89 %) 600 / 2144 (27.99 %) 601 / 2142 (28.06 %) 602 / 2141 (28.12 %) 603 / 2141 (28.16 %) 604 / 2141 (28.21 %) 605 / 2139 (28.28 %) 606 / 2139 (28.33 %) 607 / 2139 (28.38 %) 608 / 2139 (28.42 %) 609 / 2137 (28.50 %) 610 / 2137 (28.54 %) 611 / 2136 (28.60 %) 612 / 2136 (28.65 %) 613 / 2135 (28.71 %) 614 / 2134 (28.77 %) 615 / 2133 (28.83 %) 616 / 2133 (28.88 %) 617 / 2131 (28.95 %) 618 / 2129 (29.03 %) 619 / 2128 (29.09 %) 620 / 2128 (29.14 %) 621 / 2116 (29.35 %) 622 / 2115 (29.41 %) 623 / 2113 (29.48 %) 624 / 2106 (29.63 %) 625 / 2101 (29.75 %) 626 / 2101 (29.80 %) 627 / 2098 (29.89 %) 628 / 2097 (29.95 %) 629 / 2096 (30.01 %) 630 / 2096 (30.06 %) 631 / 2093 (30.15 %) 632 / 2093 (30.20 %) 633 / 2092 (30.26 %) 634 / 2092 (30.31 %) 635 / 2092 (30.35 %) 636 / 2092 (30.40 %) 637 / 2092 (30.45 %) 638 / 2088 (30.56 %) 639 / 2087 (30.62 %) 640 / 2087 (30.67 %) 641 / 2086 (30.73 %) 642 / 2086 (30.78 %) 643 / 2085 (30.84 %) 644 / 2082 (30.93 %) 645 / 2081 (30.99 %) 646 / 2078 (31.09 %) 647 / 2078 (31.14 %) 648 / 2075 (31.23 %) 649 / 2074 (31.29 %) 650 / 2072 (31.37 %) 651 / 2070 (31.45 %) 652 / 2069 (31.51 %) 653 / 2069 (31.56 %) 654 / 2064 (31.69 %) 655 / 2064 (31.73 %) 656 / 2062 (31.81 %) 657 / 2062 (31.86 %) 658 / 2062 (31.91 %) 659 / 2056 (32.05 %) 660 / 2055 (32.12 %) 661 / 2054 (32.18 %) 662 / 2053 (32.25 %) 663 / 2053 (32.29 %) 664 / 2052 (32.36 %) 665 / 2051 (32.42 %) 666 / 2050 (32.49 %) 667 / 2049 (32.55 %) 668 / 2049 (32.60 %) 669 / 2048 (32.67 %) 670 / 2048 (32.71 %) 671 / 2048 (32.76 %) 672 / 2045 (32.86 %) 673 / 2045 (32.91 %) 674 / 2045 (32.96 %) 675 / 2045 (33.01 %) 676 / 2045 (33.06 %) 677 / 2044 (33.12 %) 678 / 2044 (33.17 %) 679 / 2044 (33.22 %) 680 / 2027 (33.55 %) 681 / 2022 (33.68 %) 682 / 2022 (33.73 %) 683 / 2020 (33.81 %) 684 / 2014 (33.96 %) 685 / 2013 (34.03 %) 686 / 2010 (34.13 %) 687 / 2010 (34.18 %) 688 / 2008 (34.26 %) 689 / 2008 (34.31 %) 690 / 2008 (34.36 %) 691 / 2008 (34.41 %) 692 / 2007 (34.48 %) 693 / 2005 (34.56 %) 694 / 2003 (34.65 %) 695 / 2003 (34.70 %) 696 / 2003 (34.75 %) 697 / 2000 (34.85 %) 698 / 1999 (34.92 %) 699 / 1999 (34.97 %) 700 / 1999 (35.02 %) 701 / 1999 (35.07 %) 702 / 1999 (35.12 %) 703 / 1999 (35.17 %) 704 / 1997 (35.25 %) 705 / 1996 (35.32 %) 706 / 1995 (35.39 %) 707 / 1994 (35.46 %) 708 / 1994 (35.51 %) 709 / 1992 (35.59 %) 710 / 1988 (35.71 %) 711 / 1987 (35.78 %) 712 / 1986 (35.85 %) 713 / 1985 (35.92 %) 714 / 1985 (35.97 %) 715 / 1985 (36.02 %) 716 / 1985 (36.07 %) 717 / 1985 (36.12 %) 718 / 1985 (36.17 %) 719 / 1984 (36.24 %) 720 / 1978 (36.40 %) 721 / 1976 (36.49 %) 722 / 1976 (36.54 %) 723 / 1976 (36.59 %) 724 / 1976 (36.64 %) 725 / 1975 (36.71 %) 726 / 1975 (36.76 %) 727 / 1975 (36.81 %) 728 / 1974 (36.88 %) 729 / 1974 (36.93 %) 730 / 1974 (36.98 %) 731 / 1971 (37.09 %) 732 / 1964 (37.27 %) 733 / 1963 (37.34 %) 734 / 1963 (37.39 %) 735 / 1961 (37.48 %) 736 / 1961 (37.53 %) 737 / 1959 (37.62 %) 738 / 1957 (37.71 %) 739 / 1956 (37.78 %) 740 / 1950 (37.95 %) 741 / 1949 (38.02 %) 742 / 1949 (38.07 %) 743 / 1949 (38.12 %) 744 / 1949 (38.17 %) 745 / 1945 (38.30 %) 746 / 1945 (38.35 %) 747 / 1944 (38.43 %) 748 / 1944 (38.48 %) 749 / 1943 (38.55 %) 750 / 1942 (38.62 %) 751 / 1940 (38.71 %) 752 / 1940 (38.76 %) 753 / 1940 (38.81 %) 754 / 1939 (38.89 %) 755 / 1939 (38.94 %) 756 / 1939 (38.99 %) 757 / 1938 (39.06 %) 758 / 1936 (39.15 %) 759 / 1934 (39.25 %) 760 / 1929 (39.40 %) 761 / 1927 (39.49 %) 762 / 1927 (39.54 %) 763 / 1926 (39.62 %) 764 / 1921 (39.77 %) 765 / 1921 (39.82 %) 766 / 1921 (39.88 %) 767 / 1920 (39.95 %) 768 / 1920 (40.00 %) 769 / 1919 (40.07 %) 770 / 1919 (40.13 %) 771 / 1919 (40.18 %) 772 / 1919 (40.23 %) 773 / 1919 (40.28 %) 774 / 1919 (40.33 %) 775 / 1918 (40.41 %) 776 / 1916 (40.50 %) 777 / 1914 (40.60 %) 778 / 1914 (40.65 %) 779 / 1912 (40.74 %) 780 / 1912 (40.79 %) 781 / 1911 (40.87 %) 782 / 1911 (40.92 %) 783 / 1909 (41.02 %) 784 / 1909 (41.07 %) 785 / 1909 (41.12 %) 786 / 1909 (41.17 %) 787 / 1909 (41.23 %) 788 / 1908 (41.30 %) 789 / 1908 (41.35 %) 790 / 1907 (41.43 %) 791 / 1907 (41.48 %) 792 / 1905 (41.57 %) 793 / 1905 (41.63 %) 794 / 1905 (41.68 %) 795 / 1902 (41.80 %) 796 / 1899 (41.92 %) 797 / 1899 (41.97 %) 798 / 1899 (42.02 %) 799 / 1899 (42.07 %) 800 / 1899 (42.13 %) 801 / 1899 (42.18 %) 802 / 1899 (42.23 %) 803 / 1897 (42.33 %) 804 / 1897 (42.38 %) 805 / 1897 (42.44 %) 806 / 1895 (42.53 %) 807 / 1893 (42.63 %) 808 / 1887 (42.82 %) 809 / 1886 (42.90 %) 810 / 1886 (42.95 %) 811 / 1885 (43.02 %) 812 / 1885 (43.08 %) 813 / 1881 (43.22 %) 814 / 1880 (43.30 %) 815 / 1879 (43.37 %) 816 / 1879 (43.43 %) 817 / 1877 (43.53 %) 818 / 1876 (43.60 %) 819 / 1876 (43.66 %) 820 / 1876 (43.71 %) 821 / 1871 (43.88 %) 822 / 1866 (44.05 %) 823 / 1860 (44.25 %) 824 / 1856 (44.40 %) 825 / 1856 (44.45 %) 826 / 1855 (44.53 %) 827 / 1854 (44.61 %) 828 / 1853 (44.68 %) 829 / 1853 (44.74 %) 830 / 1853 (44.79 %) 831 / 1853 (44.85 %) 832 / 1853 (44.90 %) 833 / 1852 (44.98 %) 834 / 1852 (45.03 %) 835 / 1852 (45.09 %) 836 / 1852 (45.14 %) 837 / 1852 (45.19 %) 838 / 1850 (45.30 %) 839 / 1849 (45.38 %) 840 / 1849 (45.43 %) 841 / 1846 (45.56 %) 842 / 1845 (45.64 %) 843 / 1844 (45.72 %) 844 / 1844 (45.77 %) 845 / 1844 (45.82 %) 846 / 1844 (45.88 %) 847 / 1844 (45.93 %) 848 / 1842 (46.04 %) 849 / 1840 (46.14 %) 850 / 1839 (46.22 %) 851 / 1839 (46.28 %) 852 / 1838 (46.35 %) 853 / 1838 (46.41 %) 854 / 1838 (46.46 %) 855 / 1838 (46.52 %) 856 / 1838 (46.57 %) 857 / 1836 (46.68 %) 858 / 1835 (46.76 %) 859 / 1835 (46.81 %) 860 / 1830 (46.99 %) 861 / 1830 (47.05 %) 862 / 1830 (47.10 %) 863 / 1830 (47.16 %) 864 / 1829 (47.24 %) 865 / 1829 (47.29 %) 866 / 1828 (47.37 %) 867 / 1827 (47.45 %) 868 / 1825 (47.56 %) 869 / 1825 (47.62 %) 870 / 1825 (47.67 %) 871 / 1825 (47.73 %) 872 / 1825 (47.78 %) 873 / 1823 (47.89 %) 874 / 1821 (48.00 %) 875 / 1821 (48.05 %) 876 / 1821 (48.11 %) 877 / 1821 (48.16 %) 878 / 1821 (48.22 %) 879 / 1820 (48.30 %) 880 / 1819 (48.38 %) 881 / 1819 (48.43 %) 882 / 1818 (48.51 %) 883 / 1818 (48.57 %) 884 / 1818 (48.62 %) 885 / 1815 (48.76 %) 886 / 1814 (48.84 %) 887 / 1813 (48.92 %) 888 / 1813 (48.98 %) 889 / 1813 (49.03 %) 890 / 1812 (49.12 %) 891 / 1812 (49.17 %) 892 / 1812 (49.23 %) 893 / 1812 (49.28 %) 894 / 1812 (49.34 %) 895 / 1812 (49.39 %) 896 / 1811 (49.48 %) 897 / 1811 (49.53 %) 898 / 1811 (49.59 %) 899 / 1811 (49.64 %) 900 / 1810 (49.72 %) 901 / 1809 (49.81 %) 902 / 1808 (49.89 %) 903 / 1808 (49.94 %) 904 / 1808 (50.00 %) 905 / 1808 (50.06 %) 906 / 1807 (50.14 %) 907 / 1807 (50.19 %) 908 / 1807 (50.25 %) 909 / 1806 (50.33 %) 910 / 1806 (50.39 %) 911 / 1805 (50.47 %) 912 / 1803 (50.58 %) 913 / 1800 (50.72 %) 914 / 1799 (50.81 %) 915 / 1798 (50.89 %) 916 / 1798 (50.95 %) 917 / 1795 (51.09 %) 918 / 1794 (51.17 %) 919 / 1792 (51.28 %) 920 / 1792 (51.34 %) 921 / 1792 (51.40 %) 922 / 1792 (51.45 %) 923 / 1792 (51.51 %) 924 / 1792 (51.56 %) 925 / 1792 (51.62 %) 926 / 1792 (51.67 %) 927 / 1792 (51.73 %) 928 / 1792 (51.79 %) 929 / 1786 (52.02 %) 930 / 1778 (52.31 %) 931 / 1777 (52.39 %) 932 / 1777 (52.45 %) 933 / 1776 (52.53 %) 934 / 1776 (52.59 %) 935 / 1774 (52.71 %) 936 / 1773 (52.79 %) 937 / 1773 (52.85 %) 938 / 1773 (52.90 %) 939 / 1773 (52.96 %) 940 / 1769 (53.14 %) 941 / 1767 (53.25 %) 942 / 1767 (53.31 %) 943 / 1766 (53.40 %) 944 / 1765 (53.48 %) 945 / 1765 (53.54 %) 946 / 1764 (53.63 %) 947 / 1763 (53.72 %) 948 / 1763 (53.77 %) 949 / 1763 (53.83 %) 950 / 1757 (54.07 %) 951 / 1755 (54.19 %) 952 / 1753 (54.31 %) 953 / 1752 (54.39 %) 954 / 1750 (54.51 %) 955 / 1748 (54.63 %) 956 / 1748 (54.69 %) 957 / 1748 (54.75 %) 958 / 1748 (54.81 %) 959 / 1748 (54.86 %) 960 / 1748 (54.92 %) 961 / 1748 (54.98 %) 962 / 1748 (55.03 %) 963 / 1748 (55.09 %) 964 / 1745 (55.24 %) 965 / 1744 (55.33 %) 966 / 1744 (55.39 %) 967 / 1739 (55.61 %) 968 / 1736 (55.76 %) 969 / 1733 (55.91 %) 970 / 1731 (56.04 %) 971 / 1730 (56.13 %) 972 / 1729 (56.22 %) 973 / 1729 (56.28 %) 974 / 1729 (56.33 %) 975 / 1729 (56.39 %) 976 / 1729 (56.45 %) 977 / 1729 (56.51 %) 978 / 1728 (56.60 %) 979 / 1728 (56.66 %) 980 / 1728 (56.71 %) 981 / 1727 (56.80 %) 982 / 1727 (56.86 %) 983 / 1727 (56.92 %) 984 / 1727 (56.98 %) 985 / 1726 (57.07 %) 986 / 1725 (57.16 %) 987 / 1724 (57.25 %) 988 / 1724 (57.31 %) 989 / 1721 (57.47 %) 990 / 1720 (57.56 %) 991 / 1719 (57.65 %) 992 / 1719 (57.71 %) 993 / 1719 (57.77 %) 994 / 1719 (57.82 %) 995 / 1719 (57.88 %) 996 / 1719 (57.94 %) 997 / 1719 (58.00 %) 998 / 1719 (58.06 %) 999 / 1719 (58.12 %) 1000 / 1709 (58.51 %) 1001 / 1708 (58.61 %) 1002 / 1707 (58.70 %) 1003 / 1707 (58.76 %) 1004 / 1706 (58.85 %) 1005 / 1706 (58.91 %) 1006 / 1705 (59.00 %) 1007 / 1702 (59.17 %) 1008 / 1701 (59.26 %) 1009 / 1701 (59.32 %) 1010 / 1701 (59.38 %) 1011 / 1701 (59.44 %) 1012 / 1701 (59.49 %) 1013 / 1698 (59.66 %) 1014 / 1698 (59.72 %) 1015 / 1698 (59.78 %) 1016 / 1697 (59.87 %) 1017 / 1696 (59.96 %) 1018 / 1695 (60.06 %) 1019 / 1693 (60.19 %) 1020 / 1692 (60.28 %) 1021 / 1691 (60.38 %) 1022 / 1691 (60.44 %) 1023 / 1691 (60.50 %) 1024 / 1690 (60.59 %) 1025 / 1690 (60.65 %) 1026 / 1690 (60.71 %) 1027 / 1689 (60.81 %) 1028 / 1689 (60.86 %) 1029 / 1688 (60.96 %) 1030 / 1687 (61.06 %) 1031 / 1687 (61.11 %) 1032 / 1687 (61.17 %) 1033 / 1686 (61.27 %) 1034 / 1686 (61.33 %) 1035 / 1686 (61.39 %) 1036 / 1686 (61.45 %) 1037 / 1686 (61.51 %) 1038 / 1686 (61.57 %) 1039 / 1686 (61.63 %) 1040 / 1686 (61.68 %) 1041 / 1685 (61.78 %) 1042 / 1685 (61.84 %) 1043 / 1685 (61.90 %) 1044 / 1685 (61.96 %) 1045 / 1685 (62.02 %) 1046 / 1685 (62.08 %) 1047 / 1685 (62.14 %) 1048 / 1685 (62.20 %) 1049 / 1685 (62.26 %) 1050 / 1684 (62.35 %) 1051 / 1684 (62.41 %) 1052 / 1684 (62.47 %) 1053 / 1684 (62.53 %) 1054 / 1683 (62.63 %) 1055 / 1674 (63.02 %) 1056 / 1674 (63.08 %) 1057 / 1674 (63.14 %) 1058 / 1673 (63.24 %) 1059 / 1671 (63.38 %) 1060 / 1669 (63.51 %) 1061 / 1664 (63.76 %) 1062 / 1664 (63.82 %) 1063 / 1664 (63.88 %) 1064 / 1662 (64.02 %) 1065 / 1662 (64.08 %) 1066 / 1662 (64.14 %) 1067 / 1661 (64.24 %) 1068 / 1661 (64.30 %) 1069 / 1661 (64.36 %) 1070 / 1661 (64.42 %) 1071 / 1659 (64.56 %) 1072 / 1659 (64.62 %) 1073 / 1659 (64.68 %) 1074 / 1654 (64.93 %) 1075 / 1654 (64.99 %) 1076 / 1654 (65.05 %) 1077 / 1654 (65.11 %) 1078 / 1653 (65.21 %) 1079 / 1653 (65.28 %) 1080 / 1653 (65.34 %) 1081 / 1653 (65.40 %) 1082 / 1637 (66.10 %) 1083 / 1619 (66.89 %) 1084 / 1618 (67.00 %) 1085 / 1615 (67.18 %) 1086 / 1613 (67.33 %) 1087 / 1613 (67.39 %) 1088 / 1613 (67.45 %) 1089 / 1613 (67.51 %) 1090 / 1611 (67.66 %) 1091 / 1611 (67.72 %) 1092 / 1609 (67.87 %) 1093 / 1609 (67.93 %) 1094 / 1609 (67.99 %) 1095 / 1608 (68.10 %) 1096 / 1608 (68.16 %) 1097 / 1607 (68.26 %) 1098 / 1603 (68.50 %) 1099 / 1591 (69.08 %) 1100 / 1591 (69.14 %) 1101 / 1579 (69.73 %) 1102 / 1569 (70.24 %) 1103 / 1569 (70.30 %) 1104 / 1567 (70.45 %) 1105 / 1566 (70.56 %) 1106 / 1565 (70.67 %) 1107 / 1565 (70.73 %) 1108 / 1565 (70.80 %) 1109 / 1565 (70.86 %) 1110 / 1565 (70.93 %) 1110 / 1565 (70.93 %) 1110 / 1565 (70.93 %) 1110 / 1565 (70.93 %) 1110 / 1565 (70.93 %) 1110 / 1565 (70.93 %) 1110 / 1565 (70.93 %) 1110 / 1565 (70.93 %) 1110 / 1565 (70.93 %) 1110 / 1565 (70.93 %) 1111 / 1565 (70.99 %) 1111 / 1565 (70.99 %) 1111 / 1565 (70.99 %) 1111 / 1565 (70.99 %) 1111 / 1565 (70.99 %) 1111 / 1565 (70.99 %) 1111 / 1565 (70.99 %) 1111 / 1565 (70.99 %) 1111 / 1565 (70.99 %) 1112 / 1565 (71.05 %) 1112 / 1565 (71.05 %) 1112 / 1565 (71.05 %) 1112 / 1565 (71.05 %) 1112 / 1565 (71.05 %) 1113 / 1565 (71.12 %) 1114 / 1565 (71.18 %) 1114 / 1565 (71.18 %) 1115 / 1564 (71.29 %) 1115 / 1564 (71.29 %) 1115 / 1564 (71.29 %) 1115 / 1564 (71.29 %) 1115 / 1564 (71.29 %) 1116 / 1564 (71.36 %) 1117 / 1564 (71.42 %) 1117 / 1564 (71.42 %) 1117 / 1564 (71.42 %) 1117 / 1564 (71.42 %) 1117 / 1564 (71.42 %) 1117 / 1564 (71.42 %) 1117 / 1564 (71.42 %) 1118 / 1564 (71.48 %) 1119 / 1564 (71.55 %) 1120 / 1563 (71.66 %) 1121 / 1563 (71.72 %) 1122 / 1563 (71.79 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1123 / 1563 (71.85 %) 1124 / 1563 (71.91 %) 1124 / 1563 (71.91 %) 1125 / 1563 (71.98 %) 1125 / 1563 (71.98 %) 1125 / 1563 (71.98 %) 1125 / 1563 (71.98 %) 1126 / 1563 (72.04 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1127 / 1563 (72.10 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1128 / 1563 (72.17 %) 1129 / 1563 (72.23 %) 1129 / 1563 (72.23 %) 1130 / 1563 (72.30 %) 1130 / 1563 (72.30 %) 1131 / 1563 (72.36 %) 1131 / 1563 (72.36 %) 1131 / 1563 (72.36 %) 1131 / 1563 (72.36 %) 1131 / 1563 (72.36 %) 1132 / 1563 (72.42 %) 1132 / 1563 (72.42 %) 1133 / 1563 (72.49 %) 1134 / 1563 (72.55 %) 1135 / 1563 (72.62 %) 1136 / 1563 (72.68 %) 1137 / 1563 (72.74 %) 1137 / 1563 (72.74 %) 1137 / 1563 (72.74 %) 1137 / 1563 (72.74 %) 1137 / 1563 (72.74 %) 1138 / 1563 (72.81 %) 1139 / 1563 (72.87 %) 1139 / 1563 (72.87 %) 1139 / 1563 (72.87 %) 1139 / 1563 (72.87 %) 1140 / 1563 (72.94 %) 1140 / 1563 (72.94 %) 1140 / 1563 (72.94 %) 1140 / 1563 (72.94 %) 1140 / 1563 (72.94 %) 1141 / 1563 (73.00 %) 1142 / 1563 (73.06 %) 1143 / 1563 (73.13 %) 1143 / 1563 (73.13 %) 1143 / 1563 (73.13 %) 1144 / 1563 (73.19 %) 1144 / 1563 (73.19 %) 1145 / 1563 (73.26 %) 1145 / 1563 (73.26 %) 1145 / 1563 (73.26 %) 1145 / 1563 (73.26 %) 1145 / 1563 (73.26 %) 1145 / 1563 (73.26 %) 1145 / 1563 (73.26 %) 1145 / 1563 (73.26 %) 1145 / 1563 (73.26 %) 1145 / 1563 (73.26 %) 1146 / 1563 (73.32 %) 1146 / 1563 (73.32 %) 1146 / 1563 (73.32 %) 1146 / 1563 (73.32 %) 1146 / 1563 (73.32 %) 1146 / 1563 (73.32 %) 1146 / 1563 (73.32 %) 1146 / 1563 (73.32 %) 1147 / 1563 (73.38 %) 1147 / 1563 (73.38 %) 1147 / 1563 (73.38 %) 1147 / 1563 (73.38 %) 1147 / 1563 (73.38 %) 1148 / 1563 (73.45 %) 1149 / 1563 (73.51 %) 1150 / 1563 (73.58 %) 1150 / 1563 (73.58 %) 1150 / 1563 (73.58 %) 1151 / 1563 (73.64 %) 1151 / 1563 (73.64 %) 1151 / 1563 (73.64 %) 1151 / 1563 (73.64 %) 1151 / 1563 (73.64 %) 1151 / 1563 (73.64 %) 1151 / 1563 (73.64 %) 1152 / 1563 (73.70 %) 1152 / 1563 (73.70 %) 1152 / 1563 (73.70 %) 1152 / 1563 (73.70 %) 1153 / 1563 (73.77 %) 1153 / 1563 (73.77 %) 1153 / 1563 (73.77 %) 1153 / 1563 (73.77 %) 1153 / 1563 (73.77 %) 1153 / 1563 (73.77 %) 1153 / 1563 (73.77 %) 1154 / 1563 (73.83 %) 1154 / 1563 (73.83 %) 1154 / 1563 (73.83 %) 1154 / 1563 (73.83 %) 1154 / 1563 (73.83 %) 1154 / 1563 (73.83 %) 1155 / 1563 (73.90 %) 1155 / 1563 (73.90 %) 1155 / 1563 (73.90 %) 1155 / 1563 (73.90 %) 1156 / 1563 (73.96 %) 1156 / 1563 (73.96 %) 1156 / 1563 (73.96 %) 1157 / 1561 (74.12 %) 1157 / 1561 (74.12 %) 1157 / 1561 (74.12 %) 1157 / 1561 (74.12 %) 1157 / 1561 (74.12 %) 1157 / 1561 (74.12 %) 1157 / 1561 (74.12 %) 1157 / 1561 (74.12 %) 1158 / 1561 (74.18 %) 1158 / 1561 (74.18 %) 1159 / 1561 (74.25 %) 1160 / 1561 (74.31 %) 1160 / 1561 (74.31 %) 1161 / 1561 (74.38 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1162 / 1561 (74.44 %) 1163 / 1561 (74.50 %) 1164 / 1561 (74.57 %) 1165 / 1561 (74.63 %) 1165 / 1561 (74.63 %) 1165 / 1561 (74.63 %) 1165 / 1561 (74.63 %) 1166 / 1561 (74.70 %) 1166 / 1561 (74.70 %) 1166 / 1561 (74.70 %) 1167 / 1561 (74.76 %) 1168 / 1561 (74.82 %) 1169 / 1561 (74.89 %) 1169 / 1561 (74.89 %) 1169 / 1561 (74.89 %) 1169 / 1561 (74.89 %) 1169 / 1561 (74.89 %) 1169 / 1561 (74.89 %) 1169 / 1561 (74.89 %) 1169 / 1561 (74.89 %) 1170 / 1560 (75.00 %) 1170 / 1560 (75.00 %) 1170 / 1560 (75.00 %) 1170 / 1560 (75.00 %) 1170 / 1560 (75.00 %) 1170 / 1560 (75.00 %) 1170 / 1560 (75.00 %) 1170 / 1560 (75.00 %) 1170 / 1560 (75.00 %) 1170 / 1560 (75.00 %) 1170 / 1560 (75.00 %) 1170 / 1560 (75.00 %) 1171 / 1560 (75.06 %) 1172 / 1559 (75.18 %) 1172 / 1559 (75.18 %) 1172 / 1559 (75.18 %) 1172 / 1559 (75.18 %) 1172 / 1559 (75.18 %) 1173 / 1559 (75.24 %) 1173 / 1559 (75.24 %) 1174 / 1559 (75.30 %) 1174 / 1559 (75.30 %) 1175 / 1559 (75.37 %) 1175 / 1559 (75.37 %) 1175 / 1559 (75.37 %) 1176 / 1559 (75.43 %) 1176 / 1559 (75.43 %) 1176 / 1559 (75.43 %) 1176 / 1559 (75.43 %) 1176 / 1559 (75.43 %) 1177 / 1559 (75.50 %) 1177 / 1559 (75.50 %) 1178 / 1559 (75.56 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1179 / 1559 (75.63 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1180 / 1559 (75.69 %) 1181 / 1559 (75.75 %) 1181 / 1559 (75.75 %) 1181 / 1559 (75.75 %) 1181 / 1559 (75.75 %) 1181 / 1559 (75.75 %) 1181 / 1559 (75.75 %) 1181 / 1559 (75.75 %) 1181 / 1559 (75.75 %) 1181 / 1559 (75.75 %) 1181 / 1559 (75.75 %) 1181 / 1559 (75.75 %) 1181 / 1559 (75.75 %) 1182 / 1559 (75.82 %) 1182 / 1559 (75.82 %) 1182 / 1559 (75.82 %) 1182 / 1559 (75.82 %) 1182 / 1559 (75.82 %) 1182 / 1559 (75.82 %) 1182 / 1559 (75.82 %) 1183 / 1557 (75.98 %) 1183 / 1557 (75.98 %) 1183 / 1557 (75.98 %) 1184 / 1557 (76.04 %) 1185 / 1557 (76.11 %) 1186 / 1557 (76.17 %) 1186 / 1557 (76.17 %) 1186 / 1557 (76.17 %) 1187 / 1557 (76.24 %) 1187 / 1557 (76.24 %) 1187 / 1557 (76.24 %) 1187 / 1557 (76.24 %) 1187 / 1557 (76.24 %) 1188 / 1557 (76.30 %) 1188 / 1557 (76.30 %) 1189 / 1556 (76.41 %) 1189 / 1556 (76.41 %) 1189 / 1556 (76.41 %) 1189 / 1556 (76.41 %) 1189 / 1556 (76.41 %) 1189 / 1556 (76.41 %) 1190 / 1555 (76.53 %) 1190 / 1555 (76.53 %) 1191 / 1554 (76.64 %) 1192 / 1554 (76.71 %) 1193 / 1552 (76.87 %) 1193 / 1552 (76.87 %) 1193 / 1552 (76.87 %) 1193 / 1552 (76.87 %) 1193 / 1552 (76.87 %) 1193 / 1552 (76.87 %) 1193 / 1552 (76.87 %) 1193 / 1552 (76.87 %) 1193 / 1552 (76.87 %) 1194 / 1552 (76.93 %) 1194 / 1552 (76.93 %) 1194 / 1552 (76.93 %) 1194 / 1552 (76.93 %) 1194 / 1552 (76.93 %) 1194 / 1552 (76.93 %) 1194 / 1552 (76.93 %) 1194 / 1552 (76.93 %) 1194 / 1552 (76.93 %) 1195 / 1552 (77.00 %) 1195 / 1552 (77.00 %) 1196 / 1550 (77.16 %) 1196 / 1550 (77.16 %) 1196 / 1550 (77.16 %) 1196 / 1550 (77.16 %) 1196 / 1550 (77.16 %) 1197 / 1550 (77.23 %) 1197 / 1550 (77.23 %) 1197 / 1550 (77.23 %) 1197 / 1550 (77.23 %) 1197 / 1550 (77.23 %) 1197 / 1550 (77.23 %) 1197 / 1550 (77.23 %) 1198 / 1550 (77.29 %) 1198 / 1550 (77.29 %) 1198 / 1550 (77.29 %) 1199 / 1548 (77.45 %) 1199 / 1548 (77.45 %) 1199 / 1548 (77.45 %) 1199 / 1548 (77.45 %) 1199 / 1548 (77.45 %) 1199 / 1548 (77.45 %) 1199 / 1548 (77.45 %) 1199 / 1548 (77.45 %) 1200 / 1548 (77.52 %) 1200 / 1548 (77.52 %) 1201 / 1547 (77.63 %) 1201 / 1547 (77.63 %) 1202 / 1546 (77.75 %) 1202 / 1546 (77.75 %) 1202 / 1546 (77.75 %) 1202 / 1546 (77.75 %) 1202 / 1546 (77.75 %) 1202 / 1546 (77.75 %) 1202 / 1546 (77.75 %) 1202 / 1546 (77.75 %) 1203 / 1546 (77.81 %) 1203 / 1546 (77.81 %) 1204 / 1546 (77.88 %) 1205 / 1546 (77.94 %) 1206 / 1546 (78.01 %) 1206 / 1546 (78.01 %) 1206 / 1546 (78.01 %) 1206 / 1546 (78.01 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1207 / 1546 (78.07 %) 1208 / 1546 (78.14 %) 1208 / 1546 (78.14 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1209 / 1546 (78.20 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1210 / 1546 (78.27 %) 1211 / 1545 (78.38 %) 1211 / 1545 (78.38 %) 1212 / 1544 (78.50 %) 1213 / 1544 (78.56 %) 1213 / 1544 (78.56 %) 1213 / 1544 (78.56 %) 1213 / 1544 (78.56 %) 1213 / 1544 (78.56 %) 1213 / 1544 (78.56 %) 1214 / 1544 (78.63 %) 1215 / 1544 (78.69 %) 1215 / 1544 (78.69 %) 1215 / 1544 (78.69 %) 1215 / 1544 (78.69 %) 1215 / 1544 (78.69 %) 1216 / 1544 (78.76 %) 1216 / 1544 (78.76 %) 1216 / 1544 (78.76 %) 1216 / 1544 (78.76 %) 1216 / 1544 (78.76 %) 1216 / 1544 (78.76 %) 1217 / 1543 (78.87 %) 1217 / 1543 (78.87 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1218 / 1543 (78.94 %) 1219 / 1543 (79.00 %) 1219 / 1543 (79.00 %) 1219 / 1543 (79.00 %) 1219 / 1543 (79.00 %) 1219 / 1543 (79.00 %) 1219 / 1543 (79.00 %) 1219 / 1543 (79.00 %) 1219 / 1543 (79.00 %) 1220 / 1543 (79.07 %) 1220 / 1543 (79.07 %) 1220 / 1543 (79.07 %) 1220 / 1543 (79.07 %) 1220 / 1543 (79.07 %) 1220 / 1543 (79.07 %) 1220 / 1543 (79.07 %) 1220 / 1543 (79.07 %) 1220 / 1543 (79.07 %) 1220 / 1543 (79.07 %) 1220 / 1543 (79.07 %) 1221 / 1543 (79.13 %) 1221 / 1543 (79.13 %) 1221 / 1543 (79.13 %) 1222 / 1543 (79.20 %) 1222 / 1543 (79.20 %) 1222 / 1543 (79.20 %) 1222 / 1543 (79.20 %) 1223 / 1543 (79.26 %) 1223 / 1543 (79.26 %) 1223 / 1543 (79.26 %) 1223 / 1543 (79.26 %) 1224 / 1542 (79.38 %) 1224 / 1542 (79.38 %) 1224 / 1542 (79.38 %) 1224 / 1542 (79.38 %) 1224 / 1542 (79.38 %) 1224 / 1542 (79.38 %) 1225 / 1542 (79.44 %) 1225 / 1542 (79.44 %) 1225 / 1542 (79.44 %) 1225 / 1542 (79.44 %) 1225 / 1542 (79.44 %) 1226 / 1542 (79.51 %) 1226 / 1542 (79.51 %) 1226 / 1542 (79.51 %) 1226 / 1542 (79.51 %) 1226 / 1542 (79.51 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1227 / 1542 (79.57 %) 1228 / 1542 (79.64 %) 1228 / 1542 (79.64 %) 1228 / 1542 (79.64 %) 1228 / 1542 (79.64 %) 1228 / 1542 (79.64 %) 1228 / 1542 (79.64 %) 1228 / 1542 (79.64 %) 1228 / 1542 (79.64 %) 1228 / 1542 (79.64 %) 1229 / 1541 (79.75 %) 1229 / 1541 (79.75 %) 1229 / 1541 (79.75 %) 1229 / 1541 (79.75 %) 1229 / 1541 (79.75 %) 1229 / 1541 (79.75 %) 1229 / 1541 (79.75 %) 1230 / 1541 (79.82 %) 1231 / 1541 (79.88 %) 1232 / 1541 (79.95 %) 1232 / 1541 (79.95 %) 1233 / 1541 (80.01 %) 1233 / 1541 (80.01 %) 1233 / 1541 (80.01 %) 1234 / 1541 (80.08 %) 1235 / 1541 (80.14 %) 1235 / 1541 (80.14 %) 1235 / 1541 (80.14 %) 1235 / 1541 (80.14 %) 1236 / 1541 (80.21 %) 1236 / 1541 (80.21 %) 1236 / 1541 (80.21 %) 1236 / 1541 (80.21 %) 1236 / 1541 (80.21 %) 1236 / 1541 (80.21 %) 1236 / 1541 (80.21 %) 1236 / 1541 (80.21 %) 1236 / 1541 (80.21 %) 1237 / 1541 (80.27 %) 1237 / 1541 (80.27 %) 1238 / 1541 (80.34 %) 1238 / 1541 (80.34 %) 1238 / 1541 (80.34 %) 1238 / 1541 (80.34 %) 1238 / 1541 (80.34 %) 1239 / 1541 (80.40 %) 1239 / 1541 (80.40 %) 1239 / 1541 (80.40 %) 1239 / 1541 (80.40 %) 1239 / 1541 (80.40 %) 1240 / 1541 (80.47 %) 1241 / 1541 (80.53 %) 1241 / 1541 (80.53 %) 1241 / 1541 (80.53 %) 1241 / 1541 (80.53 %) 1241 / 1541 (80.53 %) 1241 / 1541 (80.53 %) 1241 / 1541 (80.53 %) 1241 / 1541 (80.53 %) 1242 / 1540 (80.65 %) 1243 / 1538 (80.82 %) 1243 / 1538 (80.82 %) 1243 / 1538 (80.82 %) 1243 / 1538 (80.82 %) 1244 / 1538 (80.88 %) 1244 / 1538 (80.88 %) 1244 / 1538 (80.88 %) 1244 / 1538 (80.88 %) 1244 / 1538 (80.88 %) 1245 / 1537 (81.00 %) 1246 / 1537 (81.07 %) 1246 / 1537 (81.07 %) 1247 / 1537 (81.13 %) 1248 / 1537 (81.20 %) 1248 / 1537 (81.20 %) 1249 / 1537 (81.26 %) 1249 / 1537 (81.26 %) 1250 / 1537 (81.33 %) 1250 / 1537 (81.33 %) 1251 / 1537 (81.39 %) 1252 / 1537 (81.46 %) 1252 / 1537 (81.46 %) 1252 / 1537 (81.46 %) 1252 / 1537 (81.46 %) 1252 / 1537 (81.46 %) 1252 / 1537 (81.46 %) 1252 / 1537 (81.46 %) 1253 / 1534 (81.68 %) 1254 / 1534 (81.75 %) 1254 / 1534 (81.75 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1255 / 1533 (81.87 %) 1256 / 1533 (81.93 %) 1256 / 1533 (81.93 %) 1256 / 1533 (81.93 %) 1256 / 1533 (81.93 %) 1256 / 1533 (81.93 %) 1256 / 1533 (81.93 %) 1256 / 1533 (81.93 %) 1256 / 1533 (81.93 %) 1256 / 1533 (81.93 %) 1256 / 1533 (81.93 %) 1256 / 1533 (81.93 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1257 / 1533 (82.00 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1258 / 1532 (82.11 %) 1259 / 1531 (82.23 %) 1259 / 1531 (82.23 %) 1259 / 1531 (82.23 %) 1259 / 1531 (82.23 %) 1259 / 1531 (82.23 %) 1259 / 1531 (82.23 %) 1260 / 1531 (82.30 %) 1261 / 1531 (82.36 %) 1262 / 1531 (82.43 %) 1262 / 1531 (82.43 %) 1262 / 1531 (82.43 %) 1262 / 1531 (82.43 %) 1262 / 1531 (82.43 %) 1262 / 1531 (82.43 %) 1262 / 1531 (82.43 %) 1262 / 1531 (82.43 %) 1262 / 1531 (82.43 %) 1263 / 1531 (82.50 %) 1263 / 1531 (82.50 %) 1263 / 1531 (82.50 %) 1263 / 1531 (82.50 %) 1263 / 1531 (82.50 %) 1263 / 1531 (82.50 %) 1263 / 1531 (82.50 %) 1264 / 1531 (82.56 %) 1265 / 1531 (82.63 %) 1265 / 1531 (82.63 %) 1265 / 1531 (82.63 %) 1265 / 1531 (82.63 %) 1265 / 1531 (82.63 %) 1265 / 1531 (82.63 %) 1266 / 1531 (82.69 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1267 / 1531 (82.76 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1268 / 1531 (82.82 %) 1269 / 1531 (82.89 %) 1269 / 1531 (82.89 %) 1269 / 1531 (82.89 %) 1269 / 1531 (82.89 %) 1269 / 1531 (82.89 %) 1270 / 1531 (82.95 %) 1270 / 1531 (82.95 %) 1270 / 1531 (82.95 %) 1271 / 1531 (83.02 %) 1271 / 1531 (83.02 %) 1271 / 1531 (83.02 %) 1271 / 1531 (83.02 %) 1271 / 1531 (83.02 %) 1271 / 1531 (83.02 %) 1271 / 1531 (83.02 %) 1271 / 1531 (83.02 %) 1272 / 1531 (83.08 %) 1272 / 1531 (83.08 %) 1273 / 1530 (83.20 %) 1273 / 1530 (83.20 %) 1273 / 1530 (83.20 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1274 / 1530 (83.27 %) 1275 / 1530 (83.33 %) 1275 / 1530 (83.33 %) 1275 / 1530 (83.33 %) 1275 / 1530 (83.33 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1276 / 1530 (83.40 %) 1277 / 1530 (83.46 %) 1278 / 1530 (83.53 %) 1279 / 1530 (83.59 %) 1280 / 1530 (83.66 %) 1281 / 1529 (83.78 %) 1281 / 1529 (83.78 %) 1281 / 1529 (83.78 %) 1281 / 1529 (83.78 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1282 / 1527 (83.96 %) 1283 / 1527 (84.02 %) 1284 / 1527 (84.09 %) 1285 / 1527 (84.15 %) 1285 / 1527 (84.15 %) 1286 / 1527 (84.22 %) 1286 / 1527 (84.22 %) 1286 / 1527 (84.22 %) 1286 / 1527 (84.22 %) 1286 / 1527 (84.22 %) 1286 / 1527 (84.22 %) 1287 / 1527 (84.28 %) 1287 / 1527 (84.28 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1288 / 1526 (84.40 %) 1289 / 1526 (84.47 %) 1289 / 1526 (84.47 %) 1289 / 1526 (84.47 %) 1289 / 1526 (84.47 %) 1289 / 1526 (84.47 %) 1289 / 1526 (84.47 %) 1290 / 1526 (84.53 %) 1290 / 1526 (84.53 %) 1290 / 1526 (84.53 %) 1291 / 1526 (84.60 %) 1292 / 1526 (84.67 %) 1292 / 1526 (84.67 %) 1292 / 1526 (84.67 %) 1292 / 1526 (84.67 %) 1293 / 1526 (84.73 %) 1293 / 1526 (84.73 %) 1293 / 1526 (84.73 %) 1293 / 1526 (84.73 %) 1293 / 1526 (84.73 %) 1293 / 1526 (84.73 %) 1294 / 1526 (84.80 %) 1294 / 1526 (84.80 %) 1294 / 1526 (84.80 %) 1294 / 1526 (84.80 %) 1294 / 1526 (84.80 %) 1294 / 1526 (84.80 %) 1295 / 1526 (84.86 %) 1296 / 1526 (84.93 %) 1297 / 1526 (84.99 %) 1298 / 1526 (85.06 %) 1298 / 1526 (85.06 %) 1298 / 1526 (85.06 %) 1298 / 1526 (85.06 %) 1299 / 1526 (85.12 %) 1299 / 1526 (85.12 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1300 / 1526 (85.19 %) 1301 / 1526 (85.26 %) 1302 / 1525 (85.38 %) 1303 / 1525 (85.44 %) 1303 / 1525 (85.44 %) 1303 / 1525 (85.44 %) 1304 / 1525 (85.51 %) 1304 / 1525 (85.51 %) 1304 / 1525 (85.51 %) 1304 / 1525 (85.51 %) 1305 / 1525 (85.57 %) 1305 / 1525 (85.57 %) 1305 / 1525 (85.57 %) 1305 / 1525 (85.57 %) 1305 / 1525 (85.57 %) 1306 / 1525 (85.64 %) 1306 / 1525 (85.64 %) 1306 / 1525 (85.64 %) 1306 / 1525 (85.64 %) 1306 / 1525 (85.64 %) 1306 / 1525 (85.64 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1307 / 1525 (85.70 %) 1308 / 1524 (85.83 %) 1308 / 1524 (85.83 %) 1308 / 1524 (85.83 %) 1308 / 1524 (85.83 %) 1309 / 1524 (85.89 %) 1309 / 1524 (85.89 %) 1310 / 1524 (85.96 %) 1310 / 1524 (85.96 %) 1310 / 1524 (85.96 %) 1310 / 1524 (85.96 %) 1311 / 1524 (86.02 %) 1311 / 1524 (86.02 %) 1311 / 1524 (86.02 %) 1312 / 1524 (86.09 %) 1312 / 1524 (86.09 %) 1312 / 1524 (86.09 %) 1312 / 1524 (86.09 %) 1313 / 1524 (86.15 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1314 / 1524 (86.22 %) 1315 / 1524 (86.29 %) 1315 / 1524 (86.29 %) 1315 / 1524 (86.29 %) 1315 / 1524 (86.29 %) 1315 / 1524 (86.29 %) 1315 / 1524 (86.29 %) 1315 / 1524 (86.29 %) 1315 / 1524 (86.29 %) 1315 / 1524 (86.29 %) 1315 / 1524 (86.29 %) 1315 / 1524 (86.29 %) 1316 / 1524 (86.35 %) 1316 / 1524 (86.35 %) 1317 / 1524 (86.42 %) 1317 / 1524 (86.42 %) 1317 / 1524 (86.42 %) 1317 / 1524 (86.42 %) 1317 / 1524 (86.42 %) 1317 / 1524 (86.42 %) 1317 / 1524 (86.42 %) 1317 / 1524 (86.42 %) 1317 / 1524 (86.42 %) 1317 / 1524 (86.42 %) 1317 / 1524 (86.42 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1318 / 1523 (86.54 %) 1319 / 1523 (86.61 %) 1320 / 1523 (86.67 %) 1320 / 1523 (86.67 %) 1320 / 1523 (86.67 %) 1320 / 1523 (86.67 %) 1320 / 1523 (86.67 %) 1320 / 1523 (86.67 %) 1320 / 1523 (86.67 %) 1320 / 1523 (86.67 %) 1321 / 1523 (86.74 %) 1321 / 1523 (86.74 %) 1322 / 1523 (86.80 %) 1322 / 1523 (86.80 %) 1322 / 1523 (86.80 %) 1322 / 1523 (86.80 %) 1322 / 1523 (86.80 %) 1322 / 1523 (86.80 %) 1322 / 1523 (86.80 %) 1322 / 1523 (86.80 %) 1323 / 1523 (86.87 %) 1323 / 1523 (86.87 %) 1323 / 1523 (86.87 %) 1323 / 1523 (86.87 %) 1323 / 1523 (86.87 %) 1323 / 1523 (86.87 %) 1323 / 1523 (86.87 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1324 / 1523 (86.93 %) 1325 / 1523 (87.00 %) 1325 / 1523 (87.00 %) 1325 / 1523 (87.00 %) 1325 / 1523 (87.00 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1326 / 1523 (87.07 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1327 / 1523 (87.13 %) 1328 / 1520 (87.37 %) 1328 / 1520 (87.37 %) 1328 / 1520 (87.37 %) 1328 / 1520 (87.37 %) 1328 / 1520 (87.37 %) 1328 / 1520 (87.37 %) 1328 / 1520 (87.37 %) 1328 / 1520 (87.37 %) 1329 / 1520 (87.43 %) 1329 / 1520 (87.43 %) 1329 / 1520 (87.43 %) 1329 / 1520 (87.43 %) 1329 / 1520 (87.43 %) 1330 / 1520 (87.50 %) 1331 / 1520 (87.57 %) 1331 / 1520 (87.57 %) 1332 / 1520 (87.63 %) 1332 / 1520 (87.63 %) 1332 / 1520 (87.63 %) 1333 / 1520 (87.70 %) 1333 / 1520 (87.70 %) 1334 / 1520 (87.76 %) 1335 / 1520 (87.83 %) 1335 / 1520 (87.83 %) 1336 / 1520 (87.89 %) 1337 / 1520 (87.96 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1338 / 1520 (88.03 %) 1339 / 1520 (88.09 %) 1340 / 1520 (88.16 %) 1340 / 1520 (88.16 %) 1340 / 1520 (88.16 %) 1340 / 1520 (88.16 %) 1340 / 1520 (88.16 %) 1341 / 1520 (88.22 %) 1341 / 1520 (88.22 %) 1341 / 1520 (88.22 %) 1341 / 1520 (88.22 %) 1341 / 1520 (88.22 %) 1341 / 1520 (88.22 %) 1341 / 1520 (88.22 %) 1341 / 1520 (88.22 %) 1341 / 1520 (88.22 %) 1342 / 1520 (88.29 %) 1342 / 1520 (88.29 %) 1342 / 1520 (88.29 %) 1342 / 1520 (88.29 %) 1342 / 1520 (88.29 %) 1342 / 1520 (88.29 %) 1342 / 1520 (88.29 %) 1343 / 1520 (88.36 %) 1343 / 1520 (88.36 %) 1343 / 1520 (88.36 %) 1343 / 1520 (88.36 %) 1343 / 1520 (88.36 %) 1343 / 1520 (88.36 %) 1343 / 1520 (88.36 %) 1344 / 1520 (88.42 %) 1344 / 1520 (88.42 %) 1345 / 1520 (88.49 %) 1345 / 1520 (88.49 %) 1345 / 1520 (88.49 %) 1345 / 1520 (88.49 %) 1345 / 1520 (88.49 %) 1345 / 1520 (88.49 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1346 / 1518 (88.67 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1347 / 1518 (88.74 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1348 / 1518 (88.80 %) 1349 / 1518 (88.87 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1350 / 1518 (88.93 %) 1351 / 1518 (89.00 %) 1351 / 1518 (89.00 %) 1352 / 1518 (89.06 %) 1352 / 1518 (89.06 %) 1352 / 1518 (89.06 %) 1352 / 1518 (89.06 %) 1353 / 1518 (89.13 %) 1353 / 1518 (89.13 %) 1353 / 1518 (89.13 %) 1353 / 1518 (89.13 %) 1353 / 1518 (89.13 %) 1353 / 1518 (89.13 %) 1353 / 1518 (89.13 %) 1354 / 1518 (89.20 %) 1354 / 1518 (89.20 %) 1354 / 1518 (89.20 %) 1354 / 1518 (89.20 %) 1354 / 1518 (89.20 %) 1355 / 1518 (89.26 %) 1355 / 1518 (89.26 %) 1355 / 1518 (89.26 %) 1355 / 1518 (89.26 %) 1355 / 1518 (89.26 %) 1355 / 1518 (89.26 %) 1355 / 1518 (89.26 %) 1356 / 1518 (89.33 %) 1357 / 1518 (89.39 %) 1358 / 1518 (89.46 %) 1358 / 1518 (89.46 %) 1358 / 1518 (89.46 %) 1358 / 1518 (89.46 %) 1358 / 1518 (89.46 %) 1358 / 1518 (89.46 %) 1358 / 1518 (89.46 %) 1358 / 1518 (89.46 %) 1358 / 1518 (89.46 %) 1358 / 1518 (89.46 %) 1359 / 1518 (89.53 %) 1359 / 1518 (89.53 %) 1359 / 1518 (89.53 %) 1360 / 1518 (89.59 %) 1360 / 1518 (89.59 %) 1360 / 1518 (89.59 %) 1360 / 1518 (89.59 %) 1360 / 1518 (89.59 %) 1360 / 1518 (89.59 %) 1361 / 1518 (89.66 %) 1361 / 1518 (89.66 %) 1361 / 1518 (89.66 %) 1361 / 1518 (89.66 %) 1361 / 1518 (89.66 %) 1361 / 1518 (89.66 %) 1361 / 1518 (89.66 %) 1361 / 1518 (89.66 %) 1361 / 1518 (89.66 %) 1361 / 1518 (89.66 %) 1361 / 1518 (89.66 %) 1361 / 1518 (89.66 %) 1362 / 1518 (89.72 %) 1362 / 1518 (89.72 %) 1362 / 1518 (89.72 %) 1362 / 1518 (89.72 %) 1362 / 1518 (89.72 %) 1363 / 1517 (89.85 %) 1363 / 1517 (89.85 %) 1363 / 1517 (89.85 %) 1363 / 1517 (89.85 %) 1363 / 1517 (89.85 %) 1363 / 1517 (89.85 %) 1363 / 1517 (89.85 %) 1363 / 1517 (89.85 %) 1363 / 1517 (89.85 %) 1363 / 1517 (89.85 %) 1364 / 1514 (90.09 %) 1364 / 1514 (90.09 %) 1364 / 1514 (90.09 %) 1364 / 1514 (90.09 %) 1364 / 1514 (90.09 %) 1364 / 1514 (90.09 %) 1364 / 1514 (90.09 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1365 / 1514 (90.16 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1366 / 1514 (90.22 %) 1367 / 1514 (90.29 %) 1367 / 1514 (90.29 %) 1367 / 1514 (90.29 %) 1367 / 1514 (90.29 %) 1367 / 1514 (90.29 %) 1367 / 1514 (90.29 %) 1367 / 1514 (90.29 %) 1368 / 1514 (90.36 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1369 / 1514 (90.42 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1370 / 1514 (90.49 %) 1371 / 1514 (90.55 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1372 / 1514 (90.62 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1373 / 1514 (90.69 %) 1374 / 1514 (90.75 %) 1374 / 1514 (90.75 %) 1374 / 1514 (90.75 %) 1374 / 1514 (90.75 %) 1375 / 1514 (90.82 %) 1376 / 1514 (90.89 %) 1376 / 1514 (90.89 %) 1376 / 1514 (90.89 %) 1376 / 1514 (90.89 %) 1376 / 1514 (90.89 %) 1376 / 1514 (90.89 %) 1376 / 1514 (90.89 %) 1376 / 1514 (90.89 %) 1376 / 1514 (90.89 %) 1376 / 1514 (90.89 %) 1376 / 1514 (90.89 %) 1376 / 1514 (90.89 %) 1377 / 1514 (90.95 %) 1377 / 1514 (90.95 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1378 / 1514 (91.02 %) 1379 / 1514 (91.08 %) 1380 / 1514 (91.15 %) 1380 / 1514 (91.15 %) 1380 / 1514 (91.15 %) 1380 / 1514 (91.15 %) 1380 / 1514 (91.15 %) 1380 / 1514 (91.15 %) 1380 / 1514 (91.15 %) 1381 / 1513 (91.28 %) 1382 / 1513 (91.34 %) 1383 / 1513 (91.41 %) 1383 / 1513 (91.41 %) 1383 / 1513 (91.41 %) 1384 / 1513 (91.47 %) 1384 / 1513 (91.47 %) 1385 / 1512 (91.60 %) 1385 / 1512 (91.60 %) 1385 / 1512 (91.60 %) 1386 / 1512 (91.67 %) 1386 / 1512 (91.67 %) 1387 / 1511 (91.79 %) 1388 / 1511 (91.86 %) 1389 / 1510 (91.99 %) 1390 / 1509 (92.11 %) 1391 / 1509 (92.18 %) 1391 / 1509 (92.18 %) 1391 / 1509 (92.18 %) 1392 / 1509 (92.25 %) 1393 / 1509 (92.31 %) 1393 / 1509 (92.31 %) 1393 / 1509 (92.31 %) 1394 / 1509 (92.38 %) 1394 / 1509 (92.38 %) 1395 / 1509 (92.45 %) 1395 / 1509 (92.45 %) 1395 / 1509 (92.45 %) 1395 / 1509 (92.45 %) 1395 / 1509 (92.45 %) 1395 / 1509 (92.45 %) 1396 / 1509 (92.51 %) 1396 / 1509 (92.51 %) 1397 / 1509 (92.58 %) 1397 / 1509 (92.58 %) 1398 / 1509 (92.64 %) 1398 / 1509 (92.64 %) 1398 / 1509 (92.64 %) 1398 / 1509 (92.64 %) 1398 / 1509 (92.64 %) 1399 / 1509 (92.71 %) 1400 / 1509 (92.78 %) 1401 / 1508 (92.90 %) 1401 / 1508 (92.90 %) 1402 / 1508 (92.97 %) 1402 / 1508 (92.97 %) 1403 / 1507 (93.10 %) 1404 / 1507 (93.17 %) 1404 / 1507 (93.17 %) 1405 / 1507 (93.23 %) 1405 / 1507 (93.23 %) 1405 / 1507 (93.23 %) 1406 / 1507 (93.30 %) 1406 / 1507 (93.30 %) 1406 / 1507 (93.30 %) 1407 / 1507 (93.36 %) 1407 / 1507 (93.36 %) 1408 / 1506 (93.49 %) 1408 / 1506 (93.49 %) 1408 / 1506 (93.49 %) 1408 / 1506 (93.49 %) 1408 / 1506 (93.49 %) 1408 / 1506 (93.49 %) 1408 / 1506 (93.49 %) 1408 / 1506 (93.49 %) 1408 / 1506 (93.49 %) 1408 / 1506 (93.49 %) 1408 / 1506 (93.49 %) 1409 / 1505 (93.62 %) 1409 / 1505 (93.62 %) 1410 / 1505 (93.69 %) 1410 / 1505 (93.69 %) 1410 / 1505 (93.69 %) 1411 / 1505 (93.75 %) 1412 / 1504 (93.88 %) 1412 / 1504 (93.88 %) 1413 / 1504 (93.95 %) 1413 / 1504 (93.95 %) 1413 / 1504 (93.95 %) 1413 / 1504 (93.95 %) 1414 / 1502 (94.14 %) 1415 / 1502 (94.21 %) 1416 / 1501 (94.34 %) 1416 / 1501 (94.34 %) 1416 / 1501 (94.34 %) 1416 / 1501 (94.34 %) 1416 / 1501 (94.34 %) 1416 / 1501 (94.34 %) 1417 / 1500 (94.47 %) 1417 / 1500 (94.47 %) 1417 / 1500 (94.47 %) 1418 / 1500 (94.53 %) 1418 / 1500 (94.53 %) 1419 / 1499 (94.66 %) 1419 / 1499 (94.66 %) 1419 / 1499 (94.66 %) 1420 / 1499 (94.73 %) 1420 / 1499 (94.73 %) 1420 / 1499 (94.73 %) 1420 / 1499 (94.73 %) 1420 / 1499 (94.73 %) 1420 / 1499 (94.73 %) 1421 / 1499 (94.80 %) 1422 / 1499 (94.86 %) 1422 / 1499 (94.86 %) 1422 / 1499 (94.86 %) 1423 / 1499 (94.93 %) 1423 / 1499 (94.93 %) 1423 / 1499 (94.93 %) 1423 / 1499 (94.93 %) 1423 / 1499 (94.93 %) 1423 / 1499 (94.93 %) 1423 / 1499 (94.93 %) 1424 / 1499 (95.00 %) 1424 / 1499 (95.00 %) 1424 / 1499 (95.00 %) 1424 / 1499 (95.00 %) 1424 / 1499 (95.00 %) 1425 / 1499 (95.06 %) 1425 / 1499 (95.06 %) 1425 / 1499 (95.06 %) 1425 / 1499 (95.06 %) 1426 / 1499 (95.13 %) 1426 / 1499 (95.13 %) 1426 / 1499 (95.13 %) 1426 / 1499 (95.13 %) 1426 / 1499 (95.13 %) 1426 / 1499 (95.13 %) 1426 / 1499 (95.13 %) 1427 / 1499 (95.20 %) 1427 / 1499 (95.20 %) 1427 / 1499 (95.20 %) 1428 / 1498 (95.33 %) 1429 / 1498 (95.39 %) 1429 / 1498 (95.39 %) 1429 / 1498 (95.39 %) 1430 / 1498 (95.46 %) 1431 / 1497 (95.59 %) 1432 / 1497 (95.66 %) 1433 / 1497 (95.72 %) 1433 / 1497 (95.72 %) 1433 / 1497 (95.72 %) 1433 / 1497 (95.72 %) 1433 / 1497 (95.72 %) 1434 / 1497 (95.79 %) 1435 / 1496 (95.92 %) 1435 / 1496 (95.92 %) 1435 / 1496 (95.92 %) 1436 / 1496 (95.99 %) 1436 / 1496 (95.99 %) 1437 / 1496 (96.06 %) 1437 / 1496 (96.06 %) 1437 / 1496 (96.06 %) 1438 / 1496 (96.12 %) 1439 / 1494 (96.32 %) 1440 / 1494 (96.39 %) 1440 / 1494 (96.39 %) 1440 / 1494 (96.39 %) 1440 / 1494 (96.39 %) 1441 / 1493 (96.52 %) 1442 / 1493 (96.58 %) 1443 / 1493 (96.65 %) 1443 / 1493 (96.65 %) 1443 / 1493 (96.65 %) 1444 / 1493 (96.72 %) 1444 / 1493 (96.72 %) 1445 / 1493 (96.78 %) 1446 / 1493 (96.85 %) 1447 / 1493 (96.92 %) 1448 / 1493 (96.99 %) 1448 / 1493 (96.99 %) 1448 / 1493 (96.99 %) 1448 / 1493 (96.99 %) 1448 / 1493 (96.99 %) 1448 / 1493 (96.99 %) 1448 / 1493 (96.99 %) 1448 / 1493 (96.99 %) 1449 / 1493 (97.05 %) 1450 / 1493 (97.12 %) 1451 / 1493 (97.19 %) 1452 / 1493 (97.25 %) 1452 / 1493 (97.25 %) 1452 / 1493 (97.25 %) 1452 / 1493 (97.25 %) 1453 / 1493 (97.32 %) 1454 / 1493 (97.39 %) 1454 / 1493 (97.39 %) 1455 / 1493 (97.45 %) 1456 / 1493 (97.52 %) 1456 / 1493 (97.52 %) 1456 / 1493 (97.52 %) 1457 / 1493 (97.59 %) 1457 / 1493 (97.59 %) 1457 / 1493 (97.59 %) 1457 / 1493 (97.59 %) 1458 / 1492 (97.72 %) 1458 / 1492 (97.72 %) 1459 / 1492 (97.79 %) 1459 / 1492 (97.79 %) 1459 / 1492 (97.79 %) 1459 / 1492 (97.79 %) 1459 / 1492 (97.79 %) 1459 / 1492 (97.79 %) 1459 / 1492 (97.79 %) 1460 / 1492 (97.86 %) 1460 / 1492 (97.86 %) 1460 / 1492 (97.86 %) 1460 / 1492 (97.86 %) 1460 / 1492 (97.86 %) 1460 / 1492 (97.86 %) 1460 / 1492 (97.86 %) 1460 / 1492 (97.86 %) 1460 / 1492 (97.86 %) 1460 / 1492 (97.86 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1461 / 1492 (97.92 %) 1462 / 1492 (97.99 %) 1462 / 1492 (97.99 %) 1462 / 1492 (97.99 %) 1462 / 1492 (97.99 %) 1463 / 1492 (98.06 %) 1463 / 1492 (98.06 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1464 / 1492 (98.12 %) 1465 / 1492 (98.19 %) 1465 / 1492 (98.19 %) 1465 / 1492 (98.19 %) 1465 / 1492 (98.19 %) 1465 / 1492 (98.19 %) 1465 / 1492 (98.19 %) 1465 / 1492 (98.19 %) 1465 / 1492 (98.19 %) 1465 / 1492 (98.19 %) 1465 / 1492 (98.19 %) 1465 / 1492 (98.19 %) 1465 / 1492 (98.19 %) 1466 / 1492 (98.26 %) 1466 / 1492 (98.26 %) 1466 / 1492 (98.26 %) 1466 / 1492 (98.26 %) 1466 / 1492 (98.26 %) 1466 / 1492 (98.26 %) 1466 / 1492 (98.26 %) 1466 / 1492 (98.26 %) 1466 / 1492 (98.26 %) 1466 / 1492 (98.26 %) 1466 / 1492 (98.26 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1467 / 1492 (98.32 %) 1468 / 1492 (98.39 %) 1468 / 1492 (98.39 %) 1468 / 1492 (98.39 %) 1468 / 1492 (98.39 %) 1468 / 1492 (98.39 %) 1468 / 1492 (98.39 %) 1468 / 1492 (98.39 %) 1468 / 1492 (98.39 %) 1468 / 1492 (98.39 %) 1469 / 1492 (98.46 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1470 / 1492 (98.53 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1471 / 1492 (98.59 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1472 / 1492 (98.66 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1473 / 1492 (98.73 %) 1474 / 1492 (98.79 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1475 / 1492 (98.86 %) 1476 / 1492 (98.93 %) 1476 / 1492 (98.93 %) 1476 / 1492 (98.93 %) 1476 / 1492 (98.93 %) 1476 / 1492 (98.93 %) 1476 / 1492 (98.93 %) 1476 / 1492 (98.93 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1477 / 1492 (98.99 %) 1478 / 1492 (99.06 %) 1478 / 1492 (99.06 %) 1478 / 1492 (99.06 %) 1479 / 1492 (99.13 %) 1479 / 1492 (99.13 %) 1479 / 1492 (99.13 %) 1479 / 1492 (99.13 %) 1479 / 1492 (99.13 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1480 / 1492 (99.20 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1481 / 1492 (99.26 %) 1482 / 1492 (99.33 %) 1482 / 1492 (99.33 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1483 / 1492 (99.40 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1484 / 1492 (99.46 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1485 / 1492 (99.53 %) 1486 / 1492 (99.60 %) 1486 / 1492 (99.60 %) 1486 / 1492 (99.60 %) 1486 / 1492 (99.60 %) 1486 / 1492 (99.60 %) 1486 / 1492 (99.60 %) 1486 / 1492 (99.60 %) 1486 / 1492 (99.60 %) 1486 / 1492 (99.60 %) 1486 / 1492 (99.60 %) 1486 / 1492 (99.60 %) 1486 / 1492 (99.60 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1487 / 1492 (99.66 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1488 / 1492 (99.73 %) 1489 / 1492 (99.80 %) 1489 / 1492 (99.80 %) 1489 / 1492 (99.80 %) 1489 / 1492 (99.80 %) 1489 / 1492 (99.80 %) 1489 / 1492 (99.80 %) 1489 / 1492 (99.80 %) 1489 / 1492 (99.80 %) 1489 / 1492 (99.80 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1490 / 1492 (99.87 %) 1491 / 1492 (99.93 %) 1491 / 1492 (99.93 %) 1492 / 1492 (100.00 %) 1492 / 1492 (100.00 %) 1492 / 1492 (100.00 %) 1492 / 1492 (100.00 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %) 1493 / 1492 (100.07 %)
+Sorting by adjusted Support
+  0: 22,  8, 10.578674 FALSE
+  1: 22,  3, 7.907158 FALSE
+  2: 22,  8, 7.886749 FALSE
+  3: 22,  9, 7.573591 FALSE
+  4: 22,  1, 7.249542 FALSE
+  5: 22,  3, 6.798004 FALSE
+  6: 22, 10, 6.696259 FALSE
+  7: 22,  7, 6.692450 FALSE
+  8: 22,  2, 6.680939 FALSE
+  9: 22,  7, 6.447296 FALSE
+ 10: 22, 11, 6.303833 FALSE
+ 11: 22,  2, 6.127106 FALSE
+ 12: 22, 10, 6.093750 FALSE
+ 13: 22,  7, 6.068359 FALSE
+ 14: 22,  8, 6.024414 FALSE
+ 15: 22,  6, 5.928444 FALSE
+ 16: 22, 10, 5.869293 FALSE
+ 17: 22, 11, 5.706985 FALSE
+ 18: 22,  9, 5.632965 FALSE
+ 19: 22,  9, 5.571289 FALSE
+ 20: 22,  6, 5.455109 FALSE
+ 21: 22,  2, 5.432983 FALSE
+ 22: 22,  9, 5.307892 FALSE
+ 23: 22,  8, 5.251953 FALSE
+ 24: 22,  4, 5.221191 FALSE
+ 25: 22,  9, 5.128181 FALSE
+ 26: 22,  7, 5.011581 FALSE
+ 27: 22,  8, 4.938354 FALSE
+ 28: 22,  1, 4.930206 FALSE
+ 29: 22,  4, 4.871368 FALSE
+----------------------------------------------------------------
+ref (0) adjusted support : 49.947266, ref temp Support 400.000000 
+conflicts 3 	:	   22    22    22 
+support f tree 	:	    3     7     1 
+adjusted     	:	 4.10  3.94  0.51 
+tempadjusted 	:	 36.00  16.00  8.00 
+----------------------------------------------------------------
+ref (1) adjusted support : 154.839355, ref temp Support 462.000000 
+conflicts 3 	:	   22    22    22 
+support f tree 	:	    1     1     1 
+adjusted     	:	 0.75  0.67  0.69 
+tempadjusted 	:	 7.00  5.00  4.00 
+----------------------------------------------------------------
+ref (2) adjusted support : 47.008362, ref temp Support 375.000000 
+conflicts 8 	:	   22    22    22    22    22    22    22    22 
+support f tree 	:	    8     1     1     1     1     2     3     1 
+adjusted     	:	 4.94  0.69  0.79  0.57  7.25  6.68  1.83  0.51 
+tempadjusted 	:	 156.00  124.00  90.00  68.00  35.00  29.00  22.00  8.00 
+----------------------------------------------------------------
+ref (3) adjusted support : 164.596710, ref temp Support 522.000000 
+conflicts 3 	:	   22    20    22 
+support f tree 	:	    1     1     1 
+adjusted     	:	 1.31  0.14  0.51 
+tempadjusted 	:	 275.00  61.00  5.00 
+----------------------------------------------------------------
+ref (4) adjusted support : 48.209137, ref temp Support 136.000000 
+conflicts 4 	:	   22    22    22    22 
+support f tree 	:	    4     2     7     1 
+adjusted     	:	 5.22  2.81  6.07  0.50 
+tempadjusted 	:	 57.00  28.00  24.00  6.00 
+----------------------------------------------------------------
+ref (5) adjusted support : 119.235596, ref temp Support 320.000000 
+conflicts 5 	:	   22    22    21    22    22 
+support f tree 	:	    1     1     1     1     1 
+adjusted     	:	 2.98  2.31  0.25  0.50  0.50 
+tempadjusted 	:	 51.00  37.00  2.00  1.00  1.00 
+----------------------------------------------------------------
+ref (6) adjusted support : 60.292931, ref temp Support 379.000000 
+conflicts 7 	:	   22    22    14    14    22    14    14 
+support f tree 	:	    8    11     1     1     1     3     1 
+adjusted     	:	 10.58  5.71  0.01  0.00  0.50  0.01  0.00 
+tempadjusted 	:	 105.00  36.00  16.00  5.00  4.00  4.00  2.00 
+----------------------------------------------------------------
+ref (7) adjusted support : 85.962879, ref temp Support 558.000000 
+conflicts 6 	:	   22    22    21    19    11     8 
+support f tree 	:	    9     4     1     1     1     1 
+adjusted     	:	 7.57  3.14  0.25  0.06  0.00  0.00 
+tempadjusted 	:	 120.00  89.00  12.00  4.00  4.00  2.00 
+----------------------------------------------------------------
+ref (8) adjusted support : 157.686287, ref temp Support 1037.000000 
+conflicts 9 	:	   22    12    22    22    22    14    19    14    17 
+support f tree 	:	    1     1     1     3     1     1     1     1     1 
+adjusted     	:	 2.10  0.01  0.51  3.23  1.16  0.00  0.06  0.00  0.02 
+tempadjusted 	:	 63.00  54.00  34.00  29.00  8.00  7.00  6.00  3.00  2.00 
+----------------------------------------------------------------
+ref (9) adjusted support : 98.754120, ref temp Support 747.000000 
+conflicts 8 	:	   22    22    22    22    22    22    22    21 
+support f tree 	:	    1     2     1     1     2     3     1     1 
+adjusted     	:	 1.48  1.16  0.80  7.25  6.68  3.46  0.51  0.25 
+tempadjusted 	:	 526.00  59.00  53.00  34.00  29.00  18.00  8.00  5.00 
+----------------------------------------------------------------
+ref (10) adjusted support : 70.546005, ref temp Support 447.000000 
+conflicts 9 	:	   22    22    21    22    22    22    22    21    14 
+support f tree 	:	    4     7     1     2     1     1     1     1     1 
+adjusted     	:	 2.34  5.01  0.29  3.02  0.69  0.61  0.82  0.26  0.00 
+tempadjusted 	:	 123.00  63.00  29.00  28.00  10.00  10.00  9.00  5.00  5.00 
+----------------------------------------------------------------
+ref (11) adjusted support : 54.420593, ref temp Support 614.000000 
+conflicts 10 	:	   22    22    22    22    22    22    22    20    22    21 
+support f tree 	:	    1     7     1     4     3     1     1     1     1     1 
+adjusted     	:	 1.31  5.01  0.76  4.87  2.23  1.09  0.79  0.13  0.50  0.25 
+tempadjusted 	:	 260.00  71.00  31.00  26.00  11.00  11.00  9.00  9.00  3.00  2.00 
+----------------------------------------------------------------
+ref (12) adjusted support : 57.563385, ref temp Support 338.000000 
+conflicts 14 	:	   22    22    22    22    22    22    22    22    22    22    22    14    21    17 
+support f tree 	:	    1     2     1     3     3     1     3     1     1     1     1     1     1     1 
+adjusted     	:	 1.12  1.27  0.57  7.91  1.54  3.62  1.83  1.22  0.51  0.64  0.63  0.00  0.25  0.02 
+tempadjusted 	:	 144.00  137.00  64.00  50.00  43.00  35.00  22.00  18.00  18.00  10.00  10.00  5.00  3.00  3.00 
+----------------------------------------------------------------
+ref (13) adjusted support : 81.554688, ref temp Support 235.000000 
+conflicts 7 	:	   22    22    22    22    22    22    22 
+support f tree 	:	    8     1     1     3     1     2     1 
+adjusted     	:	 7.89  2.59  1.51  1.76  1.14  1.48  0.56 
+tempadjusted 	:	 36.00  29.00  25.00  9.00  8.00  6.00  5.00 
+----------------------------------------------------------------
+ref (14) adjusted support : 59.003693, ref temp Support 194.000000 
+conflicts 6 	:	   22    22    22    22    22    22 
+support f tree 	:	    8     4     5     2     1     1 
+adjusted     	:	 7.89  5.22  3.69  1.47  0.50  0.50 
+tempadjusted 	:	 35.00  35.00  29.00  11.00  6.00  2.00 
+----------------------------------------------------------------
+ref (15) adjusted support : 148.320145, ref temp Support 936.000000 
+conflicts 3 	:	   22    22    22 
+support f tree 	:	    1     1     1 
+adjusted     	:	 1.21  0.75  0.53 
+tempadjusted 	:	 30.00  5.00  5.00 
+----------------------------------------------------------------
+ref (16) adjusted support : 139.787598, ref temp Support 418.000000 
+conflicts 5 	:	   22    22    22    22    21 
+support f tree 	:	    1     1     1     1     1 
+adjusted     	:	 4.93  2.17  1.25  0.51  0.26 
+tempadjusted 	:	 53.00  23.00  16.00  6.00  1.00 
+----------------------------------------------------------------
+ref (17) adjusted support : 118.967869, ref temp Support 834.000000 
+conflicts 4 	:	   22    22    22    22 
+support f tree 	:	    6     2     1     3 
+adjusted     	:	 5.93  1.62  0.76  1.51 
+tempadjusted 	:	 54.00  38.00  15.00  10.00 
+----------------------------------------------------------------
+ref (18) adjusted support : 89.846251, ref temp Support 642.000000 
+conflicts 8 	:	   19    22    22    22    12    21    13    11 
+support f tree 	:	    1     6     2     2     1     1     1     1 
+adjusted     	:	 0.06  5.93  1.17  2.64  0.00  0.25  0.00  0.00 
+tempadjusted 	:	 62.00  54.00  31.00  26.00  18.00  12.00  5.00  4.00 
+----------------------------------------------------------------
+ref (19) adjusted support : 145.033447, ref temp Support 431.000000 
+conflicts 4 	:	   22    22    22    21 
+support f tree 	:	    2     1     3     1 
+adjusted     	:	 5.43  0.55  2.31  0.25 
+tempadjusted 	:	 45.00  9.00  8.00  1.00 
+Tree certainty under stochastic bipartition adjustment for this tree: 13.377076
+Relative tree certainty under stochastic bipartition adjustment for this tree: 0.668854
+
+Tree certainty including all conflicting bipartitions (TCA) under stochastic bipartition adjustment for this tree: 13.028989
+Relative tree certainty including all conflicting bipartitions (TCA) under stochastic bipartition adjustment for this tree: 0.651449
+
+Tree certainty under uniform bipartition adjustment for this tree: 7.886383
+Relative tree certainty under uniform bipartition adjustment for this tree: 0.394319
+
+Tree certainty including all conflicting bipartitions (TCA) under uniform bipartition adjustment for this tree: 8.035878
+Relative tree certainty including all conflicting bipartitions (TCA) under uniform bipartition adjustment for this tree: 0.401794
+
+probability ic	&   61 &   95 &   43 &   93 &   49 &   83 &   39 &   59 &   85 &   64 &   64 &   58 &   46 &   56 &   47 &   93 &   78 &   72 &   66 &   77 
+probability ica	&   54 &   95 &   34 &   93 &   43 &   83 &   40 &   59 &   85 &   58 &   64 &   51 &   46 &   56 &   45 &   93 &   78 &   72 &   66 &   77 
+
+Lossless ic  	&   58 &   88 &   12 &    7 &   12 &   42 &   24 &   32 &   68 &    2 &   24 &   12 &   12 &   43 &   38 &   80 &   49 &   66 &   57 &   54 
+Lossless ica 	&   58 &   88 &   12 &   22 &   17 &   39 &   32 &   29 &   68 &    2 &   27 &   24 &   13 &   35 &   27 &   80 &   49 &   66 &   51 &   54 
+
+
+
+Time for Computation of TC and IC scores 0.195259
+Tree with corrected (for partial gene trees) uniform IC scores as branch labels written to file:  /lhome/lkobertkn/Projects/ICTC/RAxML/GIT/UnifOnlyPull7May2015/confAndUnifBip/RAxML_Corrected_Uniform_IC_Score_BranchLabels.TEST019
+
+Execution information file written to :  /lhome/lkobertkn/Projects/ICTC/RAxML/GIT/UnifOnlyPull7May2015/confAndUnifBip/RAxML_info.TEST019
