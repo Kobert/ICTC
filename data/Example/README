@@ -1,0 +1,7 @@
+Tree files for the simple, contrieved example of IC calculations.
+
+To run the analysis, simply compile any of the implementations in the ICTC/software/ folder and run as:
+
+./raxmlHPC -f i -t exampleRefTree.txt -z exampleTrees.txt -m GTRCAT -n NAME
+
+where for "-n NAME", NAME must be a unique identifier for every analysis.
